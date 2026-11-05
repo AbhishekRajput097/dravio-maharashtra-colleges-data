@@ -1,0 +1,67 @@
+college_name,institute_type,total_seats,aiq,state_quota,esic_ip,nri_quota,open_seats,sc,st,obc,vj,nt,def,seb,ews,mk,iq_quota
+"All India Institute of Medical Sciences, Nagpur",AIIMS,125,125,0,0,0,51,19,9,34,0,0,0,0,12,0,0
+"ESIC MEDICAL COLLEGE AND HOSPITAL, ANDHERI",ESIC,50,3,25,22,0,0,0,0,0,0,0,0,0,0,0,0
+"B. J. Govt. Medical College, Pune",State Government,250,39,211,0,0,57,27,15,40,7,17,5,21,21,1,0
+"Dr Vaishampayan Memorial Medical College, Solapur",State Government,200,31,169,0,0,45,22,15,32,5,13,5,17,17,1,0
+"Dr. Shankarrao Chavan Govt. Medical College, Nanded",State Government,150,23,127,0,0,33,17,8,25,4,10,5,12,13,0,0
+"Government Medical College, Alibag",State Government,85,0,85,0,0,21,11,6,16,2,7,5,9,8,0,0
+"Government Medical College, Miraj",State Government,169,0,169,0,0,45,22,11,33,5,13,5,17,17,1,0
+"Government Medical College, Ambernath",State Government,85,0,85,0,0,20,11,6,16,3,6,5,9,9,0,0
+"Government Medical college and District Hospital, Ratnagiri",State Government,100,15,85,0,0,20,11,6,17,2,6,5,9,9,0,0
+"Government Medical College L.T. Marg, Near L.T. Marg Police Station, Mumbai 0 400001",State Government,50,7,43,0,0,10,6,3,8,1,4,3,4,4,0,0
+"Government Medical College, Akola",State Government,200,30,170,0,0,46,22,11,33,5,14,5,17,17,0,0
+"Government Medical College, Amravati",State Government,100,15,85,0,0,20,11,6,16,3,6,5,9,9,0,0
+"Government Medical College, Bhandara",State Government,100,15,85,0,0,21,11,6,16,3,7,5,8,8,0,0
+"Government Medical College, Buldhana",State Government,100,15,85,0,0,21,11,6,15,2,7,5,8,9,0,0
+"Government Medical College, Chandrapur",State Government,150,23,127,0,0,33,17,9,24,4,10,5,12,13,0,0
+"Government Medical College, Gadchiroli",State Government,100,15,85,0,0,21,11,6,16,2,7,5,9,8,0,0
+"Government Medical College, Gondia",State Government,150,23,127,0,0,33,17,9,24,4,10,5,12,13,0,0
+"Government Medical College, Hingoli",State Government,100,15,85,0,0,21,11,6,16,3,6,5,9,9,0,0
+"Government Medical College, Jalgaon",State Government,150,24,126,0,0,33,16,9,24,4,10,5,13,12,0,0
+"Government Medical College, Jalna",State Government,100,16,84,0,0,20,11,6,16,2,8,6,8,8,0,0
+"Government Medical College, Latur",State Government,150,22,128,0,0,33,17,9,24,4,10,5,13,13,0,0
+"Government Medical College, Nagpur",State Government,250,40,210,0,0,57,27,15,40,7,16,5,21,21,1,0
+"Government Medical College, Nandurbar",State Government,100,15,85,0,0,21,11,6,16,3,7,5,8,8,0,0
+"Government Medical College, Parbhani",State Government,100,15,85,0,0,20,11,6,16,3,7,5,9,8,0,0
+"Government Medical College, Satara",State Government,100,15,85,0,0,20,11,6,16,2,7,5,9,9,0,0
+"Government Medical College, Sindhudurg",State Government,100,15,85,0,0,21,11,6,16,2,7,5,9,8,0,0
+"Government Medical College, Washim",State Government,100,15,85,0,0,20,11,6,16,3,7,5,8,9,0,0
+"Government Medical College,Nashik",State Government,50,7,43,0,0,10,6,3,8,1,4,3,4,4,0,0
+"Grant Medical College, Mumbai",State Government,250,40,210,0,0,57,27,15,40,6,17,5,21,21,1,0
+"H.B.T. Medical College & Dr. R.N. Cooper Municipal General Hospital, Juhu, Mumbai",State Government,200,30,170,0,0,46,22,12,32,5,14,5,17,17,0,0
+"Indira Gandhi Medical College & Hospital, Nagpur",State Government,200,31,169,0,0,46,22,12,32,5,13,5,17,17,0,0
+"Lokmanya Tilak Municipal Medical College, Sion, Mumbai",State Government,200,30,170,0,0,46,22,12,32,5,14,5,17,17,0,0
+"Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha",State Government,100,15,85,0,0,20,11,6,16,3,7,5,8,9,0,0
+"Rajashree Chatrapati Shahu Maharaj Government Medical College, Kolhapur",State Government,150,23,127,0,0,32,16,9,24,4,10,5,13,13,1,0
+"Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane",State Government,100,15,85,0,0,20,11,6,16,3,7,5,9,8,0,0
+"Seth GS Medical College, Mumbai",State Government,250,38,212,0,0,59,28,15,40,6,17,5,21,21,0,0
+"Shri Vasant Rao Naik Govt. Medical College, Yavatmal",State Government,200,31,169,0,0,46,22,11,33,5,13,5,17,17,0,0
+"Sri Bhausaheb Hire Government Medical College, Dhule",State Government,150,24,126,0,0,32,16,9,24,4,10,5,12,13,1,0
+"SRTR Medical College, Ambajogai",State Government,150,24,126,0,0,33,16,9,24,4,10,5,13,12,0,0
+"Topiwala National Medical College, Mumbai",State Government,150,23,127,0,0,33,16,9,24,4,10,5,13,13,0,0
+"ACPM Medical College, Dhule",Private Medical Colleges,100,0,100,0,0,52,6,4,10,1,4,0,8,0,0,15
+"Ashwini Rural Medical College, Hospital & Research Centre, Solapur",Private Medical Colleges,100,0,100,0,0,51,6,4,10,1,4,0,9,0,0,15
+"B.K.L. Walawalkar Rural Medical College, Ratnagiri",Private Medical Colleges,150,0,150,0,0,77,10,5,14,3,6,0,12,0,0,23
+"Bharatratna Atal Bihari Vajpayee Medical College, Pune",Private Medical Colleges,100,0,100,0,0,51,6,3,10,2,4,0,9,0,0,15
+"Dr. Rajendra Gode Medical College, Amravati",Private Medical Colleges,150,0,150,0,0,77,10,5,14,2,6,0,13,0,0,23
+"Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Medical College, Amravati",Private Medical Colleges,150,0,150,0,0,77,10,5,14,3,5,0,13,0,0,23
+"Dr. Ulhas Patil Medical College & Hospital, Jalgaon",Private Medical Colleges,200,0,200,0,0,103,13,7,19,3,8,0,17,0,0,30
+"Dr.Vasantrao Pawar Medical Col. Hosp. Research Centre, Nashik",Private Medical Colleges,120,0,120,0,0,62,8,4,11,2,5,0,10,0,0,18
+GOVERNMENT MEDICAL COLLEGE DHARASHIV,State Government,100,15,85,0,0,21,11,6,16,3,7,5,8,8,0,0
+GOVT. MEDICAL COLLEGE CH. SAMBHAJINAGAR,State Government,200,31,169,0,0,45,22,12,32,5,13,5,17,17,1,0
+"Dr. Vithalrao Vikhe Patil Foundations Medical College & Hospital, Ahmednagar",Private Medical Colleges,200,0,200,0,0,103,13,7,19,3,8,0,17,0,0,30
+"Indian Institute of Medical Science & Research, Jalna",Private Medical Colleges,150,0,150,0,0,127,0,0,0,0,0,0,0,0,0,23
+"KJ Somaiyya Medical College & Research Centre, Mumbai",Private Medical Colleges,100,0,100,0,0,51,6,4,10,1,4,0,9,0,0,15
+"Maharashtra Institute of Medical Education & Research, Talegaon, Pune",Private Medical Colleges,150,0,150,0,0,77,10,5,14,2,6,0,13,0,0,23
+"Maharashtra Institute of Medical Sciences & Research, Latur",Private Medical Colleges,150,0,150,0,0,77,10,5,14,2,6,0,13,0,0,23
+"N. K. P. Salve Institute of Medical Sci Research Centre Lata Mangeshkar Hospital, Nagpur",Private Medical Colleges,200,0,200,0,0,103,13,7,19,3,8,0,17,0,0,30
+"Parbhani Medical College, Parbhani",Private Medical Colleges,150,0,150,0,0,77,10,5,14,2,7,0,12,0,0,23
+"Prakash Institute of Medical Sciences & Research, Sangli",Private Medical Colleges,150,0,150,0,0,77,10,5,14,2,6,0,13,0,0,23
+"R K Damani Medical College ShriRamchandra Institute of Medical Sciences, Chhatrapati Sambhajinagar",Private Medical Colleges,50,0,50,0,0,25,3,2,5,1,2,0,4,0,0,8
+"Sindhudurg Shikshan Prasarak Mandal Medical College Lifetime Hospital, Sindhudurg",Private Medical Colleges,149,0,149,0,0,77,10,5,15,2,5,0,4,0,0,22
+"SMBT Institute of Medical Sciences & Research Centre, Nandihills, Nashik",Private Medical Colleges,150,0,150,0,0,77,10,5,14,2,7,0,12,0,0,23
+"Smt. Kashibai Navale Medical College and General Hospital, Pune",Private Medical Colleges,150,0,150,0,0,77,9,6,14,2,6,0,13,0,0,23
+"Terna Medical College, Navi Mumbai",Private Medical Colleges,150,0,150,0,0,77,10,5,14,2,7,0,13,0,0,22
+"Vedantaa Institute of Medical Sciences, Palghar, Maharashtra",Private Medical Colleges,150,0,150,0,0,77,10,5,14,3,6,0,13,0,0,22
+DR. N. Y. TASGAONKAR INSTITUTE OF MEDICAL SCIENCE KARJAT,Private Medical Colleges,100,0,100,0,0,52,6,4,10,2,3,0,8,0,0,15
+GOVERNMENT MEDICAL COLLEGE BARAMATI,State Government,100,15,85,0,0,20,11,6,16,2,7,5,9,9,0,0

@@ -1,0 +1,214 @@
+State,Dataset,File,Column,Quota
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,seat_type,State Quota
+Andhra Pradesh,Fees,andhra_pradesh_fees_data.csv,seat_type,Mgt
+Andhra Pradesh,Fees,andhra_pradesh_fees_data.csv,seat_type,Mgt Quota
+Andhra Pradesh,Fees,andhra_pradesh_fees_data.csv,seat_type,NRI
+Andhra Pradesh,Fees,andhra_pradesh_fees_data.csv,seat_type,State
+Andhra Pradesh,Fees,andhra_pradesh_fees_data.csv,seat_type,State Quota
+Bihar,Cutoff,bihar_cutoff_data.csv,seat_type_quota,Muslim Minority Quota
+Bihar,Cutoff,bihar_cutoff_data.csv,seat_type_quota,NRI Quota
+Bihar,Cutoff,bihar_cutoff_data.csv,seat_type_quota,Sikh Minority Quota
+Bihar,Cutoff,bihar_cutoff_data.csv,seat_type_quota,State Quota
+Bihar,Cutoff,bihar_cutoff_data.csv,seat_type_quota,UR (Open/Merit)
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,seat_type,GQ
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,seat_type,LQ
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,seat_type,MQ
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,seat_type,NQ
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,seat_type,GQ
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,seat_type,LQ
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,seat_type,MQ
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,seat_type,NQ
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,seat_type,PH
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,seat_type,Management Quota
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,seat_type,NRI Quota
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,seat_type,State Quota
+Himachal Pradesh,Seats,himachal_pradesh_seat_data.csv,quota,State/Govt Quota
+Karnataka,Cutoff,karnataka_cutoff_data.csv,quota_seat_type,Management / Deemed Quota
+Karnataka,Cutoff,karnataka_cutoff_data.csv,quota_seat_type,NRI Quota
+Karnataka,Cutoff,karnataka_cutoff_data.csv,quota_seat_type,State Private Quota (KEA)
+Karnataka,Fees,karnataka_fees_data.csv,quota_seat_type,Management / Deemed Quota
+Karnataka,Fees,karnataka_fees_data.csv,quota_seat_type,NRI Quota
+Karnataka,Fees,karnataka_fees_data.csv,quota_seat_type,State Private Quota (KEA)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,FF (Freedom Fighter)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,GQ (Open)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,GS (Govt Servant)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,NRI
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,PH (Divyaang)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,PH (Divyang/Handicapped)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,SN (NRI-Sponsored)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,seat_type,SN (Sainik)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against Orphan
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against Orphan-
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against OrphanC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against PH (EMR
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against PH-EWS
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against PH-NT2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against PH-SC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against PH-SEBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Against PH-ST
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,DEF1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,DEF1 W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,DEF2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,DEF2 W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,DEF3
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,DEF3 W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMNTC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMNTCW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMNTD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMNTDW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMOBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMOBCW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMSC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMSCW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMSEBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMSEBCW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMVJA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EMVJAW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EWS
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,EWS(W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HAORP-C ORPHAN-OBC Inter-se Orphan
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HEM OBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HEM OBCW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HEWS
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HEWS W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HNTB
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HNTB W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HNTC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HNTC W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HNTD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HNTD W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HOBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HOBC W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HOPEN
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HOPENW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HSC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HSCW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HSEBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HSEBC W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HST
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HSTW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HVJA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,HVJAW
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,I.Q.
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Inter-se Orphan
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,MINO
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,MKB
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,MKB W
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,NTB
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,NTB(W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,NTC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,NTC(W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,NTD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,NTD(W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,OBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,OBC(W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,OPEN
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,OPEN (W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHAN-EWS Against Orphan-
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHAN-NTC Orphan-A NT2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHAN-NTD Against Orphan-
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHAN-OBC Inter-se Orphan
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHAN-OBC Orphan-A OBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHAN-SEB Inter-se Orphan
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHAN-VJA Inter-se Orphan
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-EW Against OrphanC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-NT Against OrphanC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-NT Orphan-C NT1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-NT Orphan-C NT2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-OB Against OrphanC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-OB Orphan-C OBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-SC Against OrphanC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-SC Orphan-C SC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-SE Against OrphanC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-SE Orphan-C SEBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-ST Orphan-C ST
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ORPHANC-VJ Orphan-C VJ
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,Orphan-A
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,OrphanC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,PH
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,PWD-OPEN
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,SC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,SC (W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,SEBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,SEBC(W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ST
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,ST (W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,VJA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,seat_type,VJA (W)
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Aligarh Muslim
+University (AMU)
+Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,All India
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Deemed/Paid Seats
+Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Delhi NCR
+Children/Widows of
+Personnel of the
+Armed Forces (CW)
+DU Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Delhi NCR
+Children/Widows of
+Personnel of the
+Armed Forces (CW)
+IP Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Delhi University
+Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Employees State
+Insurance
+Scheme(ESI)"
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Foreign Country
+Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,IP University Quota
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Internal -
+Puducherry UT
+Domicile"
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Internal -Puducherry
+UT Domicile"
+Mcc,Cutoff,mcc_cutoff.csv,quota,Jain Minority Quota
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Muslim Minority
+Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,"Non-Resident
+Indian(AMU)Quota"
+Mcc,Cutoff,mcc_cutoff.csv,quota,Non-Resident Indian
+Mcc,Cutoff,mcc_cutoff.csv,quota,Open Seat Quota
+Mcc,Fees,mcc_fees.csv,quota,AIQ Quota
+Mcc,Fees,mcc_fees.csv,quota,IP Quota
+Mcc,Fees,mcc_fees.csv,quota,State Quota
+Mccs,Seats,mcc_seats.csv,quota,AIQ
+Mccs,Seats,mcc_seats.csv,quota,Aligarh Muslim University (AMU) Quota
+Mccs,Seats,mcc_seats.csv,quota,Delhi NCR Children/Widows of Personnel of the Armed Forces (CW) DU Quota
+Mccs,Seats,mcc_seats.csv,quota,Delhi NCR Children/Widows of Personnel of the Armed Forces (CW) IP Quota
+Mccs,Seats,mcc_seats.csv,quota,Delhi University Quota
+Mccs,Seats,mcc_seats.csv,quota,IP University Quota
+Mccs,Seats,mcc_seats.csv,quota,Internal -Puducherry UT Domicile
+Mccs,Seats,mcc_seats.csv,quota,Non-Resident Indian(AMU)Quota
+Mccs,Seats,mcc_seats.csv,quota,Open Seat Quota
+Rajasthan,Cutoff,rajasthan_cutoff.csv,quota,EWS Quota
+Rajasthan,Cutoff,rajasthan_cutoff.csv,quota,GQ
+Rajasthan,Cutoff,rajasthan_cutoff.csv,quota,MBC Quota
+Rajasthan,Cutoff,rajasthan_cutoff.csv,quota,OBC Quota
+Rajasthan,Cutoff,rajasthan_cutoff.csv,quota,SC Quota
+Rajasthan,Cutoff,rajasthan_cutoff.csv,quota,ST Quota
+Rajasthan,Cutoff,rajasthan_cutoff.csv,seat_type,Gen. Seat
+Rajasthan,Cutoff,rajasthan_cutoff.csv,seat_type,Govt. Seat
+Rajasthan,Cutoff,rajasthan_cutoff.csv,seat_type,Mgmt. Seat
+Rajasthan,Cutoff,rajasthan_cutoff.csv,seat_type,NRI Seat
+Rajasthan,Cutoff,rajasthan_cutoff.csv,seat_type,mgmt. Seat
+Rajasthan,Fees,rajasthan_fees.csv,seat_type,AIQ
+Rajasthan,Fees,rajasthan_fees.csv,seat_type,Mgt Quota
+Rajasthan,Fees,rajasthan_fees.csv,seat_type,NRI
+Rajasthan,Fees,rajasthan_fees.csv,seat_type,Payment (Govt./Govt Society)
+Rajasthan,Fees,rajasthan_fees.csv,seat_type,State Quota
+Up,Cutoff,up_cutoff_data.csv,quota,Minority
+Up,Cutoff,up_cutoff_data.csv,quota,Regular
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,quota,Mgt Quota
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,quota,NRI Quota
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,quota,State Quota
+Uttarakhand,Fees,uttarakhand_fees_data.csv,seat_type,Managment Quota
+Uttarakhand,Fees,uttarakhand_fees_data.csv,seat_type,NRI Quota
+Uttarakhand,Fees,uttarakhand_fees_data.csv,seat_type,State Quota
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,quota,Management Quota
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,quota,NRI Quota
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,quota,State Quota
+West Bengal,Fees,west_bengal_fees_data.csv,quota,Management Quota
+West Bengal,Fees,west_bengal_fees_data.csv,quota,State Quota

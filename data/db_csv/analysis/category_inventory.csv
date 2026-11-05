@@ -1,0 +1,236 @@
+State,Dataset,File,Column,Category
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,BCA
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,BCB
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,BCC
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,BCD
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,BCE
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,MINORITY
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,OC
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,SC1
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,SC2
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,SC3
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,ST
+Bihar,Cutoff,bihar_cutoff_data.csv,category,BC
+Bihar,Cutoff,bihar_cutoff_data.csv,category,EBC
+Bihar,Cutoff,bihar_cutoff_data.csv,category,EWS
+Bihar,Cutoff,bihar_cutoff_data.csv,category,SC
+Bihar,Cutoff,bihar_cutoff_data.csv,category,ST
+Bihar,Cutoff,bihar_cutoff_data.csv,category,UR
+Bihar,Fees,bihar_fees_data.csv,category,General
+Bihar,Fees,bihar_fees_data.csv,category,General / Minority
+Bihar,Fees,bihar_fees_data.csv,category,General / Muslim Minority
+Bihar,Fees,bihar_fees_data.csv,category,NRI
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,EW
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,MQ
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,NRI
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,OP
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,SC
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,SE
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,ST
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,EW
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,EWPH
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,MQ
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,NRI
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,OP
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,OPPH
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,SC
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,SCPH
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,SE
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,SEPH
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,ST
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,STPH
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,category,General
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,category,IRDP/BPL
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,category,NRI
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,category,OBC
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,category,SC
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,category,ST
+Himachal Pradesh,Fees,himachal_pradesh_fees_data.csv,category,IRDP / BPL
+Himachal Pradesh,Fees,himachal_pradesh_fees_data.csv,category,Mgt Quota
+Himachal Pradesh,Fees,himachal_pradesh_fees_data.csv,category,NRI
+Himachal Pradesh,Fees,himachal_pradesh_fees_data.csv,category,State Quota
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,GMP
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,GMPH
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,MA
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,ME
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,MEH
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,MM
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,MMH
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,MU
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,NRI
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,OPN
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,OTH
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC1
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC2
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC3
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC4
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC5
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC6
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC7
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_raw_code,RC8
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Deemed / Paid Quota (MCC / College)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,GMPH — Govt Quota Private | HK (Hyderabad-Karnataka) Region
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Govt Quota Private (Karnataka Domicile)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Management — EWS/Open (HK Region)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Management — General
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Management — General EWS/Open
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Management — Minority Muslim
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Management — Minority Muslim (HK Region)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Management — Unreserved
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,NRI / OCI Quota
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Open / Management Quota — ALL INDIA ELIGIBLE
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 1 (St. John's Only)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 2 (St. John's Only)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 3 (St. John's Only)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 4 (St. John's Only)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 5 (St. John's Only)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 6 (St. John's Only)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 7 (St. John's Only)
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,Religious Community — Cat 8 (St. John's Only)
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,GMP
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,GMPH
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,MA
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,ME
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,MEH
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,MM
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,MMH
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,MU
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,NRI
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,OPN
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,OTH
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,RC2
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,RC3
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,RC4
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,RC5
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,RC6
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,RC7
+Karnataka,Fees,karnataka_fees_data.csv,category_raw_code,RC8
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Deemed / Paid Quota (MCC / College)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,GMPH — Govt Quota Private | HK (Hyderabad-Karnataka) Region
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Govt Quota Private (Karnataka Domicile)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Management — EWS/Open (HK Region)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Management — General
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Management — General EWS/Open
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Management — Minority Muslim
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Management — Minority Muslim (HK Region)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Management — Unreserved
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,NRI / OCI Quota
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Open / Management Quota — ALL INDIA ELIGIBLE
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Religious Community — Cat 2 (St. John's Only)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Religious Community — Cat 3 (St. John's Only)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Religious Community — Cat 4 (St. John's Only)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Religious Community — Cat 5 (St. John's Only)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Religious Community — Cat 6 (St. John's Only)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Religious Community — Cat 7 (St. John's Only)
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,Religious Community — Cat 8 (St. John's Only)
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,category,EWS
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,category,NRI
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,category,OBC
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,category,SC
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,category,ST
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,category,UR
+Madhya Pradesh,Fees,madhya_pradesh_fees.csv,category,OBC
+Madhya Pradesh,Fees,madhya_pradesh_fees.csv,category,SC
+Madhya Pradesh,Fees,madhya_pradesh_fees.csv,category,ST
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,D1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,D1HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,D2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,D3
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,EWS
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,EWS D1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,EWS D2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,EWS HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,EWS ORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,EWS PWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,I.Q.
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,MKB
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NRI
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTB
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTB D1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTB HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTB ORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTB PWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTC D1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTC D2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTC HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTC ORP-A
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTC ORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTC PWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD D1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD D1HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD D2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD ORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD PWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,NTD PWD HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC D1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC D1HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC D2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC ORP-A
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC ORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC PWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OBC PWD HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OPEN
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,OPEN (W)
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,ORP-A
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,ORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,ORPHAN
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,ORPHANC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,PWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBCD1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBCD1HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBCD2
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBCHA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBCORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBCPWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SEBCPWD HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SOBC
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SOBC HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,SOBC PWD
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,ST
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,VJA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,VJA D1
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,VJA HA
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,VJA ORP-C
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,VJA PWD
+Maharashtra,Fees,maharashtra_fees.csv,category,EWS
+Maharashtra,Fees,maharashtra_fees.csv,category,NT
+Maharashtra,Fees,maharashtra_fees.csv,category,OBC
+Maharashtra,Fees,maharashtra_fees.csv,category,Open
+Maharashtra,Fees,maharashtra_fees.csv,category,SC
+Maharashtra,Fees,maharashtra_fees.csv,category,SEB
+Maharashtra,Fees,maharashtra_fees.csv,category,ST
+Maharashtra,Fees,maharashtra_fees.csv,category,VJ
+Mcc,Cutoff,mcc_cutoff.csv,category,EWS
+Mcc,Cutoff,mcc_cutoff.csv,category,EWS PwD
+Mcc,Cutoff,mcc_cutoff.csv,category,OBC
+Mcc,Cutoff,mcc_cutoff.csv,category,OBC PwD
+Mcc,Cutoff,mcc_cutoff.csv,category,Open
+Mcc,Cutoff,mcc_cutoff.csv,category,Open PwD
+Mcc,Cutoff,mcc_cutoff.csv,category,SC
+Mcc,Cutoff,mcc_cutoff.csv,category,SC PwD
+Mcc,Cutoff,mcc_cutoff.csv,category,ST
+Mcc,Cutoff,mcc_cutoff.csv,category,ST PwD
+Rajasthan,Cutoff,rajasthan_cutoff.csv,category,EWS
+Rajasthan,Cutoff,rajasthan_cutoff.csv,category,General
+Rajasthan,Cutoff,rajasthan_cutoff.csv,category,MBC
+Rajasthan,Cutoff,rajasthan_cutoff.csv,category,OBC
+Rajasthan,Cutoff,rajasthan_cutoff.csv,category,SC
+Rajasthan,Cutoff,rajasthan_cutoff.csv,category,ST
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,category,OBC
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,category,Open
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,category,SC
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,category,ST
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,category,EWS
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,category,OBC-A
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,category,OBC-B
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,category,SC
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,category,ST
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,category,UR

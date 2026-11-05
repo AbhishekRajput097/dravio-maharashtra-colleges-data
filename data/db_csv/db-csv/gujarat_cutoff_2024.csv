@@ -1,0 +1,809 @@
+college_name,state,category,seat_type,admission_round,opening_rank_air,closing_rank_air,opening_state_merit_rank,closing_state_merit_rank,opening_neet_score,closing_neet_score,total_seats_filled,cutoff_year,opening_category_rank,closing_category_rank
+"B J Medical College, Ahmedabad",Gujarat,EW,GQ,Round 01,2916,5474,149,255,691,685,20,2024,15,36
+"B J Medical College, Ahmedabad",Gujarat,EW,GQ,Round 02,3358,5690,168,268,690,685,20,2024,19,39.5
+"B J Medical College, Ahmedabad",Gujarat,EW,GQ,Round 03,3358,5772,168,272,690,685,20,2024,19,40
+"B J Medical College, Ahmedabad",Gujarat,OP,GQ,Round 01,695,2487,34,131,705,695,18,2024,,
+"B J Medical College, Ahmedabad",Gujarat,OP,GQ,Round 02,1255,3143,61,160,700,691,20,2024,,
+"B J Medical College, Ahmedabad",Gujarat,OP,GQ,Round 03,1255,3226,61,165,700,690,22,2024,,
+"B J Medical College, Ahmedabad",Gujarat,SC,GQ,Round 01,2671,26285,143,904,695,650,15,2024,3,22
+"B J Medical College, Ahmedabad",Gujarat,SC,GQ,Round 02,5021,27511,231,966,685,649,15,2024,7,28
+"B J Medical College, Ahmedabad",Gujarat,SC,GQ,Round 03,5021,27511,231,966,685,649,15,2024,7,28
+"B J Medical College, Ahmedabad",Gujarat,SE,GQ,Round 01,2608,9775,141,413,695,675,54,2024,19,79
+"B J Medical College, Ahmedabad",Gujarat,SE,GQ,Round 02,3203,10221,164,431,690,675,54,2024,22,82
+"B J Medical College, Ahmedabad",Gujarat,SE,GQ,Round 03,3407,10699,169,438,690,673,54,2024,24,85
+"B J Medical College, Ahmedabad",Gujarat,ST,GQ,Round 01,11587,155645,475,6147,671,536,30,2024,1,37
+"B J Medical College, Ahmedabad",Gujarat,ST,GQ,Round 02,11587,162141,475,6406,671,531,30,2024,1,42
+"B J Medical College, Ahmedabad",Gujarat,ST,GQ,Round 03,11587,162141,475,6406,671,531,30,2024,1,42
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,EW,GQ,Round 01,121661,126925,4804,5018,562,558,11,2024,1335,1386
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,EW,GQ,Round 02,126610,130223,4997,5145,559,556,11,2024,1381,1420
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,EW,GQ,Round 03,126610,130223,4997,5145,559,556,11,2024,1381,1420
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,OP,GQ,Round 01,111224,121610,4365,4801,571,562,31,2024,,
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,OP,GQ,Round 02,106894,125468,4187,4952,575,560,35,2024,,
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,OP,GQ,Round 03,106894,125468,4187,4952,575,560,35,2024,,
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,SC,GQ,Round 01,143348,173320,5663,6870,545,523,8,2024,283,395
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,SC,GQ,Round 02,162678,174011,6430,6891,531,522,8,2024,356,398
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,SC,GQ,Round 03,162678,174011,6430,6891,531,522,8,2024,356,398
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,SE,GQ,Round 01,122548,138990,4831,5484,562,549,30,2024,1730,2007
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,SE,GQ,Round 02,125581,143002,4962,5653,559,546,30,2024,1789,2070
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,SE,GQ,Round 03,119856,143002,4731,5653,564,546,30,2024,1690,2070
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,ST,GQ,Round 01,510838,578080,14536,15646,338,312,17,2024,637,870
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,ST,GQ,Round 02,537073,578080,14979,15646,328,312,17,2024,737,870
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,ST,GQ,Round 03,528953,578080,14851,15646,331,312,17,2024,713,870
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,MQ,MQ,Round 01,132165,167609,5212,6637,554,527,10,2024,,
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,MQ,MQ,Round 02,153502,218354,6058,8369,538,491,23,2024,,
+"Ananya College of Medicine Research, Gandhinagar",Gujarat,MQ,MQ,Round 03,153502,218354,6058,8369,538,491,25,2024,,
+"GMERS Medical College, Dharpur Patan",Gujarat,EW,GQ,Round 01,56019,286454,2036,10211,619,448,25,2024,546,2718
+"GMERS Medical College, Dharpur Patan",Gujarat,EW,GQ,Round 02,57196,298385,2076,10502,618,441,25,2024,559,2789
+"GMERS Medical College, Dharpur Patan",Gujarat,EW,GQ,Round 03,58442,404154,2116,12684,617,385,25,2024,568,3222
+"GMERS Medical College, Dharpur Patan",Gujarat,OP,GQ,Round 01,37496,255898,1324,9487,638,467,58,2024,,
+"GMERS Medical College, Dharpur Patan",Gujarat,OP,GQ,Round 02,37496,243412,1324,9147,638,475,58,2024,,
+"GMERS Medical College, Dharpur Patan",Gujarat,OP,GQ,Round 03,37496,268254,1324,9780,638,459,57,2024,,
+"GMERS Medical College, Dharpur Patan",Gujarat,OP,GQ,Round 04,171517,171517,6790,6790,524,524,1,2024,,
+"GMERS Medical College, Dharpur Patan",Gujarat,SC,GQ,Round 01,76928,297855,2881,10477,600,441,17,2024,103,810
+"GMERS Medical College, Dharpur Patan",Gujarat,SC,GQ,Round 02,90719,373919,3466,12158,588,400,17,2024,135,1003
+"GMERS Medical College, Dharpur Patan",Gujarat,SC,GQ,Round 03,90719,381577,3466,12300,588,396,17,2024,135,1020
+"GMERS Medical College, Dharpur Patan",Gujarat,SC,GQ,Round 04,695654,695654,17383,17383,273,273,1,2024,1617,1617
+"GMERS Medical College, Dharpur Patan",Gujarat,SE,GQ,Round 01,55785,385002,2026,12368,620,395,67,2024,615,4603
+"GMERS Medical College, Dharpur Patan",Gujarat,SE,GQ,Round 02,57603,440214,2095,13342,618,369,67,2024,649,4943
+"GMERS Medical College, Dharpur Patan",Gujarat,SE,GQ,Round 03,58660,628617,2130,16424,617,295,67,2024,661,5937
+"GMERS Medical College, Dharpur Patan",Gujarat,ST,GQ,Round 01,377522,922663,12229,20106,398,211,36,2024,288,1961
+"GMERS Medical College, Dharpur Patan",Gujarat,ST,GQ,Round 02,391642,958895,12463,20463,391,202,36,2024,311,2047
+"GMERS Medical College, Dharpur Patan",Gujarat,ST,GQ,Round 03,391642,1253641,12463,22402,391,147,35,2024,311,2501
+"GMERS Medical College, Dharpur Patan",Gujarat,ST,GQ,Round 04,978070,978070,20625,20625,198,198,1,2024,2083,2083
+"GMERS Medical College, Dharpur Patan",Gujarat,MQ,MQ,Round 01,380753,380753,12281,12281,397,397,1,2024,,
+"GMERS Medical College, Dharpur Patan",Gujarat,MQ,MQ,Round 02,114375,553176,4480,15231,568,322,26,2024,,
+"GMERS Medical College, Dharpur Patan",Gujarat,MQ,MQ,Round 03,101136,590308,3942,15835,579,308,28,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,EW,GQ,Round 01,32687,323971,1151,11110,643,426,24,2024,286,2909
+"GMERS Medical College, Gandhinagar",Gujarat,EW,GQ,Round 02,33734,393288,1193,12495,642,391,24,2024,297,3185
+"GMERS Medical College, Gandhinagar",Gujarat,EW,GQ,Round 03,34110,520471,1205,14695,641,335,24,2024,300,3585
+"GMERS Medical College, Gandhinagar",Gujarat,EW,GQ,Round 04,645431,768563,16674,18395,289,251,5,2024,3916,4179
+"GMERS Medical College, Gandhinagar",Gujarat,OP,GQ,Round 01,27736,299811,976,10543,649,440,36,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,OP,GQ,Round 02,29477,336601,1038,11412,646,420,26,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,OP,GQ,Round 03,29883,465069,1052,13739,646,358,31,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,OP,GQ,Round 04,357876,636101,11833,16523,408,292,4,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,OP,GQ,Round 05,922416,997530,20105,20810,211,194,2,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,SC,GQ,Round 01,50369,376690,1800,12211,625,399,18,2024,56,1011
+"GMERS Medical College, Gandhinagar",Gujarat,SC,GQ,Round 02,50369,427232,1800,13113,625,374,18,2024,56,1122
+"GMERS Medical College, Gandhinagar",Gujarat,SC,GQ,Round 03,50369,594050,1800,15894,625,307,18,2024,56,1453
+"GMERS Medical College, Gandhinagar",Gujarat,SC,GQ,Round 04,676476,724995,17108,17809,279,264,2,2024,1586,1664
+"GMERS Medical College, Gandhinagar",Gujarat,SC,GQ,Round 05,1102774,1102774,21647,21647,173,173,1,2024,2158,2158
+"GMERS Medical College, Gandhinagar",Gujarat,SE,GQ,Round 01,38787,428762,1367,13128,636,374,66,2024,381,4871
+"GMERS Medical College, Gandhinagar",Gujarat,SE,GQ,Round 02,38787,625187,1367,16363,636,296,65,2024,381,5918
+"GMERS Medical College, Gandhinagar",Gujarat,SE,GQ,Round 03,38787,904066,1367,19932,636,215,66,2024,381,6994
+"GMERS Medical College, Gandhinagar",Gujarat,SE,GQ,Round 04,931402,1172287,20198,22076,209,160,8,2024,7063,7685
+"GMERS Medical College, Gandhinagar",Gujarat,SE,GQ,Round 05,1366192,1384611,22732,22777,130,128,2,2024,7998,8018
+"GMERS Medical College, Gandhinagar",Gujarat,ST,GQ,Round 01,288504,949556,10263,20374,447,205,36,2024,150,2026
+"GMERS Medical College, Gandhinagar",Gujarat,ST,GQ,Round 02,290453,1033094,10310,21096,445,186,36,2024,154,2189
+"GMERS Medical College, Gandhinagar",Gujarat,ST,GQ,Round 03,290453,1377570,10310,22759,445,129,35,2024,154,2605
+"GMERS Medical College, Gandhinagar",Gujarat,MQ,MQ,Round 01,417310,435097,12939,13247,379,371,5,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,MQ,MQ,Round 02,465069,641665,13739,16620,358,290,11,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,MQ,MQ,Round 03,671475,723709,17033,17789,280,264,9,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,MQ,MQ,Round 04,727076,731787,17835,17916,263,262,3,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,NRI,NQ,Round 01,661998,661998,16899,16899,283,283,1,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,NRI,NQ,Round 02,661998,661998,16899,16899,283,283,1,2024,,
+"GMERS Medical College, Gandhinagar",Gujarat,NRI,NQ,Round 03,661998,661998,16899,16899,283,283,1,2024,,
+GMERS Medical College Panchmahal Godhra,Gujarat,EW,GQ,Round 01,68432,68985,2518,2546,608,607,7,2024,673,681
+GMERS Medical College Panchmahal Godhra,Gujarat,EW,GQ,Round 02,68543,69301,2528,2558,608,607,7,2024,676,686
+GMERS Medical College Panchmahal Godhra,Gujarat,EW,GQ,Round 03,68738,70103,2540,2587,608,606,7,2024,679,690
+GMERS Medical College Panchmahal Godhra,Gujarat,OP,GQ,Round 01,39710,68393,1400,2517,635,608,9,2024,,
+GMERS Medical College Panchmahal Godhra,Gujarat,OP,GQ,Round 02,54470,68488,1972,2523,621,608,9,2024,,
+GMERS Medical College Panchmahal Godhra,Gujarat,OP,GQ,Round 03,50233,68543,1791,2528,625,608,8,2024,,
+GMERS Medical College Panchmahal Godhra,Gujarat,SC,GQ,Round 01,128213,130094,5062,5141,557,556,5,2024,238,245
+GMERS Medical College Panchmahal Godhra,Gujarat,SC,GQ,Round 02,129722,140686,5120,5562,556,548,5,2024,243,276
+GMERS Medical College Panchmahal Godhra,Gujarat,SC,GQ,Round 03,129722,140686,5120,5562,556,548,5,2024,243,276
+GMERS Medical College Panchmahal Godhra,Gujarat,SE,GQ,Round 01,69181,72840,2554,2710,607,604,19,2024,845,899
+GMERS Medical College Panchmahal Godhra,Gujarat,SE,GQ,Round 02,69181,73132,2554,2722,607,604,19,2024,845,907
+GMERS Medical College Panchmahal Godhra,Gujarat,SE,GQ,Round 03,69476,73686,2565,2734,607,603,19,2024,849,913
+GMERS Medical College Panchmahal Godhra,Gujarat,ST,GQ,Round 01,375722,443078,12190,13374,399,367,11,2024,284,431
+GMERS Medical College Panchmahal Godhra,Gujarat,ST,GQ,Round 02,388176,444772,12421,13404,393,366,11,2024,308,437
+GMERS Medical College Panchmahal Godhra,Gujarat,ST,GQ,Round 03,388176,454888,12421,13563,393,362,11,2024,308,461
+GMERS Medical College Panchmahal Godhra,Gujarat,MQ,MQ,Round 03,148511,148511,5863,5863,541,541,1,2024,,
+GMERS Medical College Panchmahal Godhra,Gujarat,MQ,MQ,Round 04,151898,151898,6004,6004,539,539,1,2024,,
+"GMERS Medical College, Gotri, Vadodara",Gujarat,EW,GQ,Round 01,35803,38546,1266,1360,640,637,17,2024,320,344
+"GMERS Medical College, Gotri, Vadodara",Gujarat,EW,GQ,Round 02,37286,39657,1317,1398,638,635,16,2024,333,351
+"GMERS Medical College, Gotri, Vadodara",Gujarat,EW,GQ,Round 03,37286,39657,1317,1398,638,635,16,2024,333,351
+"GMERS Medical College, Gotri, Vadodara",Gujarat,OP,GQ,Round 01,19225,35634,698,1259,660,640,28,2024,,
+"GMERS Medical College, Gotri, Vadodara",Gujarat,OP,GQ,Round 02,15775,36779,599,1300,665,639,23,2024,,
+"GMERS Medical College, Gotri, Vadodara",Gujarat,OP,GQ,Round 03,15775,36779,599,1300,665,639,22,2024,,
+"GMERS Medical College, Gotri, Vadodara",Gujarat,SC,GQ,Round 01,78920,92024,2978,3508,599,587,12,2024,109,138
+"GMERS Medical College, Gotri, Vadodara",Gujarat,SC,GQ,Round 02,69577,94955,2568,3666,607,585,12,2024,90,145
+"GMERS Medical College, Gotri, Vadodara",Gujarat,SC,GQ,Round 03,69577,94955,2568,3666,607,585,12,2024,90,145
+"GMERS Medical College, Gotri, Vadodara",Gujarat,SE,GQ,Round 01,37889,50250,1338,1792,637,625,45,2024,371,527
+"GMERS Medical College, Gotri, Vadodara",Gujarat,SE,GQ,Round 02,37889,50496,1338,1810,637,625,45,2024,371,539
+"GMERS Medical College, Gotri, Vadodara",Gujarat,SE,GQ,Round 03,37889,50496,1338,1810,637,625,45,2024,371,539
+"GMERS Medical College, Gotri, Vadodara",Gujarat,ST,GQ,Round 01,252405,371342,9395,12111,469,401,26,2024,116,274
+"GMERS Medical College, Gotri, Vadodara",Gujarat,ST,GQ,Round 02,252405,382335,9395,12308,469,396,26,2024,116,290
+"GMERS Medical College, Gotri, Vadodara",Gujarat,ST,GQ,Round 03,252405,380289,9395,12268,469,397,26,2024,116,290
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,EW,GQ,Round 01,51577,319343,1866,11000,623,429,23,2024,496,2886
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,EW,GQ,Round 02,51780,420328,1874,12997,623,378,24,2024,500,3278
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,EW,GQ,Round 03,51780,576357,1874,15602,623,313,24,2024,500,3747
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,EW,GQ,Round 04,744766,771762,18085,18437,258,250,2,2024,4141,4186
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,OP,GQ,Round 01,36375,282607,1284,10119,639,450,47,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,OP,GQ,Round 02,36375,364850,1284,11980,639,405,38,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,OP,GQ,Round 03,36375,510567,1284,14531,639,339,47,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,OP,GQ,Round 04,211734,670137,8158,17014,495,281,5,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,OP,GQ,Round 05,1094781,1117883,21594,21754,175,170,2,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SC,GQ,Round 01,96586,421810,3730,13026,583,377,17,2024,154,1111
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SC,GQ,Round 02,96586,475632,3730,13931,583,353,17,2024,154,1224
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SC,GQ,Round 03,96586,629431,3730,16432,583,294,17,2024,154,1514
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SC,GQ,Round 04,757255,765115,18238,18344,254,252,3,2024,1707,1726
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SE,GQ,Round 01,52223,400746,1884,12630,623,387,66,2024,566,4699
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SE,GQ,Round 02,52468,645349,1897,16672,622,289,66,2024,570,6017
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SE,GQ,Round 03,52468,1006469,1897,20881,622,192,66,2024,570,7275
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SE,GQ,Round 04,753999,1230466,18200,22319,255,151,9,2024,6477,7798
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,SE,GQ,Round 05,1306980,1306980,22579,22579,139,139,1,2024,7922,7922
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,ST,GQ,Round 01,373648,981244,12155,20652,400,197,37,2024,279,2090
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,ST,GQ,Round 02,373648,1183591,12155,22118,400,159,37,2024,279,2397
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,ST,GQ,Round 03,373648,1318423,12155,22611,400,137,29,2024,279,2560
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,MQ,MQ,Round 01,342224,412522,11511,12853,417,381,4,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,MQ,MQ,Round 02,132404,605656,5219,16079,554,303,24,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,MQ,MQ,Round 03,132404,727288,5219,17843,554,263,21,2024,,
+"GMERS Medical College, Hadiyol, Himmatnagar",Gujarat,MQ,MQ,Round 04,577068,801614,15614,18810,313,242,5,2024,,
+"GMERS Medical College, Junagadh",Gujarat,EW,GQ,Round 01,45750,49210,1634,1760,629,626,17,2024,423,467
+"GMERS Medical College, Junagadh",Gujarat,EW,GQ,Round 02,46962,50141,1675,1786,628,625,17,2024,436,477
+"GMERS Medical College, Junagadh",Gujarat,EW,GQ,Round 03,46962,50141,1675,1786,628,625,17,2024,436,477
+"GMERS Medical College, Junagadh",Gujarat,OP,GQ,Round 01,29206,45688,1029,1631,647,629,46,2024,,
+"GMERS Medical College, Junagadh",Gujarat,OP,GQ,Round 02,28707,46566,1013,1664,647,628,51,2024,,
+"GMERS Medical College, Junagadh",Gujarat,OP,GQ,Round 03,28707,46566,1013,1664,647,628,51,2024,,
+"GMERS Medical College, Junagadh",Gujarat,SC,GQ,Round 01,79011,100938,2982,3934,598,580,12,2024,110,167
+"GMERS Medical College, Junagadh",Gujarat,SC,GQ,Round 02,79011,100938,2982,3934,598,580,12,2024,110,167
+"GMERS Medical College, Junagadh",Gujarat,SC,GQ,Round 03,79011,100938,2982,3934,598,580,12,2024,110,167
+"GMERS Medical College, Junagadh",Gujarat,SE,GQ,Round 01,46665,55667,1668,2019,628,620,46,2024,483,613
+"GMERS Medical College, Junagadh",Gujarat,SE,GQ,Round 02,46665,55874,1668,2032,628,619,46,2024,483,620
+"GMERS Medical College, Junagadh",Gujarat,SE,GQ,Round 03,46665,56494,1668,2050,628,619,46,2024,483,627
+"GMERS Medical College, Junagadh",Gujarat,ST,GQ,Round 01,354019,444772,11742,13404,410,366,25,2024,242,437
+"GMERS Medical College, Junagadh",Gujarat,ST,GQ,Round 02,354019,450066,11742,13489,410,364,25,2024,242,448
+"GMERS Medical College, Junagadh",Gujarat,ST,GQ,Round 03,354019,456342,11742,13593,410,361,25,2024,242,466
+"GMERS Medical College, Junagadh",Gujarat,MQ,MQ,Round 02,92154,141453,3514,5582,587,547,18,2024,,
+"GMERS Medical College, Junagadh",Gujarat,MQ,MQ,Round 03,81218,141453,3070,5582,596,547,19,2024,,
+GMERS Medical College Morbi,Gujarat,EW,GQ,Round 01,55678,230834,2020,8747,620,483,16,2024,544,2359
+GMERS Medical College Morbi,Gujarat,EW,GQ,Round 02,55678,230834,2020,8747,620,483,16,2024,544,2359
+GMERS Medical College Morbi,Gujarat,EW,GQ,Round 03,55678,237917,2020,8955,620,478,16,2024,544,2417
+GMERS Medical College Morbi,Gujarat,OP,GQ,Round 01,24865,207291,866,8024,652,499,35,2024,,
+GMERS Medical College Morbi,Gujarat,OP,GQ,Round 02,24865,205172,866,7956,652,500,34,2024,,
+GMERS Medical College Morbi,Gujarat,OP,GQ,Round 03,24865,207687,866,8031,652,498,37,2024,,
+GMERS Medical College Morbi,Gujarat,OP,GQ,Round 04,174635,174635,6911,6911,522,522,1,2024,,
+GMERS Medical College Morbi,Gujarat,OP,GQ,Round 05,808401,808401,18893,18893,240,240,1,2024,,
+GMERS Medical College Morbi,Gujarat,SC,GQ,Round 01,91460,285750,3492,10195,588,448,12,2024,137,773
+GMERS Medical College Morbi,Gujarat,SC,GQ,Round 02,91460,321654,3492,11058,588,428,12,2024,137,886
+GMERS Medical College Morbi,Gujarat,SC,GQ,Round 03,91460,321654,3492,11058,588,428,12,2024,137,886
+GMERS Medical College Morbi,Gujarat,SE,GQ,Round 01,56495,334806,2051,11368,619,421,44,2024,628,4256
+GMERS Medical College Morbi,Gujarat,SE,GQ,Round 02,56495,467232,2051,13779,619,357,44,2024,628,5106
+GMERS Medical College Morbi,Gujarat,SE,GQ,Round 03,56495,535188,2051,14949,619,329,44,2024,628,5491
+GMERS Medical College Morbi,Gujarat,SE,GQ,Round 04,357572,357572,11830,11830,409,409,1,2024,4429,4429
+GMERS Medical College Morbi,Gujarat,ST,GQ,Round 01,435977,897048,8791,19860,370,217,25,2024,410,1905
+GMERS Medical College Morbi,Gujarat,ST,GQ,Round 02,435977,897048,13262,19860,370,217,25,2024,410,1905
+GMERS Medical College Morbi,Gujarat,ST,GQ,Round 03,435977,1253519,13262,22401,370,147,25,2024,410,2500
+GMERS Medical College Morbi,Gujarat,MQ,MQ,Round 01,310033,322348,10776,11073,434,427,2,2024,,
+GMERS Medical College Morbi,Gujarat,MQ,MQ,Round 02,96113,423169,3718,13047,584,376,16,2024,,
+GMERS Medical College Morbi,Gujarat,MQ,MQ,Round 03,73909,423169,2743,13047,603,376,16,2024,,
+"GMERS Medical College, Navsari",Gujarat,EW,GQ,Round 01,63628,328547,2329,11224,612,424,9,2024,615,2924
+"GMERS Medical College, Navsari",Gujarat,EW,GQ,Round 02,64082,344912,2343,11562,612,415,9,2024,622,3000
+"GMERS Medical College, Navsari",Gujarat,EW,GQ,Round 03,64082,529070,2343,14853,612,331,9,2024,622,3611
+"GMERS Medical College, Navsari",Gujarat,EW,GQ,Round 04,799671,810386,18780,18916,242,239,2,2024,4252,4275
+"GMERS Medical College, Navsari",Gujarat,OP,GQ,Round 01,45696,282225,1632,10112,629,450,19,2024,,
+"GMERS Medical College, Navsari",Gujarat,OP,GQ,Round 02,45696,245190,1632,9202,629,473,16,2024,,
+"GMERS Medical College, Navsari",Gujarat,OP,GQ,Round 03,45696,332552,1632,11310,629,422,17,2024,,
+"GMERS Medical College, Navsari",Gujarat,OP,GQ,Round 04,159369,219448,6303,8416,533,490,2,2024,,
+"GMERS Medical College, Navsari",Gujarat,OP,GQ,Round 05,940608,998253,20271,20817,207,194,2,2024,,
+"GMERS Medical College, Navsari",Gujarat,SC,GQ,Round 01,117741,386701,4640,12401,566,394,6,2024,212,1036
+"GMERS Medical College, Navsari",Gujarat,SC,GQ,Round 02,127046,455223,5022,13569,558,362,6,2024,237,1179
+"GMERS Medical College, Navsari",Gujarat,SC,GQ,Round 03,127046,562530,5022,15373,558,318,6,2024,237,1386
+"GMERS Medical College, Navsari",Gujarat,SE,GQ,Round 01,61703,387089,2249,12411,614,394,23,2024,720,4619
+"GMERS Medical College, Navsari",Gujarat,SE,GQ,Round 02,60231,463365,2190,13712,615,358,23,2024,694,5082
+"GMERS Medical College, Navsari",Gujarat,SE,GQ,Round 03,60231,818453,2190,19021,615,237,23,2024,694,6721
+"GMERS Medical College, Navsari",Gujarat,SE,GQ,Round 04,1024744,1247547,21020,22380,188,148,4,2024,7324,7830
+"GMERS Medical College, Navsari",Gujarat,ST,GQ,Round 01,377164,707830,12225,17558,399,269,12,2024,289,1346
+"GMERS Medical College, Navsari",Gujarat,ST,GQ,Round 02,377164,870937,12225,19570,399,223,12,2024,289,1832
+"GMERS Medical College, Navsari",Gujarat,ST,GQ,Round 03,377164,839180,12225,19249,399,231,12,2024,289,1753
+"GMERS Medical College, Navsari",Gujarat,MQ,MQ,Round 02,120628,148704,4759,5872,563,541,7,2024,,
+"GMERS Medical College, Navsari",Gujarat,MQ,MQ,Round 03,119104,148704,4702,5872,565,541,10,2024,,
+GMERS Medical College Porbandar,Gujarat,EW,GQ,Round 01,66314,66981,2425,2468,610,609,7,2024,649,661
+GMERS Medical College Porbandar,Gujarat,EW,GQ,Round 02,66486,68432,2438,2518,610,608,7,2024,654,673
+GMERS Medical College Porbandar,Gujarat,EW,GQ,Round 03,66641,68437,2451,2519,610,608,7,2024,657,674
+GMERS Medical College Porbandar,Gujarat,OP,GQ,Round 01,60812,65961,2210,2411,615,610,18,2024,,
+GMERS Medical College Porbandar,Gujarat,OP,GQ,Round 02,45496,66316,1620,2426,630,610,19,2024,,
+GMERS Medical College Porbandar,Gujarat,OP,GQ,Round 03,45496,66486,1620,2438,630,610,20,2024,,
+GMERS Medical College Porbandar,Gujarat,SC,GQ,Round 01,100734,125307,3928,4940,580,560,5,2024,166,229
+GMERS Medical College Porbandar,Gujarat,SC,GQ,Round 02,100734,128391,3928,5067,580,557,5,2024,166,239
+GMERS Medical College Porbandar,Gujarat,SC,GQ,Round 03,100734,128391,3928,5067,580,557,5,2024,166,239
+GMERS Medical College Porbandar,Gujarat,SE,GQ,Round 01,66576,71241,2446,2632,610,605,19,2024,802,870
+GMERS Medical College Porbandar,Gujarat,SE,GQ,Round 02,67107,71662,2477,2651,609,605,19,2024,815,878
+GMERS Medical College Porbandar,Gujarat,SE,GQ,Round 03,67107,71773,2477,2659,609,605,19,2024,815,881
+GMERS Medical College Porbandar,Gujarat,ST,GQ,Round 01,451024,457477,13500,13614,364,361,10,2024,451,469
+GMERS Medical College Porbandar,Gujarat,ST,GQ,Round 02,451024,461821,13500,13677,364,359,10,2024,451,483
+GMERS Medical College Porbandar,Gujarat,ST,GQ,Round 03,451024,462594,13500,13698,364,359,10,2024,451,486
+GMERS Medical College Porbandar,Gujarat,MQ,MQ,Round 02,128425,149812,5069,5923,557,540,9,2024,,
+GMERS Medical College Porbandar,Gujarat,MQ,MQ,Round 03,128425,149812,5069,5923,557,540,8,2024,,
+"GMERS Medical College, Rajpipla",Gujarat,EW,GQ,Round 01,66450,67656,2436,2492,610,609,7,2024,653,666
+"GMERS Medical College, Rajpipla",Gujarat,EW,GQ,Round 02,66626,67839,2450,2499,610,608,7,2024,656,669
+"GMERS Medical College, Rajpipla",Gujarat,EW,GQ,Round 03,66626,67839,2450,2499,610,608,7,2024,656,669
+"GMERS Medical College, Rajpipla",Gujarat,OP,GQ,Round 01,54098,66397,1952,2431,621,610,14,2024,,
+"GMERS Medical College, Rajpipla",Gujarat,OP,GQ,Round 02,54098,66589,1952,2447,621,610,12,2024,,
+"GMERS Medical College, Rajpipla",Gujarat,OP,GQ,Round 03,54098,66576,1952,2446,621,610,11,2024,,
+"GMERS Medical College, Rajpipla",Gujarat,SC,GQ,Round 01,93422,125471,3586,4953,586,560,5,2024,141,230
+"GMERS Medical College, Rajpipla",Gujarat,SC,GQ,Round 02,95868,131601,3707,5187,584,555,5,2024,151,248
+"GMERS Medical College, Rajpipla",Gujarat,SC,GQ,Round 03,95868,131601,3707,5187,584,555,5,2024,151,248
+"GMERS Medical College, Rajpipla",Gujarat,SE,GQ,Round 01,66656,71739,2454,2655,610,605,19,2024,804,880
+"GMERS Medical College, Rajpipla",Gujarat,SE,GQ,Round 02,67048,72387,2472,2690,609,604,19,2024,813,892
+"GMERS Medical College, Rajpipla",Gujarat,SE,GQ,Round 03,67048,73132,2472,2722,609,604,19,2024,813,907
+"GMERS Medical College, Rajpipla",Gujarat,ST,GQ,Round 01,397810,432452,12583,13191,388,372,10,2024,330,400
+"GMERS Medical College, Rajpipla",Gujarat,ST,GQ,Round 02,397810,432452,12583,13191,388,372,10,2024,330,400
+"GMERS Medical College, Rajpipla",Gujarat,ST,GQ,Round 03,397810,432452,12583,13191,388,372,10,2024,330,400
+"GMERS Medical College, Rajpipla",Gujarat,MQ,MQ,Round 02,146783,151170,5803,5978,543,540,9,2024,,
+"GMERS Medical College, Rajpipla",Gujarat,MQ,MQ,Round 03,140069,151170,5529,5978,548,540,8,2024,,
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,EW,GQ,Round 01,24532,24532,856,856,652,652,1,2024,205,205
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,EW,GQ,Round 02,29109,29109,1025,1025,647,647,1,2024,251,251
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,EW,GQ,Round 03,29109,29109,1025,1025,647,647,1,2024,251,251
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,OP,GQ,Round 02,24532,24532,856,856,652,652,1,2024,,
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,OP,GQ,Round 03,24532,24532,856,856,652,652,1,2024,,
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,SC,GQ,Round 01,73846,73846,2742,2742,603,603,1,2024,97,97
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,SC,GQ,Round 02,85623,85623,3261,3261,593,593,1,2024,122,122
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,SC,GQ,Round 03,85623,85623,3261,3261,593,593,1,2024,122,122
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,SE,GQ,Round 01,35057,37748,1237,1336,640,637,2,2024,333,370
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,SE,GQ,Round 02,35057,38403,1237,1352,640,637,2,2024,333,376
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,SE,GQ,Round 03,35057,38403,1237,1352,640,637,2,2024,333,376
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,ST,GQ,Round 01,236170,236170,8908,8908,479,479,1,2024,100,100
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,ST,GQ,Round 02,288614,288614,10265,10265,446,446,1,2024,151,151
+"NAMO Medical Education and Research Institute, Silvassa",Gujarat,ST,GQ,Round 03,288614,288614,10265,10265,446,446,1,2024,151,151
+GMERS Medical College Sola Ahmedabad,Gujarat,EW,GQ,Round 01,26780,262433,926,9643,650,462,25,2024,225,2602
+GMERS Medical College Sola Ahmedabad,Gujarat,EW,GQ,Round 02,26009,335856,893,11388,651,420,25,2024,218,2958
+GMERS Medical College Sola Ahmedabad,Gujarat,EW,GQ,Round 03,26009,364720,893,11976,651,405,25,2024,218,3082
+GMERS Medical College Sola Ahmedabad,Gujarat,EW,GQ,Round 04,588951,588951,15818,15818,309,309,1,2024,3781,3781
+GMERS Medical College Sola Ahmedabad,Gujarat,OP,GQ,Round 01,6967,250944,311,9356,680,470,26,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,OP,GQ,Round 02,6967,278185,311,10010,680,453,27,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,OP,GQ,Round 03,6967,294760,311,10412,680,443,31,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,SC,GQ,Round 01,49040,290252,1752,10305,626,445,17,2024,53,792
+GMERS Medical College Sola Ahmedabad,Gujarat,SC,GQ,Round 02,49040,366497,1752,12007,626,404,17,2024,53,987
+GMERS Medical College Sola Ahmedabad,Gujarat,SC,GQ,Round 03,49040,414331,1752,12891,626,380,17,2024,53,1091
+GMERS Medical College Sola Ahmedabad,Gujarat,SE,GQ,Round 01,32977,332567,1163,11311,642,422,66,2024,307,4230
+GMERS Medical College Sola Ahmedabad,Gujarat,SE,GQ,Round 02,19712,510567,716.7,14531,660,339,66,2024,165.7,5350
+GMERS Medical College Sola Ahmedabad,Gujarat,SE,GQ,Round 03,19712,790491,716.7,18671,660,245,66,2024,165.7,6623
+GMERS Medical College Sola Ahmedabad,Gujarat,SE,GQ,Round 04,900521,900521,19895,19895,216,216,1,2024,5457.5,6983
+GMERS Medical College Sola Ahmedabad,Gujarat,SE,GQ,Round 05,1247965,1247965,22382,22382,148,148,1,2024,7831,7831
+GMERS Medical College Sola Ahmedabad,Gujarat,ST,GQ,Round 01,241707,848746,9079,19354,476,229,37,2024,108,1781
+GMERS Medical College Sola Ahmedabad,Gujarat,ST,GQ,Round 02,241707,923589,9079,20115,476,210,37,2024,108,1964
+GMERS Medical College Sola Ahmedabad,Gujarat,ST,GQ,Round 03,241707,1172563,9079,22079,476,160,37,2024,108,2399
+GMERS Medical College Sola Ahmedabad,Gujarat,ST,GQ,Round 04,1119825,1343253,21766,22669,170,134,3,2024,2321,2597.5
+GMERS Medical College Sola Ahmedabad,Gujarat,MQ,MQ,Round 01,237207,396647,8934,12557,479,389,3,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,MQ,MQ,Round 02,427397,509959,13115,14518,374,339,6,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,MQ,MQ,Round 03,508664,646361,14494,16687,339,289,4,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,NRI,NQ,Round 01,411462,411462,12833,12833,382,382,1,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,NRI,NQ,Round 02,411462,411462,12833,12833,382,382,1,2024,,
+GMERS Medical College Sola Ahmedabad,Gujarat,NRI,NQ,Round 03,411462,411462,12833,12833,382,382,1,2024,,
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,EW,GQ,Round 01,60508,279992,2194,10057,615,452,25,2024,582,2689
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,EW,GQ,Round 02,60917,334321,2214,11349,615,421,25,2024,585,2954
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,EW,GQ,Round 03,60937,357409,2215,11817,615,409,25,2024,586,3051
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,OP,GQ,Round 01,45751,261392,1635,9617,629,463,38,2024,,
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,OP,GQ,Round 02,39496,269665,1391,9817,636,458,45,2024,,
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,OP,GQ,Round 03,39496,298589,1391,10510,636,441,47,2024,,
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,OP,GQ,Round 04,384034,437643,12347,13301,395,370,2,2024,,
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SC,GQ,Round 01,93061,366497,3566,12007,586,404,17,2024,140,987
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SC,GQ,Round 02,95192,380158,3686,12267,585,397,17,2024,147,1018
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SC,GQ,Round 03,95192,497564,3686,14317,585,344,17,2024,147,1273
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SC,GQ,Round 04,542057,542057,15044,15044,326,326,1,2024,1353,1353
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SC,GQ,Round 05,1229864,1229864,22317,22317,151,151,1,2024,2268,2268
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SE,GQ,Round 01,60571,419791,2196,12989,615,378,67,2024,696,4839
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SE,GQ,Round 02,60913,547469,2213,15141,615,324,67,2024,707,5550
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SE,GQ,Round 03,60985,747981,2218,18117,615,257,67,2024,708,6451
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,SE,GQ,Round 04,939077,939077,20254,20254,207,207,1,2024,7083,7083
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,ST,GQ,Round 01,318638,889856,10987,19787,429,219,35,2024,187,1886
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,ST,GQ,Round 02,373112,970469,12145,20564,401,200,36,2024,278,2067
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,ST,GQ,Round 03,373112,1376810,12145,22750,401,129,36,2024,278,2595
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,MQ,MQ,Round 01,339732,425956,11461,13086,418,375,2,2024,,
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,MQ,MQ,Round 02,135697,536304,5349,14967,551,328,24,2024,,
+"GMERS Medical College, Vadnagar, Mehsana",Gujarat,MQ,MQ,Round 03,103708,580483,4047,15689,577,312,23,2024,,
+"GMERS Medical College, Valsad",Gujarat,EW,GQ,Round 01,45576,50890,1624,1829,630,624,17,2024,418,488
+"GMERS Medical College, Valsad",Gujarat,EW,GQ,Round 02,47237,52107,1690,1882,628,623,17,2024,442,503
+"GMERS Medical College, Valsad",Gujarat,EW,GQ,Round 03,47237,52107,1690,1882,628,623,17,2024,442,503
+"GMERS Medical College, Valsad",Gujarat,OP,GQ,Round 01,35346,45382,1247,1608,640,630,22,2024,,
+"GMERS Medical College, Valsad",Gujarat,OP,GQ,Round 02,35346,47229,1247,1688,640,628,23,2024,,
+"GMERS Medical College, Valsad",Gujarat,OP,GQ,Round 03,35346,47229,1247,1688,640,628,23,2024,,
+"GMERS Medical College, Valsad",Gujarat,SC,GQ,Round 01,92298,116435,3522,4570,587,567,12,2024,139,207
+"GMERS Medical College, Valsad",Gujarat,SC,GQ,Round 02,95127,124260,3678,4891,585,560,12,2024,146,226
+"GMERS Medical College, Valsad",Gujarat,SC,GQ,Round 03,95127,124260,3678,4891,585,560,12,2024,146,226
+"GMERS Medical College, Valsad",Gujarat,SE,GQ,Round 01,47229,58223,1688,2109,628,617,46,2024,494,652
+"GMERS Medical College, Valsad",Gujarat,SE,GQ,Round 02,47891,58223,1711,2109,627,617,46,2024,500,652
+"GMERS Medical College, Valsad",Gujarat,SE,GQ,Round 03,47891,58223,1711,2109,627,617,46,2024,500,652
+"GMERS Medical College, Valsad",Gujarat,ST,GQ,Round 01,263592,375561,9671,12187,462,399,26,2024,124,283
+"GMERS Medical College, Valsad",Gujarat,ST,GQ,Round 02,263592,376280,9671,12202,462,399,26,2024,124,286
+"GMERS Medical College, Valsad",Gujarat,ST,GQ,Round 03,263592,376280,9671,12202,462,399,26,2024,124,286
+"GMERS Medical College, Valsad",Gujarat,MQ,MQ,Round 02,73976,133777,2746,5273,603,553,7,2024,,
+"GMERS Medical College, Valsad",Gujarat,MQ,MQ,Round 03,73459,133777,2728,5273,603,553,8,2024,,
+"Government Medical College, Bhavnagar",Gujarat,EW,GQ,Round 01,25804,27528,886,968,651,649,16,2024,215,233
+"Government Medical College, Bhavnagar",Gujarat,EW,GQ,Round 02,27831,30827,982,1085,649,645,16,2024,240,266
+"Government Medical College, Bhavnagar",Gujarat,EW,GQ,Round 03,27856,30859,984,1087,649,645,16,2024,241,267
+"Government Medical College, Bhavnagar",Gujarat,OP,GQ,Round 01,5772,25775,272,885,685,651,30,2024,,
+"Government Medical College, Bhavnagar",Gujarat,OP,GQ,Round 02,5772,27771,272,980,685,649,31,2024,,
+"Government Medical College, Bhavnagar",Gujarat,OP,GQ,Round 03,8882,27831,379,982,676,649,30,2024,,
+"Government Medical College, Bhavnagar",Gujarat,SC,GQ,Round 01,61037,71762,2222,2656,615,605,11,2024,73,96
+"Government Medical College, Bhavnagar",Gujarat,SC,GQ,Round 02,61357,81234,2239,3071,614,596,11,2024,74,116
+"Government Medical College, Bhavnagar",Gujarat,SC,GQ,Round 03,61357,81234,2239,3071,614,596,11,2024,74,116
+"Government Medical College, Bhavnagar",Gujarat,SE,GQ,Round 01,26849,37540,930,1326,650,638,44,2024,233,368
+"Government Medical College, Bhavnagar",Gujarat,SE,GQ,Round 02,30290,38396,1066,1351,646,637,44,2024,277,375
+"Government Medical College, Bhavnagar",Gujarat,SE,GQ,Round 03,30290,38396,1066,1351,646,637,44,2024,277,375
+"Government Medical College, Bhavnagar",Gujarat,ST,GQ,Round 01,225728,313969,8588,10861,486,432,25,2024,95,182
+"Government Medical College, Bhavnagar",Gujarat,ST,GQ,Round 02,234198,324649,8848,11125,480,426,26,2024,99,194
+"Government Medical College, Bhavnagar",Gujarat,ST,GQ,Round 03,234198,324727,8848,11126,480,426,26,2024,99,195
+"Government Medical College, Surat",Gujarat,EW,GQ,Round 01,13165,255685,522,9473,670,467,31,2024,100,2565
+"Government Medical College, Surat",Gujarat,EW,GQ,Round 02,15003,320802,580,11033,666,428,31,2024,123,2895
+"Government Medical College, Surat",Gujarat,EW,GQ,Round 03,15014,466711,581,13766,666,357,31,2024,124,3419
+"Government Medical College, Surat",Gujarat,EW,GQ,Round 04,609509,609509,16143,16143,301,301,1,2024,3832,3832
+"Government Medical College, Surat",Gujarat,OP,GQ,Round 01,1479,225293,75,8575,700,486,60,2024,,
+"Government Medical College, Surat",Gujarat,OP,GQ,Round 02,1479,267381,75,9757,700,459,67,2024,,
+"Government Medical College, Surat",Gujarat,OP,GQ,Round 03,1479,299811,75,10543,700,440,71,2024,,
+"Government Medical College, Surat",Gujarat,OP,GQ,Round 04,210322,561317,8113.5,15354,496,319,5,2024,,
+"Government Medical College, Surat",Gujarat,OP,GQ,Round 05,839383,839383,19251,19251,231,231,1,2024,,
+"Government Medical College, Surat",Gujarat,SC,GQ,Round 01,30131,383678,1062,12340,646,395,20,2024,32,1025
+"Government Medical College, Surat",Gujarat,SC,GQ,Round 02,30131,451430,1062,13512,646,364,20,2024,32,1168
+"Government Medical College, Surat",Gujarat,SC,GQ,Round 03,30131,581107,1062,15696,646,311,20,2024,32,1422
+"Government Medical College, Surat",Gujarat,SC,GQ,Round 04,668707,753647,16996,18197,281,255,3,2024,1571,1704
+"Government Medical College, Surat",Gujarat,SC,GQ,Round 05,873237,961208,19601,20490,223,202,2,2024,1886,1998
+"Government Medical College, Surat",Gujarat,SE,GQ,Round 01,14705,324435,568,11119,666,426,83,2024,120,4146
+"Government Medical College, Surat",Gujarat,SE,GQ,Round 02,15391,409753,589,12794,665,383,83,2024,128,4763
+"Government Medical College, Surat",Gujarat,SE,GQ,Round 03,15391,604399,589,16051,665,303,83,2024,128,5833
+"Government Medical College, Surat",Gujarat,SE,GQ,Round 04,677751,677751,17126,17126,278,278,1,2024,6149,6149
+"Government Medical College, Surat",Gujarat,ST,GQ,Round 01,93426,1001410,3587,20845,586,193,46,2024,21,2133
+"Government Medical College, Surat",Gujarat,ST,GQ,Round 02,93426,1083944,3587,21501,586,176,45,2024,21,2270
+"Government Medical College, Surat",Gujarat,ST,GQ,Round 03,93426,1381760,3587,22769,586,129,44,2024,21,2610
+"Government Medical College, Surat",Gujarat,MQ,MQ,Round 02,323356,412449,11094,12851,427,381,9,2024,,
+"Government Medical College, Surat",Gujarat,MQ,MQ,Round 03,323356,412449,11094,12851,427,381,7,2024,,
+"Medical College, Baroda",Gujarat,EW,GQ,Round 01,8317,344912,364,11562,677,415,27,2024,59,3000
+"Medical College, Baroda",Gujarat,EW,GQ,Round 02,10086,407484,428,12753,675,384,27,2024,79,3239
+"Medical College, Baroda",Gujarat,EW,GQ,Round 03,10207,509935,429,14517,675,339,27,2024,80,3560
+"Medical College, Baroda",Gujarat,OP,GQ,Round 01,1718,310963,87,10799,697,434,35,2024,,
+"Medical College, Baroda",Gujarat,OP,GQ,Round 02,1718,366759,87,12014,697,404,39,2024,,
+"Medical College, Baroda",Gujarat,OP,GQ,Round 03,1718,474132,87,13904,697,354,49,2024,,
+"Medical College, Baroda",Gujarat,SC,GQ,Round 01,9348,379147,399,12251,675,398,19,2024,12,1013
+"Medical College, Baroda",Gujarat,SC,GQ,Round 02,27770,449016,979,13472,649,365,19,2024,29,1165
+"Medical College, Baroda",Gujarat,SC,GQ,Round 03,27770,520435,979,14694,649,335,19,2024,29,1308
+"Medical College, Baroda",Gujarat,SC,GQ,Round 04,682749,748917,17199,18131,277,257,3,2024,1593,1691
+"Medical College, Baroda",Gujarat,SC,GQ,Round 05,1294561,1312901,22529,22600,141,138,2,2024,2323,2340
+"Medical College, Baroda",Gujarat,SE,GQ,Round 01,9957,453495,421,13546,675,363,75,2024,80,5010
+"Medical College, Baroda",Gujarat,SE,GQ,Round 02,10275,638529,432,16572,675,291,74,2024,83,5987
+"Medical College, Baroda",Gujarat,SE,GQ,Round 03,10275,858983,432,19450,675,226,75,2024,83,6850
+"Medical College, Baroda",Gujarat,SE,GQ,Round 04,952886,1006582,20409,20885,204,192,3,2024,7129,7278
+"Medical College, Baroda",Gujarat,SE,GQ,Round 05,1305335,1305335,22569,22569,139,139,1,2024,7918,7918
+"Medical College, Baroda",Gujarat,ST,GQ,Round 01,18818,942826,689,20292,660,206,42,2024,3,2014
+"Medical College, Baroda",Gujarat,ST,GQ,Round 02,18818,1110689,689,21700,660,171,43,2024,3,2302
+"Medical College, Baroda",Gujarat,ST,GQ,Round 03,18818,1067101,689,21371,660,180,33,2024,3,2248
+"Medical College, Baroda",Gujarat,MQ,MQ,Round 01,346910,418367,11607,12965,414,379,5,2024,,
+"Medical College, Baroda",Gujarat,MQ,MQ,Round 02,475901,587893,13937,15804,353,309,12,2024,,
+"Medical College, Baroda",Gujarat,MQ,MQ,Round 03,499891,663005,14352,16919,343,283,12,2024,,
+"Medical College, Baroda",Gujarat,MQ,MQ,Round 04,637012,637012,16539,16539,292,292,1,2024,,
+"Narendra Modi Medical College, Ahmedabad",Gujarat,EW,GQ,Round 01,80719,86832,3048,3307,597,592,15,2024,838,931
+"Narendra Modi Medical College, Ahmedabad",Gujarat,EW,GQ,Round 02,76938,86832,2883,3307,600,592,15,2024,786,931
+"Narendra Modi Medical College, Ahmedabad",Gujarat,EW,GQ,Round 03,76938,86832,2883,3307,600,592,14,2024,786,931
+"Narendra Modi Medical College, Ahmedabad",Gujarat,OP,GQ,Round 01,69059,79268,2549,2989,607,598,25,2024,,
+"Narendra Modi Medical College, Ahmedabad",Gujarat,OP,GQ,Round 02,69659,79020,2573,2984,607,598,23,2024,,
+"Narendra Modi Medical College, Ahmedabad",Gujarat,OP,GQ,Round 03,69659,79020,2573,2984,607,598,21,2024,,
+"Narendra Modi Medical College, Ahmedabad",Gujarat,SC,GQ,Round 01,87373,135098,3333,5319,591,552,10,2024,126,258
+"Narendra Modi Medical College, Ahmedabad",Gujarat,SC,GQ,Round 02,107695,135884,4231,5354,574,551,10,2024,185,260
+"Narendra Modi Medical College, Ahmedabad",Gujarat,SC,GQ,Round 03,107695,135884,4231,5354,574,551,10,2024,185,260
+"Narendra Modi Medical College, Ahmedabad",Gujarat,SE,GQ,Round 01,79907,98416,3014,3831,598,582,41,2024,1007,1319
+"Narendra Modi Medical College, Ahmedabad",Gujarat,SE,GQ,Round 02,79876,98416,3012,3831,598,582,41,2024,1005,1319
+"Narendra Modi Medical College, Ahmedabad",Gujarat,SE,GQ,Round 03,75149,98416,2800,3831,602,582,41,2024,936,1319
+"Narendra Modi Medical College, Ahmedabad",Gujarat,ST,GQ,Round 01,456342,477892,13593,13967,361,352,22,2024,466,533
+"Narendra Modi Medical College, Ahmedabad",Gujarat,ST,GQ,Round 02,453789,477892,13550,13967,362,352,22,2024,458,533
+"Narendra Modi Medical College, Ahmedabad",Gujarat,ST,GQ,Round 03,453789,477892,13550,13967,362,352,22,2024,458,533
+"Narendra Modi Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 02,211864,211864,8160,8160,495,495,1,2024,,
+"Narendra Modi Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 03,211864,211864,8160,8160,495,495,1,2024,,
+"Narendra Modi Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 04,238111,238111,8961,8961,478,478,1,2024,,
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,EW,GQ,Round 01,16661,204971,621,7949,663,500,29,2024,140,2161
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,EW,GQ,Round 02,19254,199902,699,7792,660,504,30,2024,161,2122
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,EW,GQ,Round 03,19254,237534,699,8942,660,478,30,2024,161,2412
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,OP,GQ,Round 01,1615,165177,84,6547,700,529,49,2024,,
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,OP,GQ,Round 02,4698,178153,217,7067,686,519,61,2024,,
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,OP,GQ,Round 03,4698,187274,217,7363,686,512,61,2024,,
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,OP,GQ,Round 04,211309,211309,8142,8142,496,496,1,2024,,
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,SC,GQ,Round 01,33312,252725,1173,9408,642,469,21,2024,36,657
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,SC,GQ,Round 02,33312,289498,1173,10286,642,446,21,2024,36,725
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,SC,GQ,Round 03,33312,310571,1173,10785,642,434,21,2024,36,845
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,SE,GQ,Round 01,19838,216458,720,8309,659,492,80,2024,167,3078
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,SE,GQ,Round 02,19838,208505,720,8055,659,498,81,2024,167,2988
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,SE,GQ,Round 03,19838,314475,720,10878,659,432,82,2024,167,4069
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,SE,GQ,Round 04,174905,314812,6926,10886,521,431,2,2024,2578,4073
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,ST,GQ,Round 01,35334,680300,1245,17164,640,277,44,2024,8,1250
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,ST,GQ,Round 02,161103,707830,6363,17558,532,269,46,2024,41,1346
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,ST,GQ,Round 03,161103,901705,6363,19909,532,216,46,2024,41,1921
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,MQ,MQ,Round 01,199041,231478,7757,8768,504,482,2,2024,,
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,MQ,MQ,Round 02,238431,343733,8976,11540,478,416,6,2024,,
+"Pandit Deendayal Upadhyay Medical College, Rajkot",Gujarat,MQ,MQ,Round 03,289276,339732,10277,11461,446,418,2,2024,,
+"MP Shah Medical College, Jamnagar",Gujarat,EW,GQ,Round 01,21503,146560,759,5791,656,543,30,2024,174,1587
+"MP Shah Medical College, Jamnagar",Gujarat,EW,GQ,Round 02,22783,156032,800,6167,655,536,30,2024,185,1691
+"MP Shah Medical College, Jamnagar",Gujarat,EW,GQ,Round 03,22959,158221,807,6263,655,534,30,2024,188,1716
+"MP Shah Medical College, Jamnagar",Gujarat,OP,GQ,Round 01,9166,140223,393,5537,675,548,48,2024,,
+"MP Shah Medical College, Jamnagar",Gujarat,OP,GQ,Round 02,9166,148658,393,5869,675,541,48,2024,,
+"MP Shah Medical College, Jamnagar",Gujarat,OP,GQ,Round 03,9166,152331,393,6019,675,539,48,2024,,
+"MP Shah Medical College, Jamnagar",Gujarat,OP,GQ,Round 05,345140,345140,11568,11568,415,415,1,2024,,
+"MP Shah Medical College, Jamnagar",Gujarat,SC,GQ,Round 01,34442,221798,1216,8491,641,489,21,2024,41,558
+"MP Shah Medical College, Jamnagar",Gujarat,SC,GQ,Round 02,54673,256379,1979,9499,620,466,22,2024,61,670
+"MP Shah Medical College, Jamnagar",Gujarat,SC,GQ,Round 03,54673,263913,1979,9679,620,461,22,2024,61,700
+"MP Shah Medical College, Jamnagar",Gujarat,SE,GQ,Round 01,21604,162544,761,6427,656,531,81,2024,180,2375
+"MP Shah Medical College, Jamnagar",Gujarat,SE,GQ,Round 02,22941,163222,806,6449,655,530,83,2024,195,2384
+"MP Shah Medical College, Jamnagar",Gujarat,SE,GQ,Round 03,22941,174124,806,6896,655,522,83,2024,195,2563
+"MP Shah Medical College, Jamnagar",Gujarat,SE,GQ,Round 04,145292,145292,5741,5741,544,544,1,2024,2114,2114
+"MP Shah Medical College, Jamnagar",Gujarat,ST,GQ,Round 01,164179,655950,6505,16814,530,285,46,2024,45,1146
+"MP Shah Medical College, Jamnagar",Gujarat,ST,GQ,Round 02,164179,690062,6505,17295,530,274,48,2024,45,1285
+"MP Shah Medical College, Jamnagar",Gujarat,ST,GQ,Round 03,164179,715995,6505,17676,530,266,48,2024,45,1372
+"MP Shah Medical College, Jamnagar",Gujarat,ST,GQ,Round 04,653936,653936,16791,16791,286,286,1,2024,1141,1141
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,GQ,Round 01,58938,245046,2146,9195,616,474,19,2024,576,2485
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,GQ,Round 02,60953,253445,2216,9424,615,468,19,2024,587,2542
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,GQ,Round 03,60953,402540,2216,12663,615,386,19,2024,587,3214
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,GQ,Round 04,475714,480365,13933,14018,353,351,2,2024,3018.5,3464
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,GQ,Round 05,794521,794521,18713,18713,244,244,1,2024,4243,4243
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,OP,GQ,Round 01,43200,219661,1530,8423,632,490,23,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,OP,GQ,Round 02,43200,237917,1530,8955,632,478,25,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,OP,GQ,Round 03,43200,304787,1530,10658,632,437,28,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,OP,GQ,Round 04,264158,264158,9686,9686,461,461,1,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,GQ,Round 01,86916,271891,3312,9869,591,457,14,2024,125,732
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,GQ,Round 02,86916,334480,3312,11357,591,421,14,2024,125,915
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,GQ,Round 03,86916,362422,3312,11930,591,406,14,2024,125,971
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,GQ,Round 04,456672,478254,13596,13977,361,352,2,2024,1181,1229
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,GQ,Round 05,922251,922251,20103,20103,211,211,1,2024,1946,1946
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,GQ,Round 01,58899,275895,2144,9964,616,454,52,2024,669,3721
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,GQ,Round 02,60368,419097,2193,12977,615,378,52,2024,695,4833
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,GQ,Round 03,60368,682365,2193,17193,615,277,52,2024,695,6087
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,GQ,Round 04,329816,893950,11250,19832,423,218,4,2024,4208,6961
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,GQ,Round 05,1275570,1275570,22461,22461,144,144,1,2024,7873,7873
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,ST,GQ,Round 01,372025,794394,12120,18709,401,244,30,2024,276,1622
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,ST,GQ,Round 02,385896,848746,12383,19354,394,229,30,2024,301,1781
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,ST,GQ,Round 03,385896,1086314,12383,21517,394,176,30,2024,301,2273
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,ST,GQ,Round 04,873241,1172357,19602,22078,223,160,4,2024,1822.5,2398
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,LQ,Round 01,63488,79061,2319,2985,612,598,7,2024,611,822
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,LQ,Round 02,63488,79061,2319,2985,612,598,7,2024,611,822
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,EW,LQ,Round 03,63488,79061,2319,2985,612,598,7,2024,611,822
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,OP,LQ,Round 01,42156,50716,1486,1824,633,624,3,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,OP,LQ,Round 02,42156,50716,1486,1824,633,624,3,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,OP,LQ,Round 03,42156,50716,1486,1824,633,624,3,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,LQ,Round 01,93903,114635,3615,4492,585,568,4,2024,142,201
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,LQ,Round 02,93903,114635,3615,4492,585,568,4,2024,142,201
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SC,LQ,Round 03,93903,114635,3615,4492,585,568,4,2024,142,201
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,LQ,Round 01,57364,112877,2086,4418,618,570,18,2024,643,1556
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,LQ,Round 02,57364,112877,2086,4418,618,570,18,2024,643,1556
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,LQ,Round 03,57364,114540,2086,4488,618,568,18,2024,643,1596
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,SE,LQ,Round 04,158496,158496,6276,6276,534,534,1,2024,2311,2311
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,ST,LQ,Round 01,384870,692034,12363,17318,395,274,10,2024,299,1292
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,ST,LQ,Round 02,384870,692034,12363,17318,395,274,10,2024,299,1292
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,ST,LQ,Round 03,384870,692034,12363,17318,395,274,10,2024,299,1292
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 01,57599,263636,2094,9672,618,462,13,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 02,152532,471330,6024,13853,538,355,24,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 03,164417,471330,6519,13853,529,355,11,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 04,184173,490914,7255,14201,515,347,2,2024,,
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 05,326687,326687,11176,11176,425,425,1,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,EW,GQ,Round 01,80357,84457,3033,3214,597,594,11,2024,834,897
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,EW,GQ,Round 02,80357,84457,3033,3214,597,594,11,2024,834,897
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,EW,GQ,Round 03,80357,84457,3033,3214,597,594,11,2024,834,897
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,OP,GQ,Round 01,18907,79928,692,3017,660,598,16,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,OP,GQ,Round 02,18907,79928,692,3017,660,598,20,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,OP,GQ,Round 03,18907,79928,692,3017,660,598,21,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SC,GQ,Round 01,131726,148085,5192,5845,555,542,8,2024,250,295
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SC,GQ,Round 02,131726,148085,5192,5845,555,542,8,2024,250,295
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SC,GQ,Round 03,130094,148085,5141,5845,556,542,8,2024,245,295
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SE,GQ,Round 01,79989,98964,3022,3854,598,581,32,2024,1009,1327
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SE,GQ,Round 02,75264,98964,2809,3854,602,581,32,2024,941,1327
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SE,GQ,Round 03,75264,98964,2809,3854,602,581,32,2024,941,1327
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,ST,GQ,Round 01,394589,467797,12512,13790,390,356,18,2024,321,503
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,ST,GQ,Round 02,394589,467797,12512,13790,390,356,18,2024,321,503
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,ST,GQ,Round 03,394589,467797,12512,13790,390,356,18,2024,321,503
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,EW,LQ,Round 01,70750,78868,2613,2973,606,599,7,2024,696,815
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,EW,LQ,Round 02,70750,78868,2613,2973,606,599,7,2024,696,815
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,EW,LQ,Round 03,70750,78868,2613,2973,606,599,7,2024,696,815
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,OP,LQ,Round 01,27569,70057,970,2586,649,606,12,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,OP,LQ,Round 02,27569,70057,970,2586,649,606,12,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,OP,LQ,Round 03,27569,70057,970,2586,649,606,11,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SC,LQ,Round 01,96744,151845,3741,5998,583,539,5,2024,155,309
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SC,LQ,Round 02,96744,151845,3741,5998,583,539,5,2024,155,309
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SC,LQ,Round 03,96744,151845,3741,5998,583,539,5,2024,155,309
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SE,LQ,Round 01,77676,94735,2924,3654,600,585,19,2024,982,1250
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SE,LQ,Round 02,77439,94735,2909,3654,600,585,19,2024,976,1250
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,SE,LQ,Round 03,77439,94735,2909,3654,600,585,19,2024,976,1250
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,ST,LQ,Round 01,459226,592168,13637,15862,360,307,10,2024,477,908
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,ST,LQ,Round 02,459226,592168,13637,15862,360,307,10,2024,477,908
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,ST,LQ,Round 03,459226,592168,13637,15862,360,307,10,2024,477,908
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,MQ,MQ,Round 01,119602,186853,4723,7348,564,513,8,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,MQ,MQ,Round 02,153453,253442,6054,9423,538,468,33,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,MQ,MQ,Round 03,153453,245082,6054,9199,538,474,33,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,MQ,MQ,Round 04,208315,284234,8049,10155,498,449,3,2024,,
+"Surat Municipal Institute of Medical Education & Research, Surat",Gujarat,MQ,MQ,Round 05,328990,347550,11239,11618,424,414,2,2024,,
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,EW,GQ,Round 01,86006,94591,3275,3651,592,585,15,2024,917,1021
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,EW,GQ,Round 02,87915,98679,3357,3840,591,581,15,2024,945,1070
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,EW,GQ,Round 03,87915,98846,3357,3848,591,581,15,2024,945,1070
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,OP,GQ,Round 01,71626,85294,2649,3244,605,593,51,2024,,
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,OP,GQ,Round 02,69747,87393,2577,3336,607,591,47,2024,,
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,OP,GQ,Round 03,70304,87393,2592,3336,606,591,45,2024,,
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,SC,GQ,Round 01,137490,171215,5421,6777,550,524,10,2024,268,386
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,SC,GQ,Round 02,137490,171215,5421,6777,550,524,10,2024,268,386
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,SC,GQ,Round 03,137490,171215,5421,6777,550,524,10,2024,268,386
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,SE,GQ,Round 01,86174,99679,3281,3883,592,581,40,2024,1097,1339
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,SE,GQ,Round 02,87763,101586,3350,3962,591,579,40,2024,1124,1368
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,SE,GQ,Round 03,87763,101723,3350,3971,591,579,40,2024,1124,1370
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,SE,GQ,Round 04,133818,133818,5276,5276,553,553,1,2024,1916,1916
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,ST,GQ,Round 01,461821,552131,13677,15206,359,322,23,2024,483,775
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,ST,GQ,Round 02,466891,552131,13771,15206,357,322,23,2024,499,775
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,ST,GQ,Round 03,466891,552131,13771,15206,357,322,23,2024,499,775
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,MQ,MQ,Round 01,140025,153615,5528,6065,548,538,12,2024,,
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,MQ,MQ,Round 02,152194,176454,6010,6991,539,520,34,2024,,
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Gujarat,MQ,MQ,Round 03,152747,176454,6031,6991,538,520,34,2024,,
+"Bhagyoday Medical College, Mehsana",Gujarat,EW,GQ,Round 03,142562,146324,5631,5781,546,543,8,2024,1554,1584
+"Bhagyoday Medical College, Mehsana",Gujarat,OP,GQ,Round 03,86843,141581,3308,5587,592,547,21,2024,,
+"Bhagyoday Medical College, Mehsana",Gujarat,OP,GQ,Round 04,141479,147505,5584,5828,547,542,2,2024,,
+"Bhagyoday Medical College, Mehsana",Gujarat,SC,GQ,Round 03,156776,175565,6206,6954,535,521,5,2024,335,407
+"Bhagyoday Medical College, Mehsana",Gujarat,SE,GQ,Round 03,144382,153646,5699,6067,545,538,20,2024,2097,2249
+"Bhagyoday Medical College, Mehsana",Gujarat,SE,GQ,Round 04,154336,154336,6090,6090,537,537,1,2024,2253,2253
+"Bhagyoday Medical College, Mehsana",Gujarat,ST,GQ,Round 03,492428,588642,14223,15814,346,309,11,2024,580,901
+"Bhagyoday Medical College, Mehsana",Gujarat,ST,GQ,Round 04,589681,590767,15829,15844,308,308,2,2024,904,906
+"Bhagyoday Medical College, Mehsana",Gujarat,MQ,MQ,Round 03,186856,247969,7349,9278,513,472,18,2024,,
+"Bhagyoday Medical College, Mehsana",Gujarat,MQ,MQ,Round 04,169749,199483,6712,7772,525,504,4,2024,,
+"CU Shah Medical College, Surendra Nagar",Gujarat,EW,GQ,Round 01,81738,84590,3088,3222,596,594,8,2024,850,900
+"CU Shah Medical College, Surendra Nagar",Gujarat,EW,GQ,Round 02,82849,87655,3136,3344,595,591,8,2024,871,942
+"CU Shah Medical College, Surendra Nagar",Gujarat,EW,GQ,Round 03,82849,87655,3136,3344,595,591,8,2024,871,942
+"CU Shah Medical College, Surendra Nagar",Gujarat,OP,GQ,Round 01,69301,80917,2558,3058,607,597,23,2024,,
+"CU Shah Medical College, Surendra Nagar",Gujarat,OP,GQ,Round 02,68605,82836,2535,3134,608,595,21,2024,,
+"CU Shah Medical College, Surendra Nagar",Gujarat,OP,GQ,Round 03,68605,82836,2535,3134,608,595,22,2024,,
+"CU Shah Medical College, Surendra Nagar",Gujarat,SC,GQ,Round 01,131774,150764,5196,5947,555,540,5,2024,251,306
+"CU Shah Medical College, Surendra Nagar",Gujarat,SC,GQ,Round 02,131774,154685,5196,6109,555,537,5,2024,251,323
+"CU Shah Medical College, Surendra Nagar",Gujarat,SC,GQ,Round 03,131774,154873,5196,6122,555,537,5,2024,251,325
+"CU Shah Medical College, Surendra Nagar",Gujarat,SE,GQ,Round 01,81291,95509,3073,3694,596,584,21,2024,1030,1266
+"CU Shah Medical College, Surendra Nagar",Gujarat,SE,GQ,Round 02,82964,98399,3140,3828,595,582,21,2024,1047,1317
+"CU Shah Medical College, Surendra Nagar",Gujarat,SE,GQ,Round 03,80918,98399,3059,3828,597,582,21,2024,1024,1317
+"CU Shah Medical College, Surendra Nagar",Gujarat,ST,GQ,Round 01,471212,516688,13851,14625,355,336,11,2024,514,660
+"CU Shah Medical College, Surendra Nagar",Gujarat,ST,GQ,Round 02,467573,515027,13785,14602,356,337,11,2024,502,654
+"CU Shah Medical College, Surendra Nagar",Gujarat,ST,GQ,Round 03,467573,515027,13785,14602,356,337,11,2024,502,654
+"CU Shah Medical College, Surendra Nagar",Gujarat,MQ,MQ,Round 01,140529,184382,5553,7265,548,515,5,2024,,
+"CU Shah Medical College, Surendra Nagar",Gujarat,MQ,MQ,Round 02,164239,267030,6509,9752,530,460,21,2024,,
+"CU Shah Medical College, Surendra Nagar",Gujarat,MQ,MQ,Round 03,164239,296446,6509,10450,530,442,18,2024,,
+"CU Shah Medical College, Surendra Nagar",Gujarat,MQ,MQ,Round 04,243272,284391,9134,10163,475,449,2,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,EW,GQ,Round 01,102032,110054,3982,4331,579,572,15,2024,1107,1202
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,EW,GQ,Round 02,105576,114892,4122,4504,576,568,15,2024,1150,1248
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,EW,GQ,Round 03,100648,114892,3923,4504,580,568,15,2024,1095,1248
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,OP,GQ,Round 01,71983,101638,2668,3966,605,579,39,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,OP,GQ,Round 02,71983,104059,2668,4058,605,577,37,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,OP,GQ,Round 03,71983,104059,2668,4058,605,577,38,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,SC,GQ,Round 01,151781,177826,5993,7057,539,519,11,2024,308,419
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,SC,GQ,Round 02,167802,177826,6644,7057,527,519,11,2024,374,419
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,SC,GQ,Round 03,167802,177826,6644,7057,527,519,11,2024,374,419
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,SE,GQ,Round 01,102129,117283,3985,4602,579,566,40,2024,1376,1632
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,SE,GQ,Round 02,105587,117442,4124,4618,576,566,41,2024,1429,1635
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,SE,GQ,Round 03,100995,119096,3938,4701,580,565,41,2024,1357,1678
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,ST,GQ,Round 01,460957,546271,13664,15122,359,324,22,2024,482,758
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,ST,GQ,Round 02,476872,546271,13954,15122,352,324,22,2024,527,758
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,ST,GQ,Round 03,476872,546271,13954,15122,352,324,22,2024,527,758
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,MQ,MQ,Round 01,173182,182568,6866,7202,523,516,12,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,MQ,MQ,Round 02,182568,258434,7202,9549,516,465,33,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,MQ,MQ,Round 03,182568,287926,7202,10244,516,447,32,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,MQ,MQ,Round 04,188069,238396,7392,8973,512,478,2,2024,,
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Gujarat,MQ,MQ,Round 05,314298,314298,10873,10873,432,432,1,2024,,
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,EW,GQ,Round 01,104745,118000,4094,4649,576,565,19,2024,1143,1291
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,EW,GQ,Round 02,93790,118000,3610,4649,586,565,19,2024,1011,1291
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,EW,GQ,Round 03,94953,118000,3665,4649,585,565,19,2024,1025,1291
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,OP,GQ,Round 01,81915,104055,3097,4057,596,577,23,2024,,
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,OP,GQ,Round 02,81915,104055,3097,4057,596,577,22,2024,,
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,OP,GQ,Round 03,81915,104055,3097,4057,596,577,25,2024,,
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,SC,GQ,Round 01,135853,150718,5353,5945,551,540,13,2024,259,305
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,SC,GQ,Round 02,133101,151781,5245,5993,553,539,13,2024,255,308
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,SC,GQ,Round 03,133101,151781,5245,5993,553,539,13,2024,255,308
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,SE,GQ,Round 01,104906,135223,4098,5326,576,552,50,2024,1417,1936
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,SE,GQ,Round 02,92596,135223,3544,5326,587,552,50,2024,1210,1936
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,SE,GQ,Round 03,96630,135223,3733,5326,583,552,50,2024,1280,1936
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,ST,GQ,Round 01,466459,523172,13758,14739,357,333,28,2024,496,682
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,ST,GQ,Round 02,466459,523172,13758,14739,357,333,28,2024,496,682
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,ST,GQ,Round 03,466459,523172,13758,14739,357,333,28,2024,496,682
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,MQ,MQ,Round 01,141976,180704,5607,7142,546,517,12,2024,,
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,MQ,MQ,Round 02,144409,226171,5701,8602,545,486,27,2024,,
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Gujarat,MQ,MQ,Round 03,144409,235699,5701,8891,545,480,25,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,EW,GQ,Round 01,77180,83563,2896,3184,600,595,11,2024,790,886
+"GCS Medical College, Ahmedabad",Gujarat,EW,GQ,Round 02,77180,83563,2896,3184,600,595,11,2024,790,886
+"GCS Medical College, Ahmedabad",Gujarat,EW,GQ,Round 03,77180,83563,2896,3184,600,595,11,2024,790,886
+"GCS Medical College, Ahmedabad",Gujarat,OP,GQ,Round 01,64958,77137,2371,2893,611,600,15,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,OP,GQ,Round 02,64958,77137,2371,2893,611,600,16,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,OP,GQ,Round 03,64958,77137,2371,2893,611,600,15,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,SC,GQ,Round 01,117966,128714,4648,5081,565,557,8,2024,218,241
+"GCS Medical College, Ahmedabad",Gujarat,SC,GQ,Round 02,117966,128714,4648,5081,565,557,8,2024,218,241
+"GCS Medical College, Ahmedabad",Gujarat,SC,GQ,Round 03,117966,128714,4648,5081,565,557,8,2024,218,241
+"GCS Medical College, Ahmedabad",Gujarat,SE,GQ,Round 01,77285,91528,2903,3498,600,588,30,2024,973,1187
+"GCS Medical College, Ahmedabad",Gujarat,SE,GQ,Round 02,75111,91528,2798,3498,602,588,30,2024,935,1187
+"GCS Medical College, Ahmedabad",Gujarat,SE,GQ,Round 03,75111,91528,2798,3498,602,588,30,2024,935,1187
+"GCS Medical College, Ahmedabad",Gujarat,ST,GQ,Round 01,458361,486394,13631,14126,360,349,17,2024,475,565
+"GCS Medical College, Ahmedabad",Gujarat,ST,GQ,Round 02,452314,486394,13522,14126,363,349,17,2024,455,565
+"GCS Medical College, Ahmedabad",Gujarat,ST,GQ,Round 03,452314,486394,13522,14126,363,349,17,2024,455,565
+"GCS Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 01,93258,93258,3574,3574,586,586,1,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 02,93258,93258,3574,3574,586,586,1,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,MQ,MQ,Round 03,93258,141976,3574,5607,586,546,2,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,NRI,NQ,Round 01,1125368,1125368,21792,21792,169,169,1,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,NRI,NQ,Round 02,1125368,1125368,21792,21792,169,169,1,2024,,
+"GCS Medical College, Ahmedabad",Gujarat,NRI,NQ,Round 03,1125368,1125368,21792,21792,169,169,1,2024,,
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,EW,GQ,Round 01,89213,94393,3412,3635,590,585,13,2024,962,1018
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,EW,GQ,Round 02,84605,94393,3223,3635,594,585,13,2024,901,1018
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,EW,GQ,Round 03,76861,94393,2875,3635,600,585,13,2024,782,1018
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,OP,GQ,Round 01,68596,89047,2533,3405,608,590,31,2024,,
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,OP,GQ,Round 02,71002,89047,2623,3405,605,590,31,2024,,
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,OP,GQ,Round 03,71002,89047,2623,3405,605,590,31,2024,,
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,SC,GQ,Round 01,136143,156699,5365,6199,551,535,9,2024,261,334
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,SC,GQ,Round 02,136143,156699,5365,6199,551,535,9,2024,261,334
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,SC,GQ,Round 03,136143,156699,5365,6199,551,535,9,2024,261,334
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,SE,GQ,Round 01,91190,104859,3476,4095,588,576,34,2024,1174,1416
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,SE,GQ,Round 02,81291,103914,3073,4053,596,577,34,2024,1030,1400
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,SE,GQ,Round 03,76775,103914,2872,4053,600,577,34,2024,963,1400
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,ST,GQ,Round 01,462438,570737,13694,15513,359,315,19,2024,485,845
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,ST,GQ,Round 02,462438,570737,13694,15513,359,315,19,2024,485,845
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,ST,GQ,Round 03,462438,570737,13694,15513,359,315,19,2024,485,845
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,MQ,MQ,Round 02,175221,235791,6938,8901,521,480,14,2024,,
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Gujarat,MQ,MQ,Round 03,175221,235791,6938,8901,521,480,14,2024,,
+"Kiran Medical College, Surat",Gujarat,EW,GQ,Round 01,103115,111278,4023,4368,578,571,12,2024,1120,1212
+"Kiran Medical College, Surat",Gujarat,EW,GQ,Round 02,80924,111278,3060,4368,597,571,12,2024,842,1212
+"Kiran Medical College, Surat",Gujarat,EW,GQ,Round 03,80924,111278,3060,4368,597,571,12,2024,842,1212
+"Kiran Medical College, Surat",Gujarat,OP,GQ,Round 01,80603,102964,3045,4013,597,578,24,2024,,
+"Kiran Medical College, Surat",Gujarat,OP,GQ,Round 02,71824,102964,2663,4013,605,578,24,2024,,
+"Kiran Medical College, Surat",Gujarat,OP,GQ,Round 03,73515,102964,2729,4013,603,578,23,2024,,
+"Kiran Medical College, Surat",Gujarat,SC,GQ,Round 01,154058,171676,6081,6803,537,524,7,2024,322,392
+"Kiran Medical College, Surat",Gujarat,SC,GQ,Round 02,154058,171676,6081,6803,537,524,7,2024,322,392
+"Kiran Medical College, Surat",Gujarat,SC,GQ,Round 03,154058,174231,6081,6900,537,522,7,2024,322,402
+"Kiran Medical College, Surat",Gujarat,SC,GQ,Round 04,183570,183570,7234,7234,515,515,1,2024,435,435
+"Kiran Medical College, Surat",Gujarat,SE,GQ,Round 01,104318,122985,4070,4843,577,561,30,2024,1406,1738
+"Kiran Medical College, Surat",Gujarat,SE,GQ,Round 02,95143,122985,3681,4843,585,561,30,2024,1261,1738
+"Kiran Medical College, Surat",Gujarat,SE,GQ,Round 03,95143,122985,3681,4843,585,561,30,2024,1261,1738
+"Kiran Medical College, Surat",Gujarat,ST,GQ,Round 01,477491,526923,13963,14810,352,332,17,2024,530,705
+"Kiran Medical College, Surat",Gujarat,ST,GQ,Round 02,477491,526923,13963,14810,352,332,17,2024,530,705
+"Kiran Medical College, Surat",Gujarat,ST,GQ,Round 03,477491,526923,13963,14810,352,332,17,2024,530,705
+"Kiran Medical College, Surat",Gujarat,MQ,MQ,Round 01,144670,155577,5715,6141,545,536,8,2024,,
+"Kiran Medical College, Surat",Gujarat,MQ,MQ,Round 02,150525,195823,5938,7651,540,506,18,2024,,
+"Kiran Medical College, Surat",Gujarat,MQ,MQ,Round 03,150525,195823,5938,7651,540,506,19,2024,,
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,EW,GQ,Round 01,120064,127857,4737,5046,564,558,11,2024,1313,1396
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,EW,GQ,Round 02,123320,127857,4849,5046,561,558,11,2024,1343,1396
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,EW,GQ,Round 03,119163,127857,4712,5046,565,558,11,2024,1306,1396
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,OP,GQ,Round 01,95434,119091,3692,4699,584,565,27,2024,,
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,OP,GQ,Round 02,88843,121446,3393,4794,590,563,29,2024,,
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,OP,GQ,Round 03,70889,121446,2620,4794,605,563,27,2024,,
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,SC,GQ,Round 01,144312,168039,5694,6658,545,527,8,2024,285,375
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,SC,GQ,Round 02,144312,168039,5694,6658,545,527,8,2024,285,375
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,SC,GQ,Round 03,144312,168039,5694,6658,545,527,8,2024,285,375
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,SE,GQ,Round 01,120269,143611,4749,5672,564,545,30,2024,1700,2078
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,SE,GQ,Round 02,121995,143561,4810,5670,562,545,30,2024,1721,2077
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,SE,GQ,Round 03,119054,143561,4695,5670,565,545,30,2024,1674,2077
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,ST,GQ,Round 01,541455,573358,15038,15559,326,314,17,2024,746,857
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,ST,GQ,Round 02,493592,572993,14249,15554,345,314,17,2024,584,855
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,ST,GQ,Round 03,541455,572993,15038,15554,326,314,17,2024,746,855
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,MQ,MQ,Round 01,160053,179894,6329,7118,533,518,10,2024,,
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,MQ,MQ,Round 02,160053,256731,6329,9502,533,466,28,2024,,
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,MQ,MQ,Round 03,160053,258384,6329,9544,533,465,28,2024,,
+"Nootan Medical College and Research Centre, Mehsana",Gujarat,MQ,MQ,Round 04,239472,241406,9008,9066,477,476,2,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,EW,GQ,Round 01,130811,133431,5165,5259,555,553,10,2024,1424,1456
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,EW,GQ,Round 02,136219,140130,5368,5531,551,548,11,2024,1481,1516
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,EW,GQ,Round 03,145701,150862,5758,5953,544,540,11,2024,1577,1633
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,EW,GQ,Round 04,152695,155068,6029,6129,538,536,4,2024,1651,1680
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,EW,GQ,Round 05,156029,156029,6166,6166,536,536,1,2024,1690,1690
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,OP,GQ,Round 01,93087,129912,3568,5131,586,556,11,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,OP,GQ,Round 02,83219,135987,3160,5359,595,551,14,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,OP,GQ,Round 03,87409,142078,3338,5612,591,546,16,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,OP,GQ,Round 04,136756,136756,5392,5392,551,551,1,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,OP,GQ,Round 05,155635,155635,6146,6146,536,536,1,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,SC,GQ,Round 01,144800,174011,5718,6891,544,522,8,2024,286,398
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,SC,GQ,Round 02,144800,168228,5718,6666,544,526,8,2024,286,376
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,SC,GQ,Round 03,144800,177237,5718,7021,544,520,8,2024,286,415
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,SE,GQ,Round 01,133612,149769,5267,5921,553,540,31,2024,1910,2187
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,SE,GQ,Round 02,136432,151153,5376,5977,551,540,30,2024,1960,2211
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,SE,GQ,Round 03,142616,155091,5632,6130,546,536,31,2024,2061,2267
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,ST,GQ,Round 01,398454,563749,12593,15396,388,318,17,2024,332,819
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,ST,GQ,Round 02,484263,563749,14083,15396,349,318,17,2024,559,819
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,ST,GQ,Round 03,484263,563749,14083,15396,349,318,17,2024,559,819
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,MQ,MQ,Round 01,175709,190178,6960,7459,521,510,4,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,MQ,MQ,Round 02,190178,283345,7459,10142,510,450,16,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,MQ,MQ,Round 03,190178,311818,7459,10817,510,433,14,2024,,
+"Parul Institute of Medical Sciences & Research, Vadodara",Gujarat,MQ,MQ,Round 04,227395,230558,8637,8733.5,485,483,2,2024,,
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,EW,GQ,Round 01,118255,124066,4657,4885,565,561,11,2024,1293,1353
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,EW,GQ,Round 02,115914,124066,4540,4885,567,561,11,2024,1262,1353
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,EW,GQ,Round 03,118622,124066,4673,4885,565,561,11,2024,1297,1353
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,OP,GQ,Round 01,100698,117414,3927,4616,580,566,14,2024,,
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,OP,GQ,Round 02,81831,117414,3091,4616,596,566,14,2024,,
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,OP,GQ,Round 03,81831,118361,3091,4662,596,565,14,2024,,
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,SC,GQ,Round 01,141777,156372,5596,6184,547,535,8,2024,277,333
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,SC,GQ,Round 02,141777,156372,5596,6184,547,535,8,2024,277,333
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,SC,GQ,Round 03,141777,156372,5596,6184,547,535,8,2024,277,333
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,SE,GQ,Round 01,118065,143392,4652,5665,565,545,30,2024,1652,2075
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,SE,GQ,Round 02,117756,143446,4642,5666,566,545,30,2024,1647,2076
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,SE,GQ,Round 03,119214,143446,4713,5666,564,545,30,2024,1685,2076
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,SE,GQ,Round 04,155808,155808,6154,6154,536,536,1,2024,2273,2273
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,ST,GQ,Round 01,482862,556416,14064,15282,350,320,17,2024,553,790
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,ST,GQ,Round 02,482862,556416,14064,15282,350,320,17,2024,553,790
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,ST,GQ,Round 03,482862,556416,14064,15282,350,320,17,2024,553,790
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,MQ,MQ,Round 01,133777,143246,5273,5661,553,545,3,2024,,
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,MQ,MQ,Round 02,153573,199020,6062,7756,538,504,21,2024,,
+"SAL Institute of Medical Sciences, Ahmedabad",Gujarat,MQ,MQ,Round 03,154818,199020,6116,7756,537,504,20,2024,,
+"Shantabaa Medical College, Amreli",Gujarat,EW,GQ,Round 01,102117,109387,3983,4311,579,573,15,2024,1108,1194
+"Shantabaa Medical College, Amreli",Gujarat,EW,GQ,Round 02,103003,109387,4015,4311,578,573,15,2024,1115,1194
+"Shantabaa Medical College, Amreli",Gujarat,EW,GQ,Round 03,103003,109387,4015,4311,578,573,15,2024,1115,1194
+"Shantabaa Medical College, Amreli",Gujarat,OP,GQ,Round 01,74592,101812,2772,3973,602,579,45,2024,,
+"Shantabaa Medical College, Amreli",Gujarat,OP,GQ,Round 02,72938,102421,2713,3994,604,578,51,2024,,
+"Shantabaa Medical College, Amreli",Gujarat,OP,GQ,Round 03,71407,102421,2643,3994,605,578,49,2024,,
+"Shantabaa Medical College, Amreli",Gujarat,SC,GQ,Round 01,140226,166431,5538,6597,548,528,11,2024,275,359
+"Shantabaa Medical College, Amreli",Gujarat,SC,GQ,Round 02,148804,166431,5876,6597,541,528,11,2024,298,359
+"Shantabaa Medical College, Amreli",Gujarat,SC,GQ,Round 03,137321,166431,5415,6597,550,528,11,2024,266,359
+"Shantabaa Medical College, Amreli",Gujarat,SE,GQ,Round 01,102848,117556,4007,4624,578,566,41,2024,1386,1639
+"Shantabaa Medical College, Amreli",Gujarat,SE,GQ,Round 02,102752,117556,4005,4624,578,566,41,2024,1384,1639
+"Shantabaa Medical College, Amreli",Gujarat,SE,GQ,Round 03,102752,117556,4005,4624,578,566,41,2024,1384,1639
+"Shantabaa Medical College, Amreli",Gujarat,ST,GQ,Round 01,496048,585997,14292,15774,345,310,22,2024,593,892
+"Shantabaa Medical College, Amreli",Gujarat,ST,GQ,Round 02,506294,585997,14450,15774,340,310,22,2024,623,892
+"Shantabaa Medical College, Amreli",Gujarat,ST,GQ,Round 03,506294,585997,14450,15774,340,310,22,2024,623,892
+"Shantabaa Medical College, Amreli",Gujarat,MQ,MQ,Round 01,93004,164584,3564,6526,586,529,11,2024,,
+"Shantabaa Medical College, Amreli",Gujarat,MQ,MQ,Round 02,161184,210776,6364,8122,532,496,30,2024,,
+"Shantabaa Medical College, Amreli",Gujarat,MQ,MQ,Round 03,161184,210776,6364,8122,532,496,32,2024,,
+"Shantabaa Medical College, Amreli",Gujarat,MQ,MQ,Round 04,158058,158913,6253,6296,534,534,2,2024,,
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,EW,GQ,Round 01,125076,129112,4925,5102,560,557,11,2024,1367,1410
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,EW,GQ,Round 02,130210,133398,5144,5258,556,553,11,2024,1419,1455
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,EW,GQ,Round 03,131746,138173,5194,5457,555,550,11,2024,1433,1503
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,OP,GQ,Round 01,84011,124644,3193,4903,594,560,26,2024,,
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,OP,GQ,Round 02,84011,128827,3193,5085,594,557,30,2024,,
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,OP,GQ,Round 03,84011,131183,3193,5177,594,555,29,2024,,
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,SC,GQ,Round 01,168681,176146,6684,6974,526,521,8,2024,378,409
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,SC,GQ,Round 02,158886,176146,6293,6974,534,521,8,2024,344,409
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,SC,GQ,Round 03,158886,176146,6293,6974,534,521,8,2024,344,409
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,SE,GQ,Round 01,124925,142916,4913,5644,560,546,30,2024,1764,2067
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,SE,GQ,Round 02,129742,143716,5122,5675,556,545,29,2024,1861,2081
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,SE,GQ,Round 03,132112,143996,5210,5680,554,545,29,2024,1892,2085
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,ST,GQ,Round 01,553866,585429,15246,15760,321,310,17,2024,780,891
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,ST,GQ,Round 02,557930,584348,15302,15743,320,310,17,2024,799,888
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,ST,GQ,Round 03,558896,584348,15323,15743,320,310,17,2024,801,888
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,MQ,MQ,Round 01,140069,172924,5529,6856,548,523,10,2024,,
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,MQ,MQ,Round 02,183978,229516,7244,8698,515,484,18,2024,,
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,MQ,MQ,Round 03,183978,229516,7244,8698,515,484,22,2024,,
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Gujarat,MQ,MQ,Round 04,161731,161731,6390,6390,531,531,1,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,EW,GQ,Round 01,128425,132107,5069,5209,557,554,15,2024,1403,1438
+"Zydus Medical College & Hospital, Dahod",Gujarat,EW,GQ,Round 02,130811,135329,5165,5331,555,552,15,2024,1424,1472
+"Zydus Medical College & Hospital, Dahod",Gujarat,EW,GQ,Round 03,131274,137918,5179,5446,555,550,15,2024,1430,1501
+"Zydus Medical College & Hospital, Dahod",Gujarat,OP,GQ,Round 01,87086,128290,3320,5063,591,557,27,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,OP,GQ,Round 02,94116,129989,3626,5136,585,556,30,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,OP,GQ,Round 03,94116,131046,3626,5174,585,555,30,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,SC,GQ,Round 01,163637,179306,6468,7100,530,518,11,2024,360,424
+"Zydus Medical College & Hospital, Dahod",Gujarat,SC,GQ,Round 02,142469,179306,5626,7100,546,518,11,2024,279,424
+"Zydus Medical College & Hospital, Dahod",Gujarat,SC,GQ,Round 03,161656,179306,6386,7100,531,518,11,2024,350,424
+"Zydus Medical College & Hospital, Dahod",Gujarat,SE,GQ,Round 01,129000,146918,5092,5811,557,543,41,2024,1847,2139
+"Zydus Medical College & Hospital, Dahod",Gujarat,SE,GQ,Round 02,132019,148841,5205,5877,554,541,41,2024,1890,2170
+"Zydus Medical College & Hospital, Dahod",Gujarat,SE,GQ,Round 03,132019,151201,5205,5980,554,540,41,2024,1890,2213
+"Zydus Medical College & Hospital, Dahod",Gujarat,SE,GQ,Round 04,156670,156670,6196,6196,535,535,1,2024,2283,2283
+"Zydus Medical College & Hospital, Dahod",Gujarat,ST,GQ,Round 01,465876,558542,13750,15312,357,320,22,2024,493,800
+"Zydus Medical College & Hospital, Dahod",Gujarat,ST,GQ,Round 02,477532,558542,13964,15312,352,320,22,2024,531,800
+"Zydus Medical College & Hospital, Dahod",Gujarat,ST,GQ,Round 03,477532,565801,13964,15432,352,317,22,2024,531,831
+"Zydus Medical College & Hospital, Dahod",Gujarat,MQ,MQ,Round 01,166795,199654,6617,7780,528,504,32,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,MQ,MQ,Round 02,183731,276725,7238,9982,515,454,29,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,MQ,MQ,Round 03,193930,310776,7586,10791,508,434,29,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,MQ,MQ,Round 04,183435,258638,7227,9557,515,465,3,2024,,
+"Zydus Medical College & Hospital, Dahod",Gujarat,MQ,MQ,Round 05,357473,357473,11824,11824,409,409,1,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,EW,GQ,Round 01,109565,117382,4318,4611,572,566,11,2024,1198,1279
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,EW,GQ,Round 02,112344,117382,4398,4611,570,566,11,2024,1223,1279
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,EW,GQ,Round 03,112344,117382,4398,4611,570,566,11,2024,1223,1279
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,OP,GQ,Round 01,74770,109549,2779,4316,602,572,17,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,OP,GQ,Round 02,79316,110806,2993,4352,598,571,18,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,OP,GQ,Round 03,79316,110806,2993,4352,598,571,18,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,SC,GQ,Round 01,131392,161804,5181,6392,555,531,7,2024,247,352
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,SC,GQ,Round 02,131392,161804,5181,6392,555,531,7,2024,247,352
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,SC,GQ,Round 03,131392,161804,5181,6392,555,531,7,2024,247,352
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,SE,GQ,Round 01,112980,140478,4427,5551,570,548,31,2024,1562,2033
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,SE,GQ,Round 02,114223,138899,4477,5482,569,549,31,2024,1591,2006
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,SE,GQ,Round 03,114223,138899,4477,5482,569,549,31,2024,1591,2006
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,ST,GQ,Round 01,484994,531768,14095,14894,349,330,17,2024,561,722
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,ST,GQ,Round 02,484994,531768,14095,14894,349,330,17,2024,561,722
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,ST,GQ,Round 03,484994,531768,14095,14894,349,330,17,2024,561,722
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,MQ,MQ,Round 01,187981,195183,7390,7631,512,507,5,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,MQ,MQ,Round 02,188648,292785,7411,10366,511,444,20,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,MQ,MQ,Round 03,188648,310033,7411,10776,511,434,19,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,MQ,MQ,Round 04,220945,220945,8463,8463,489,489,1,2024,,
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Gujarat,MQ,MQ,Round 05,341677,341677,11501,11501,417,417,1,2024,,
+"Pramukhswami Medical College, Anand",Gujarat,EW,GQ,Round 01,101777,111663,3972,4384,579,571,11,2024,1103,1221
+"Pramukhswami Medical College, Anand",Gujarat,EW,GQ,Round 02,104474,111663,4081,4384,577,571,11,2024,1142,1221
+"Pramukhswami Medical College, Anand",Gujarat,EW,GQ,Round 03,104474,111663,4081,4384,577,571,11,2024,1142,1221
+"Pramukhswami Medical College, Anand",Gujarat,OP,GQ,Round 01,71312,100381,2637,3909,605,580,14,2024,,
+"Pramukhswami Medical College, Anand",Gujarat,OP,GQ,Round 02,75565,102307,2824,3991,601,578,13,2024,,
+"Pramukhswami Medical College, Anand",Gujarat,OP,GQ,Round 03,75565,102307,2824,3991,601,578,13,2024,,
+"Pramukhswami Medical College, Anand",Gujarat,SC,GQ,Round 01,122241,158146,4816,6259,562,534,8,2024,220,341
+"Pramukhswami Medical College, Anand",Gujarat,SC,GQ,Round 02,122241,158146,4816,6259,562,534,8,2024,220,341
+"Pramukhswami Medical College, Anand",Gujarat,SC,GQ,Round 03,122241,158146,4816,6259,562,534,8,2024,220,341
+"Pramukhswami Medical College, Anand",Gujarat,SE,GQ,Round 01,101723,135483,3971,5340,579,551,30,2024,1370,1946
+"Pramukhswami Medical College, Anand",Gujarat,SE,GQ,Round 02,106936,135483,4195,5340,575,551,30,2024,1466,1946
+"Pramukhswami Medical College, Anand",Gujarat,SE,GQ,Round 03,106936,135483,4195,5340,575,551,30,2024,1466,1946
+"Pramukhswami Medical College, Anand",Gujarat,ST,GQ,Round 01,441308,514311,13354,14585,368,337,17,2024,428,646
+"Pramukhswami Medical College, Anand",Gujarat,ST,GQ,Round 02,441308,526583,13354,14806,368,332,17,2024,428,704
+"Pramukhswami Medical College, Anand",Gujarat,ST,GQ,Round 03,441308,532346,13354,14905,368,330,17,2024,428,725
+"Pramukhswami Medical College, Anand",Gujarat,MQ,MQ,Round 01,135697,179918,5349,7119,551,518,6,2024,,
+"Pramukhswami Medical College, Anand",Gujarat,MQ,MQ,Round 02,161377,257147,6374,9513,532,466,22,2024,,
+"Pramukhswami Medical College, Anand",Gujarat,MQ,MQ,Round 03,152281,257266,6014,9514,539,466,22,2024,,

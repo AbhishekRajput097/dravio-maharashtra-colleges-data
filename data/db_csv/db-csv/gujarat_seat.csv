@@ -1,0 +1,43 @@
+college_name,institute_type,total_seats,aiq,state_quota,esic_ip,nri_quota,open,sc,st,sebc,ews,mqt_quota
+"All India Institute of Medical Sciences, Rajkot",AIIMS,75,75,0,0,0,31,11,6,20,7,0
+"ESIC MEDICAL COLLEGE NARODA BAPUNAGAR, AHMEDABAD",ESIC,50,3,25,22,0,0,0,0,0,0,0
+"MP Shah Medical College, Jamnagar",State Government,250,38,212,0,0,87,15,32,57,21,0
+"Pandit Deendayal Upadhyay Medical College, Rajkot",State Government,200,30,170,0,0,70,12,25,46,17,0
+"Government Medical College, Bhavnagar",State Government,200,30,170,0,0,69,12,26,46,17,0
+"Medical College, Baroda",State Government,250,38,212,0,0,87,14,32,57,22,0
+"B J Medical College, Ahmedabad",State Government,250,37,213,0,0,88,15,32,57,21,0
+"Government Medical College, Surat",State Government,250,37,213,0,0,87,15,32,58,21,0
+GMERS Medical College Sola Ahmedabad, Gujarat Medical Education and Research Society,200,0,200,0,30,69,12,26,46,17,0
+"GMERS Medical College, Gandhinagar", Gujarat Medical Education and Research Society,200,0,200,0,30,70,12,25,46,17,0
+"GMERS Medical College, Gotri, Vadodara", Gujarat Medical Education and Research Society,200,0,200,0,30,70,12,26,45,17,0
+"GMERS Medical College, Dharpur Patan", Gujarat Medical Education and Research Society,200,0,200,0,30,70,12,25,46,17,0
+"GMERS Medical College, Valsad", Gujarat Medical Education and Research Society,200,0,200,0,30,69,12,26,46,17,0
+"GMERS Medical College, Hadiyol, Himmatnagar", Gujarat Medical Education and Research Society,200,0,200,0,30,70,11,26,46,17,0
+"GMERS Medical College, Junagadh", Gujarat Medical Education and Research Society,200,0,200,0,30,70,12,25,46,17,0
+"GMERS Medical College, Vadnagar, Mehsana", Gujarat Medical Education and Research Society,200,0,200,0,30,70,12,25,46,17,0
+"GMERS Medical College, Navsari", Gujarat Medical Education and Research Society,100,15,85,0,15,29,5,10,19,7,0
+"GMERS Medical College, Rajpipla", Gujarat Medical Education and Research Society,100,15,85,0,15,29,5,10,19,7,0
+GMERS Medical College Porbandar, Gujarat Medical Education and Research Society,100,15,85,0,15,29,5,10,19,7,0
+GMERS Medical College Morbi, Gujarat Medical Education and Research Society,100,15,85,0,15,28,5,11,19,7,0
+GMERS Medical College Panchmahal Godhra, Gujarat Medical Education and Research Society,100,15,85,0,15,28,5,11,19,7,0
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",Municipal Medical Colleges,250,37,213,0,0,87,15,32,58,21,0
+"Surat Municipal Institute of Medical Education & Research, Surat",Municipal Medical Colleges,250,38,212,0,0,87,15,32,57,21,0
+"CU Shah Medical College, Surendra Nagar",Private Medical College,100,0,100,0,15,30,5,11,21,8,10
+"Nootan Medical College and Research Centre, Mehsana",Private Medical College,150,0,150,0,23,46,8,17,30,11,15
+"Narendra Modi Medical College, Ahmedabad",Private Medical College,200,0,200,0,30,11,22,41,15,20,20
+"Bhagyoday Medical College, Mehsana",Private Medical College,150,0,150,0,23,52,9,19,34,13,0
+"GCS Medical College, Ahmedabad",Private Medical College,150,0,150,0,23,46,8,17,30,11,15
+"Pramukhswami Medical College, Anand",Private Medical College,150,0,150,0,22,46,8,17,31,11,15
+"Parul Institute of Medical Sciences & Research, Vadodara",Private Medical College,200,0,200,0,30,62,10,22,41,15,20
+"Zydus Medical College & Hospital, Dahod",Private Medical College,200,0,200,0,0,62,11,22,40,15,50
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",Private Medical College,150,0,150,0,23,46,7,17,31,11,15
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",Private Medical College,150,0,150,0,23,46,8,17,30,11,15
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",Private Medical College,250,0,250,0,38,77,13,28,51,19,24
+"Gujarat Adani Institute of Medical Sciences, Bhuj",Private Medical College,150,0,150,0,23,46,8,17,30,11,15
+"Matushri Prabhaben Khodabhai Boghara Medical College Research Centre, Rajkot",Private Medical College,150,0,150,0,23,46,8,17,30,11,15
+"SAL Institute of Medical Sciences, Ahmedabad",Private Medical College,150,0,150,0,23,46,8,17,30,11,15
+"Ananya College of Medicine Research, Gandhinagar",Private Medical College,150,0,150,0,23,46,8,17,30,11,15
+"Kiran Medical College, Surat",Private Medical College,150,0,150,0,23,46,7,17,30,12,15
+"Shantabaa Medical College, Amreli",Private Medical College,150,0,150,0,23,46,7,17,30,12,15
+"Banas Medical College and Research Institute, Palanpur, Gujarat",Private Medical College,200,0,200,0,30,62,10,22,41,15,20
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,Private Medical College,200,0,200,0,30,62,10,22,41,15,20

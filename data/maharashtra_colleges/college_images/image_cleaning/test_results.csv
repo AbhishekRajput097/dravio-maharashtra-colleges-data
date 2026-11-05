@@ -1,0 +1,11 @@
+college,status,original_size,cleaned_size,path
+ACSR Government Medical College,success,"(1296, 318)","(800, 500)",cleaned_images_test\acsr_government_medical_college.jpg
+AIIMS Mangalagiri,success,"(600, 390)","(800, 500)",cleaned_images_test\aiims_mangalagiri.jpg
+Andhra Medical College Visakhapatnam,success,"(580, 388)","(800, 500)",cleaned_images_test\andhra_medical_college_visakhapatnam.jpg
+Anna Gowri Medical College,success,"(1200, 628)","(800, 500)",cleaned_images_test\anna_gowri_medical_college.jpg
+Apollo Institute Chittoor,success,"(1296, 318)","(800, 500)",cleaned_images_test\apollo_institute_chittoor.jpg
+Govt Medical College Ananthapuram,success,"(1296, 318)","(800, 500)",cleaned_images_test\govt_medical_college_ananthapuram.jpg
+Govt Medical College Eluru,success,"(1296, 318)","(800, 500)",cleaned_images_test\govt_medical_college_eluru.jpg
+Govt Medical College Machilipatnam,success,"(1296, 318)","(800, 500)",cleaned_images_test\govt_medical_college_machilipatnam.jpg
+Govt Medical College Nandyal,success,"(1296, 318)","(800, 500)",cleaned_images_test\govt_medical_college_nandyal.jpg
+Govt Medical College Paderu,success,"(1296, 318)","(800, 500)",cleaned_images_test\govt_medical_college_paderu.jpg

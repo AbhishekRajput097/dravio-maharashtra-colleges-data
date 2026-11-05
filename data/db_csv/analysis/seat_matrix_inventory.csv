@@ -1,0 +1,148 @@
+State,File,Seat Column
+Andhra Pradesh,andhra_pradesh_seat_data.csv,state_quota
+Andhra Pradesh,andhra_pradesh_seat_data.csv,management_quota
+Andhra Pradesh,andhra_pradesh_seat_data.csv,nri_quota
+Bihar,bihar_seat_data.csv,ur_open_merit_seats
+Bihar,bihar_seat_data.csv,muslim_minority_seats
+Bihar,bihar_seat_data.csv,sikh_minority_seats
+Bihar,bihar_seat_data.csv,nri_seats
+Gujarat,gujarat_seat.csv,aiq
+Gujarat,gujarat_seat.csv,state_quota
+Gujarat,gujarat_seat.csv,esic_ip
+Gujarat,gujarat_seat.csv,nri_quota
+Gujarat,gujarat_seat.csv,open
+Gujarat,gujarat_seat.csv,sc
+Gujarat,gujarat_seat.csv,st
+Gujarat,gujarat_seat.csv,sebc
+Gujarat,gujarat_seat.csv,ews
+Gujarat,gujarat_seat.csv,mqt_quota
+Himachal Pradesh,himachal_pradesh_seat_data.csv,quota
+Himachal Pradesh,himachal_pradesh_seat_data.csv,ur
+Himachal Pradesh,himachal_pradesh_seat_data.csv,sc
+Himachal Pradesh,himachal_pradesh_seat_data.csv,st
+Himachal Pradesh,himachal_pradesh_seat_data.csv,obc
+Himachal Pradesh,himachal_pradesh_seat_data.csv,irdp_bpl
+Himachal Pradesh,himachal_pradesh_seat_data.csv,ph
+Himachal Pradesh,himachal_pradesh_seat_data.csv,ba
+Himachal Pradesh,himachal_pradesh_seat_data.csv,sgc
+Himachal Pradesh,himachal_pradesh_seat_data.csv,mgt
+Himachal Pradesh,himachal_pradesh_seat_data.csv,nri
+Karnataka,karnataka_seat_data.csv,cat1_g
+Karnataka,karnataka_seat_data.csv,cat1_r
+Karnataka,karnataka_seat_data.csv,cat1_k
+Karnataka,karnataka_seat_data.csv,2a_g
+Karnataka,karnataka_seat_data.csv,2a_r
+Karnataka,karnataka_seat_data.csv,2a_k
+Karnataka,karnataka_seat_data.csv,2b_g
+Karnataka,karnataka_seat_data.csv,2b_r
+Karnataka,karnataka_seat_data.csv,2b_k
+Karnataka,karnataka_seat_data.csv,3a_g
+Karnataka,karnataka_seat_data.csv,3a_r
+Karnataka,karnataka_seat_data.csv,3a_k
+Karnataka,karnataka_seat_data.csv,3b_g
+Karnataka,karnataka_seat_data.csv,3b_r
+Karnataka,karnataka_seat_data.csv,3b_k
+Karnataka,karnataka_seat_data.csv,st_g
+Karnataka,karnataka_seat_data.csv,st_r
+Karnataka,karnataka_seat_data.csv,st_k
+Karnataka,karnataka_seat_data.csv,sc_g
+Karnataka,karnataka_seat_data.csv,sc_r
+Karnataka,karnataka_seat_data.csv,sc_k
+Karnataka,karnataka_seat_data.csv,gm_g
+Karnataka,karnataka_seat_data.csv,gm_r
+Karnataka,karnataka_seat_data.csv,gm_k
+Karnataka,karnataka_seat_data.csv,gmp
+Karnataka,karnataka_seat_data.csv,gmph
+Karnataka,karnataka_seat_data.csv,mmh
+Karnataka,karnataka_seat_data.csv,meh
+Karnataka,karnataka_seat_data.csv,mc
+Karnataka,karnataka_seat_data.csv,mm
+Karnataka,karnataka_seat_data.csv,mk
+Karnataka,karnataka_seat_data.csv,mu
+Karnataka,karnataka_seat_data.csv,ma
+Karnataka,karnataka_seat_data.csv,me
+Karnataka,karnataka_seat_data.csv,ncc
+Karnataka,karnataka_seat_data.csv,spo
+Karnataka,karnataka_seat_data.csv,jk
+Karnataka,karnataka_seat_data.csv,phm
+Karnataka,karnataka_seat_data.csv,nri
+Karnataka,karnataka_seat_data.csv,mgt
+Madhya Pradesh,madhya_pradesh_seat.csv,aiq
+Madhya Pradesh,madhya_pradesh_seat.csv,goi_quota
+Madhya Pradesh,madhya_pradesh_seat.csv,state_quota
+Madhya Pradesh,madhya_pradesh_seat.csv,esic_ip
+Madhya Pradesh,madhya_pradesh_seat.csv,nri
+Madhya Pradesh,madhya_pradesh_seat.csv,open_seats
+Madhya Pradesh,madhya_pradesh_seat.csv,sc
+Madhya Pradesh,madhya_pradesh_seat.csv,st
+Madhya Pradesh,madhya_pradesh_seat.csv,obc
+Madhya Pradesh,madhya_pradesh_seat.csv,ews
+Madhya Pradesh,madhya_pradesh_seat.csv,mqt_quota
+Madhya Pradesh,madhya_pradesh_seat.csv,mbc
+Madhya Pradesh,madhya_pradesh_seat.csv,pwd
+Madhya Pradesh,madhya_pradesh_seat.csv,sainik
+Madhya Pradesh,madhya_pradesh_seat.csv,ff
+Madhya Pradesh,madhya_pradesh_seat.csv,gs
+Maharashtra,maharashtra_seat.csv,aiq
+Maharashtra,maharashtra_seat.csv,state_quota
+Maharashtra,maharashtra_seat.csv,esic_ip
+Maharashtra,maharashtra_seat.csv,nri_quota
+Maharashtra,maharashtra_seat.csv,open_seats
+Maharashtra,maharashtra_seat.csv,sc
+Maharashtra,maharashtra_seat.csv,st
+Maharashtra,maharashtra_seat.csv,obc
+Maharashtra,maharashtra_seat.csv,vj
+Maharashtra,maharashtra_seat.csv,nt
+Maharashtra,maharashtra_seat.csv,def
+Maharashtra,maharashtra_seat.csv,seb
+Maharashtra,maharashtra_seat.csv,ews
+Maharashtra,maharashtra_seat.csv,mk
+Maharashtra,maharashtra_seat.csv,iq_quota
+Mccs,mcc_seats.csv,quota
+Mccs,mcc_seats.csv,bc_no
+Mccs,mcc_seats.csv,bc_ph
+Mccs,mcc_seats.csv,ew_no
+Mccs,mcc_seats.csv,ew_ph
+Mccs,mcc_seats.csv,op_no
+Mccs,mcc_seats.csv,op_ph
+Mccs,mcc_seats.csv,sc_no
+Mccs,mcc_seats.csv,sc_ph
+Mccs,mcc_seats.csv,st_no
+Mccs,mcc_seats.csv,st_ph
+Mccs,mcc_seats.csv,nri_op_no
+Mccs,mcc_seats.csv,jain_minority_quota
+Mccs,mcc_seats.csv,muslim_minority_quota
+Rajasthan,rajasthan_seat.csv,aiq
+Rajasthan,rajasthan_seat.csv,state_quota
+Rajasthan,rajasthan_seat.csv,esic_ip
+Rajasthan,rajasthan_seat.csv,nri_quota
+Rajasthan,rajasthan_seat.csv,open_seats
+Rajasthan,rajasthan_seat.csv,sc
+Rajasthan,rajasthan_seat.csv,st
+Rajasthan,rajasthan_seat.csv,obc
+Rajasthan,rajasthan_seat.csv,ews
+Rajasthan,rajasthan_seat.csv,mqt_quota
+Rajasthan,rajasthan_seat.csv,mbc
+Rajasthan,rajasthan_seat.csv,st_and_sa
+Rajasthan,rajasthan_seat.csv,obc_and_mbc
+Uttarakhand,uttarakhand_seat_data.csv,open_seats
+Uttarakhand,uttarakhand_seat_data.csv,obc_seats
+Uttarakhand,uttarakhand_seat_data.csv,sc_seats
+Uttarakhand,uttarakhand_seat_data.csv,st_seats
+Uttarakhand,uttarakhand_seat_data.csv,management_seats
+Uttarakhand,uttarakhand_seat_data.csv,nri_seats
+West Bengal,west_bengal_seat_data.csv,institute_name
+West Bengal,west_bengal_seat_data.csv,ur_seats
+West Bengal,west_bengal_seat_data.csv,ur_pwd_seats
+West Bengal,west_bengal_seat_data.csv,ews_seats
+West Bengal,west_bengal_seat_data.csv,ews_pwd_seats
+West Bengal,west_bengal_seat_data.csv,sc_seats
+West Bengal,west_bengal_seat_data.csv,sc_pwd_seats
+West Bengal,west_bengal_seat_data.csv,st_seats
+West Bengal,west_bengal_seat_data.csv,st_pwd_seats
+West Bengal,west_bengal_seat_data.csv,obc_a_seats
+West Bengal,west_bengal_seat_data.csv,obc_a_pwd_seats
+West Bengal,west_bengal_seat_data.csv,obc_b_seats
+West Bengal,west_bengal_seat_data.csv,obc_b_pwd_seats
+West Bengal,west_bengal_seat_data.csv,management_seats
+West Bengal,west_bengal_seat_data.csv,nri_seats

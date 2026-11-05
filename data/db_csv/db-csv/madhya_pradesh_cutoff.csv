@@ -1,0 +1,959 @@
+college_name,college_type,state,course,category,seat_type,admission_round,opening_rank_state_merit,closing_rank_state_merit,neet_score_opening,neet_score_closing,aiq_rank_opening,aiq_rank_closing,total_seats_filled
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,742,855,514,510,37280,40772,13
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 1,1450,1450,493,493,60343,60343,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,4534,4534,421,421,170381,170381,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,EWS,FF (Freedom Fighter),Round 1,13528,13528,182,182,883294,883294,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,661,792,517,512,34371,38949,18
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,893,893,509,509,42115,42115,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,4120,4120,430,430,154246,154246,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,13309,13309,190,190,844368,844368,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,FF (Freedom Fighter),Round 1,14627,14627,127,127,1207764,1207764,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,2975,4285,455,427,113280,160710,20
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,4741,4741,416,416,180464,180464,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 1,13736,13736,173,173,929943,929943,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,5654,7160,392,353,225024,308254,25
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7294,7521,350,344,316814,328934,2
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,211,659,546,517,13963,34312,51
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,707,708,515,515,36173,36186,2
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,2058,3829,477,437,81333,143582,3
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,11790,13278,237,191,647714,839595,3
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12462,13186,219,195,718131,822770,2
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,760,962,513,507,37873,44158,9
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 2,1450,1450,493,493,60343,60343,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,713,832,515,511,36547,39937,8
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 2,893,893,509,509,42115,42115,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,4121,4121,430,430,154246,154246,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14166,14166,157,157,1020535,1020535,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,2976,4415,455,424,113280,165893,10
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,4742,4742,416,416,180464,180464,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,6167,7308,378,349,253809,317384,13
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,7562,7562,343,343,331370,331370,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 2,14778,14778,117,117,1282193,1282193,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,311,683,538,516,18656,35102,35
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,783,783,513,513,38710,38710,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,3624,3624,441,441,136711,136711,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,13194,14147,195,157,824639,1017390,3
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,1179,1229,501,499,50745,52754,7
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 1,2984,2984,455,455,113565,113565,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,5075,5075,407,407,196398,196398,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1046,1117,505,503,46480,49261,10
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,1417,1417,494,494,59408,59408,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,4316,4756,426,415,161929,181592,10
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,6739,7845,364,336,284354,348667,14
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7929,7929,334,334,354175,354175,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,590,1039,521,505,30716,46265,29
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,1100,1100,503,503,48514,48514,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4963,4974,410,410,191117,191397,2
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12383,12383,221,221,709855,709855,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,13626,13630,179,178,902901,904234,2
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1314,1393,497,494,55522,58554,7
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 2,2985,2985,455,455,113565,113565,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 2,6430,6430,372,372,267047,267047,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1214,1275,500,498,52146,54351,9
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 2,2011,2011,478,478,79533,79533,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4344,4932,425,411,162989,189000,8
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7345,8163,348,328,319572,367817,11
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,698,1207,515,500,35957,51856,25
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1457,1457,493,493,60595,60595,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4975,5222,410,404,191397,203436,2
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,14106,14106,159,159,1008884,1008884,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,653,744,518,514,33935,37389,9
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,615,737,520,514,31913,37144,13
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,809,809,512,512,39330,39330,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,3563,3563,442,442,134464,134464,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,13394,13394,187,187,859436,859436,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,3435,4173,445,429,129313,156296,14
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5204,5204,404,404,202538,202538,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,7029,7029,357,357,301036,301036,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,6264,7278,376,350,259022,315420,18
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7284,7284,350,350,315795,315795,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,391,606,532,520,22449,31562,36
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,705,705,515,515,36121,36121,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,3284,3363,449,447,124127,126561,2
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,5139,12717,406,211,199617,750448,2
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12102,12102,229,229,678638,678638,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,758,952,514,508,37802,43880,8
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,731,864,515,510,36914,40960,11
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,4143,4143,430,430,155062,155062,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14438,14438,143,143,1104433,1104433,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,3774,4386,438,425,141469,164376,10
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,5549,5562,395,395,219138,219885,2
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 2,10063,10063,285,285,486768,486768,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,6604,7514,368,345,276583,328332,12
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,7561,7561,343,343,331344,331344,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,465,725,528,515,25194,36810,30
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,902,902,509,509,42371,42371,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,3285,4139,449,430,124127,154717,2
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,13829,14352,170,147,945368,1077759,2
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,1066,1186,504,501,47188,50872,7
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,929,1012,508,506,43215,45581,10
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,4324,4324,426,426,162173,162173,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,14053,14053,160,160,999296,999296,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,FF (Freedom Fighter),Round 1,14765,14765,118,118,1278604,1278604,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,4341,4663,426,418,162853,176754,11
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5377,5377,400,400,210003,210003,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,8859,8859,313,313,407710,407710,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,6919,7570,359,343,294963,331786,14
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7689,7689,340,340,339120,339120,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,558,927,523,508,29388,43202,29
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,973,973,507,507,44664,44664,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4142,4142,430,430,155062,155062,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,13511,13511,183,183,878684,878684,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,13945,13945,165,165,977227,977227,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1066,1274,504,498,47188,54307,11
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1065,1165,504,502,47184,50322,12
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 2,1417,1417,494,494,59408,59408,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,4985,4985,410,410,191649,191649,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4062,4845,432,413,151703,185393,15
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,5548,5548,395,395,219111,219111,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 2,8860,8860,313,313,407710,407710,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7302,7846,349,336,317281,348667,17
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,7850,7850,336,336,349003,349003,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,558,1048,523,505,29388,46557,35
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,0,1100,495,503,57943,48514,2
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4325,4325,426,426,162173,162173,1
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,14637,14637,127,127,1209394,1209394,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,408,492,531,527,23046,26348,13
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,4008,4008,433,433,150117,150117,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,EWS,PH (Divyang/Handicapped),Round 1,13908,13908,167,167,965286,965286,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,397,504,532,526,22652,26763,19
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,511,511,526,526,26963,26963,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,2795,2795,459,459,107344,107344,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,12943,12943,204,204,783977,783977,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,561,3240,523,449,29576,122915,21
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,4477,4477,422,422,168361,168361,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,7409,7409,347,347,323021,323021,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 1,12644,12644,214,214,739926,739926,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,5584,6590,395,368,221068,275680,28
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,6666,6666,366,366,280046,280046,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,10906,10906,262,262,559414,559414,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,13,379,590,533,2230,21808,55
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,409,421,531,531,23053,23343,2
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,2598,2748,464,460,100836,105658,3
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,5993,5993,383,383,244169,244169,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,9075,11611,308,242,420147,628474,3
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,440,499,530,526,24228,26675,3
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,474,573,528,522,25653,30161,13
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,13559,13559,181,181,887974,887974,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,2885,3097,457,453,110301,117664,3
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,5205,5205,404,404,202538,202538,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,5859,7088,387,355,236166,304287,19
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,7295,7295,350,350,316814,316814,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 2,14838,14838,113,113,1313541,1313541,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,224,436,545,530,14570,24139,18
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,2811,2811,459,459,107843,107843,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,13472,13472,185,185,871050,871050,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 2,13995,13995,163,163,984543,984543,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,247,407,543,531,15496,23038,17
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 1,642,642,518,518,33345,33345,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,2756,2756,460,460,106111,106111,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,EWS,PH (Divyang/Handicapped),Round 1,9756,9756,292,292,464857,464857,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,210,325,546,536,13957,19554,24
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,425,425,530,530,23637,23637,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,2459,2459,467,467,95504,95504,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,7853,7853,336,336,349283,349283,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,FF (Freedom Fighter),Round 1,13589,13589,180,180,894626,894626,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,844,2606,511,463,40435,101032,28
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,4339,4550,426,421,162659,170751,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,5279,5279,402,402,205951,205951,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 1,12980,13176,203,195,787779,820958,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,FF (Freedom Fighter),Round 1,14013,14013,162,162,990562,990562,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,888,5411,510,399,41778,211487,35
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,5501,5620,397,394,216536,222953,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,10159,10159,282,282,495301,495301,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 1,11649,11939,241,233,632111,662620,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,6,207,599,547,1460,13812,68
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,322,371,537,533,19341,21504,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,766,2391,513,469,37991,92801,4
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,5043,6469,408,371,194869,269124,4
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,5151,11638,405,242,200194,629973,3
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,340,422,535,531,20334,23409,8
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,286,346,540,535,17161,20465,10
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,13398,13398,187,187,859436,859436,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,OBC,FF (Freedom Fighter),Round 2,14632,14632,127,127,1207764,1207764,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,2274,2745,472,460,88653,105532,7
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 2,13740,13740,173,173,929943,929943,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,1438,5774,493,389,59983,231512,12
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,5834,5891,388,386,234400,238054,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,41,272,572,541,4898,16669,40
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,2599,2599,464,464,100836,100836,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,7449,11644,346,242,324957,631138,4
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,801,962,512,507,39087,44158,12
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 1,1534,1534,491,491,63321,63321,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,772,856,513,510,38175,40828,17
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,4320,4320,426,426,162042,162042,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,14005,14005,162,162,988635,988635,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,3323,4329,448,426,125689,162449,21
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5033,5033,408,408,194356,194356,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 1,13289,13289,191,191,840886,840886,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,5658,6876,392,361,225186,291402,27
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,6928,7204,359,352,295370,310529,2
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,14204,14204,155,155,1030887,1030887,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 1,14833,14833,113,113,1313541,1313541,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,327,759,536,514,19637,37823,51
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,783,899,513,509,38710,42269,2
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,2874,12583,458,216,109761,732238,2
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,3565,4197,442,429,134630,157302,3
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,8438,12804,322,208,382982,763688,3
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,820,1107,512,503,39645,48783,9
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 2,4725,4725,416,416,179790,179790,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,810,945,512,508,39335,43561,13
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,4321,4321,426,426,162042,162042,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14009,14009,162,162,988635,988635,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,3476,4324,444,426,131153,162146,10
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,5930,7204,384,352,241217,310506,14
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,7229,7229,351,351,312655,312655,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,327,803,536,512,19637,39168,31
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,899,1060,509,505,42269,47048,2
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,3566,4032,442,432,134630,150911,2
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,13631,13631,179,179,902901,902901,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,941,1172,508,501,43493,50547,9
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,4724,4724,416,416,179790,179790,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,981,1029,507,506,44837,45970,12
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,3412,4504,446,422,128491,169122,13
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5345,5345,401,401,208468,208468,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,9566,9566,297,297,451352,451352,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,7346,7946,348,333,319603,355479,17
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,8023,8023,331,331,360286,360286,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,479,939,527,508,25778,43487,34
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,1060,1060,505,505,47048,47048,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4586,4677,420,417,172573,177584,2
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12520,12520,218,218,724491,724491,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,12951,13369,204,188,785187,854578,2
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1131,1229,502,499,49452,52754,7
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 2,6029,6029,382,382,246887,246887,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1007,1085,506,504,45481,47877,8
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,3561,4660,442,418,134400,176420,10
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7347,8116,348,329,319603,365700,14
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8123,8123,329,329,365968,365968,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,479,1004,527,506,25778,45420,27
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1169,1169,501,501,50523,50523,1
+GOVERNMENT MEDICAL COLLEGE DATIA,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4678,5102,417,406,177584,197868,2
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,1146,1274,502,498,49868,54307,11
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,5423,5423,399,399,212029,212029,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,EWS,FF (Freedom Fighter),Round 1,14070,14070,160,160,1002403,1002403,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1085,1161,504,502,47877,50208,15
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,1715,1715,486,486,69008,69008,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,5057,5057,408,408,195683,195683,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,14121,14121,158,158,1013163,1013163,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,4482,4844,422,413,168474,185393,17
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,7566,7984,343,332,331579,357816,21
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,8053,8053,331,331,361318,361318,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,14773,14773,117,117,1282193,1282193,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,693,1074,516,504,35493,47422,42
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,1169,1189,501,501,50523,51075,2
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,3793,4971,438,410,142139,191308,3
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,10747,13993,266,163,545863,984780,3
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12863,12863,206,206,771907,771907,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1188,1387,501,495,51015,58214,8
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 2,5424,5424,399,399,212029,212029,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1148,1301,502,497,49884,55200,12
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 2,1715,1715,486,486,69008,69008,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4483,5001,422,409,168474,192639,17
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7567,8167,343,328,331579,367945,18
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8192,8192,328,328,368816,368816,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,831,1146,511,502,39862,49868,32
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1394,1394,494,494,58580,58580,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4629,5226,419,403,174801,203556,2
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 2,13393,13393,187,187,858859,858859,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,13997,14532,163,136,984780,1147201,2
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,1224,1329,500,497,52665,55982,7
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 1,2260,2260,472,472,88296,88296,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1199,1236,501,499,51473,52922,10
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,5216,5216,404,404,203111,203111,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,4393,4892,425,412,164840,187106,11
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,10010,10010,286,286,482823,482823,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,7378,8032,348,331,321372,360472,14
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,8068,8068,330,330,362684,362684,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1003,1190,506,501,45414,51213,28
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,1296,1296,497,497,54958,54958,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4854,5025,413,409,185732,193772,2
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,13721,13721,174,174,926980,926980,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1286,1422,498,494,54645,59556,7
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 2,2261,2261,472,472,88296,88296,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1282,1316,498,497,54571,55555,6
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4717,5067,416,407,179306,196029,9
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 2,9752,9752,293,293,464046,464046,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7874,8039,335,331,350648,360774,12
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8109,8109,329,329,365422,365422,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1077,1273,504,498,47492,54175,22
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1553,1553,490,490,63792,63792,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,13726,13726,174,174,926980,926980,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1405,1605,494,489,58881,65418,7
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1369,1413,495,494,57460,59178,10
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 2,1895,1895,481,481,75315,75315,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,5375,5375,400,400,209873,209873,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14697,14697,123,123,1239853,1239853,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4847,5158,413,405,185416,200634,11
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,5572,5572,395,395,220386,220386,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 2,10115,10115,283,283,491899,491899,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8070,8254,330,326,362711,373008,14
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8320,8320,325,325,376096,376096,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1142,1368,502,495,49761,57405,29
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1520,1520,491,491,62646,62646,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,5333,5333,401,401,208010,208010,1
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1448,1608,493,489,60319,65497,8
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 2,5886,5886,386,386,237865,237865,1
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1425,1442,493,493,59731,60160,9
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14834,14834,113,113,1313194,1313194,1
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,5099,5197,407,404,197626,202436,11
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8136,8277,329,326,366449,374065,15
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8299,8299,325,325,375188,375188,1
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1279,1412,498,494,54511,59163,28
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1554,1564,490,490,63848,64053,2
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,5292,5418,402,399,206319,211860,2
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,14608,14608,130,130,1194123,1194123,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,106,289,559,540,8730,17262,18
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,2730,2730,461,461,105192,105192,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,EWS,PH (Divyang/Handicapped),Round 1,9377,9377,301,301,440047,440047,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,EWS,FF (Freedom Fighter),Round 1,13632,13632,178,178,904576,904576,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,109,209,558,546,8945,13933,26
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,273,273,541,541,16733,16733,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,1215,1215,500,500,52167,52167,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,7448,7666,346,340,324957,338406,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,OBC,FF (Freedom Fighter),Round 1,8741,8741,316,316,400029,400029,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,238,1872,544,482,15237,74322,27
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,3358,3369,447,447,126487,126710,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,3842,3842,436,436,144163,144163,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 1,11702,12435,240,220,637953,714675,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,SC,FF (Freedom Fighter),Round 1,13792,13792,171,171,939320,939320,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,515,4449,526,423,27107,167174,35
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,4790,5200,414,404,183114,202503,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,7842,7842,336,336,348584,348584,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 1,10065,11845,285,235,487154,654476,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,5,104,601,560,1295,8510,70
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,112,182,558,549,9057,12508,3
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,161,427,551,530,11610,23711,4
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,1136,2813,502,459,49627,107978,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,2625,4951,463,410,101758,190347,4
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,302,304,539,538,18129,18308,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,EWS,PH (Divyang/Handicapped),Round 2,9758,9758,292,292,464857,464857,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,210,210,546,546,13957,13957,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,11054,11129,258,255,573164,582290,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,1900,2161,481,475,75449,84885,5
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,4512,5345,422,401,169419,208441,11
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,5621,5724,394,390,222953,228967,2
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 2,10067,10067,285,285,487154,487154,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,88,159,562,552,7824,11467,24
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,445,445,529,529,24435,24435,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,5723,7854,391,336,228719,349283,3
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 2,13515,13515,183,183,878684,878684,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,972,1096,507,503,44648,48342,9
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 1,1649,1649,488,488,66743,66743,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,906,967,509,507,42503,44305,12
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,4473,4473,423,423,167935,167935,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,13825,13825,170,170,945368,945368,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,3607,4644,441,418,136237,175763,13
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5301,5301,402,402,207085,207085,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,5448,7398,398,347,213359,322341,17
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7554,7554,344,344,330867,330867,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,14514,14514,137,137,1142175,1142175,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,626,898,519,509,32383,42267,34
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,902,902,509,509,42371,42371,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4202,4318,429,426,157348,161997,2
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,11245,12567,253,216,591532,730221,2
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12634,12634,214,214,738727,738727,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1006,1221,506,500,45458,52610,8
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 2,1649,1649,488,488,66743,66743,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,986,1092,506,504,44992,48220,11
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,4563,4563,421,421,171614,171614,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14722,14722,121,121,1255431,1255431,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4420,4716,424,416,166031,179300,12
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7007,7383,357,347,299514,321856,9
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,7752,7752,338,338,343444,343444,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 2,14065,14065,160,160,1000322,1000322,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 2,14519,14519,137,137,1142175,1142175,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,623,978,520,507,32239,44750,30
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1296,1296,497,497,54958,54958,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4203,4203,429,429,157348,157348,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,12571,13189,216,195,730221,822311,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,415,532,531,525,23240,27932,17
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 1,851,851,511,511,40686,40686,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,3999,3999,433,433,149645,149645,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,EWS,PH (Divyang/Handicapped),Round 1,13099,13099,199,199,804918,804918,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,370,466,533,528,21494,25259,23
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,634,634,519,519,33140,33140,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,3073,3117,453,452,116883,118520,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,12802,12802,208,208,763582,763582,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,FF (Freedom Fighter),Round 1,14631,14631,127,127,1209057,1209057,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,469,3420,528,446,25468,128697,28
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,4680,5080,417,407,177738,196534,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,6259,6259,376,376,258687,258687,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 1,13800,14136,171,157,939977,1016849,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,3989,6140,434,379,149154,252081,35
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,6347,6552,374,369,262935,273573,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,10361,10361,277,277,510692,510692,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 1,12322,14060,223,160,702103,1000322,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,167,368,551,534,11915,21344,67
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,445,445,529,529,24435,24435,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,2486,2936,466,456,96882,112160,4
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,8830,11641,313,242,406411,631138,4
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,10540,13389,272,187,526755,858859,3
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,449,586,529,521,24524,30672,13
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,EWS,SN (Sainik),Round 2,851,851,511,511,40686,40686,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,451,486,529,527,24550,25880,12
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,12806,12806,208,208,763582,763582,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,2778,3590,460,441,106602,135822,14
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,5851,6357,387,374,235657,263092,17
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,6553,6929,369,359,273573,295370,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,275,443,541,530,16819,24350,47
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,478,540,527,524,25758,28493,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,3564,3564,442,442,134464,134464,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,12325,12721,223,211,702103,750448,3
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 2,13983,14103,164,159,982253,1008355,2
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,916,1061,508,505,42841,47060,7
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,925,984,508,506,43162,44958,10
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,4583,4583,420,420,172474,172474,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,13778,13778,172,172,935800,935800,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,3344,4559,447,421,126261,171353,12
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,9750,9750,293,293,464046,464046,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,7358,7667,348,340,320016,338412,14
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7688,7688,340,340,339049,339049,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,ST,PH (Divyang/Handicapped),Round 1,14694,14694,123,123,1241904,1241904,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,382,901,533,509,22110,42355,29
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,909,909,509,509,42560,42560,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4425,4562,424,421,166312,171614,2
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,11127,13587,255,180,582290,894411,2
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12921,12921,205,205,779863,779863,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1010,1090,506,504,45521,48182,3
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,936,984,508,506,43333,44958,6
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,4584,4584,420,420,172474,172474,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14643,14643,127,127,1210963,1210963,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,3345,4572,447,420,126261,171966,5
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 2,11118,11118,256,256,580594,580594,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7427,7864,346,336,324145,350003,11
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8024,8024,331,331,360286,360286,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,539,925,524,508,28485,43162,15
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4474,4474,423,423,167935,167935,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,5140,13782,406,172,199617,935800,2
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,550,633,524,519,28901,33025,10
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,562,676,523,517,29582,34859,15
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,3787,3787,438,438,141913,141913,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,13701,13701,175,175,920584,920584,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,2339,4039,470,432,90800,151117,16
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5125,5125,406,406,199208,199208,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,7547,7547,344,344,330279,330279,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,SC,PH (Divyang/Handicapped),Round 1,14482,14482,140,140,1126895,1126895,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,6356,7241,374,351,263092,313086,21
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7247,7247,351,351,313236,313236,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,13316,13316,190,190,845470,845470,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,77,545,563,524,7354,28653,42
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,548,650,524,518,28733,33678,2
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,2457,3678,467,440,95488,138286,3
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,12269,12925,225,205,696047,781052,2
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,12491,13554,219,181,721031,887974,3
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,633,837,519,511,33025,40058,8
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,656,811,517,512,34166,39338,11
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,3788,3788,438,438,141913,141913,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 2,14559,14559,134,134,1160503,1160503,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,3676,4462,440,423,138247,167515,13
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 2,7548,7548,344,344,330279,330279,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,6404,7751,373,338,265484,343368,18
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,7770,7770,338,338,344292,344292,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,472,624,528,520,25645,32242,34
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,650,693,518,516,33678,35493,2
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,3631,3631,441,441,136935,136935,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 2,14058,14471,160,140,999296,1120706,3
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,1159,1318,502,497,50122,55570,7
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,5162,5162,405,405,200714,200714,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1155,1231,502,499,50035,52789,11
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 1,1478,1478,492,492,61413,61413,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,3612,4906,441,412,136520,188056,11
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5371,5371,400,400,209756,209756,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,SC,SN (Sainik),Round 1,8910,8910,312,312,410278,410278,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,7474,7814,345,337,326502,346443,14
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,7849,7849,336,336,349003,349003,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,458,1135,529,502,24751,49609,28
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4643,4914,418,411,175688,188497,2
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,7411,7411,347,347,323170,323170,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,13950,14161,164,157,977859,1020535,2
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1297,1420,497,494,54966,59501,5
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1231,1332,499,497,52789,56035,8
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,OBC,SN (Sainik),Round 2,1478,1478,492,492,61413,61413,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4636,5040,419,408,175077,194769,8
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7597,7819,343,337,333497,346719,6
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8069,8069,330,330,362684,362684,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,889,1230,510,499,41782,52785,23
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4644,4915,418,411,175688,188497,2
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 1,1240,1364,499,496,53007,57231,7
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Round 1,5524,5524,396,396,217593,217593,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1217,1265,500,498,52421,53767,10
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,4800,4800,414,414,183548,183548,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,14162,14162,157,157,1020884,1020884,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,3750,4958,438,410,140835,190775,12
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,7513,7989,345,332,328332,357939,14
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 1,14775,14775,117,117,1282703,1282703,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,597,1198,521,501,31153,51439,29
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 1,1345,1345,496,496,56411,56411,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4031,4441,432,423,150911,166895,2
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 1,6192,6192,378,378,255190,255190,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,13782,14142,172,157,936679,1017390,2
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Round 2,1333,1449,496,493,56082,60320,7
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1259,1338,499,496,53579,56218,7
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,4639,5089,419,407,175302,197072,10
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7555,7990,344,332,330867,357939,7
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,ST,SN (Sainik),Round 2,14780,14780,117,117,1282703,1282703,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,812,1247,512,499,39405,53165,22
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,SN (Sainik),Round 2,1345,1345,496,496,56411,56411,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,4442,4587,423,420,166895,172573,2
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Round 2,6193,6193,378,378,255190,255190,1
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,4792,13973,414,164,183138,981124,38
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,2790,2900,459,457,107254,110696,27
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,6606,6606,368,368,276714,276714,1
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5209,6925,404,359,202737,295274,31
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,6978,7057,358,356,297824,302493,2
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,9220,10358,304,277,430877,510584,38
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10359,10385,277,276,510607,513660,3
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1785,2787,484,459,71530,107129,94
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5953,6489,384,371,242214,270055,5
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14385,209,145,763126,1087705,17
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,3238,3373,449,447,122827,126918,23
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7123,7123,354,354,306107,306107,1
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,6311,7392,375,347,261070,322121,23
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,7393,7393,347,347,322159,322159,1
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8997,10360,310,277,415397,510584,31
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10356,10379,277,276,510346,513322,2
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1785,3228,484,450,71530,122230,80
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,5980,6985,383,358,243486,298224,3
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,3443,13461,445,185,129591,870016,37
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1892,2016,482,478,75105,79773,27
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,5919,5919,385,385,240132,240132,1
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5487,5964,397,384,215657,242637,31
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5971,5971,384,384,243071,243071,1
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,8484,9256,321,303,385540,433530,38
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,9300,9378,302,301,436102,440097,3
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1353,1888,496,482,56636,74844,93
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5547,5885,395,386,219111,237865,6
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14244,244,153,621701,1043957,13
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,2118,2202,475,473,83563,86673,17
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,6226,6226,377,377,256729,256729,1
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,5343,6244,401,376,208396,257908,19
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8543,9258,320,303,388844,433530,26
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,9302,9336,302,302,436102,437290,2
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1493,2090,492,476,61949,82566,71
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,5814,6220,388,377,233436,256555,4
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14429,270,144,535625,1100398,38
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,3189,3284,451,449,120961,124112,27
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7240,7371,351,348,313042,320786,2
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,6043,7317,381,349,247482,317600,30
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,7357,7372,348,348,319902,320797,2
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,7285,10551,350,272,315795,527149,37
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10576,10590,271,271,529758,530585,2
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,2120,3188,475,451,83603,120940,96
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,6691,7178,365,353,281507,308891,5
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,3759,13705,438,175,141085,921850,36
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,2384,2493,469,466,92568,97081,27
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,6427,6427,372,372,267007,267007,1
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5731,6540,390,369,229146,273015,30
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,6685,6699,365,365,281454,282004,2
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,8712,9970,316,287,398417,479953,38
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10085,10121,284,283,489189,492283,2
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1680,2377,487,469,67740,92324,96
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5843,6326,387,375,235262,261681,5
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,12353,14291,222,150,705941,1059315,9
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,2569,2650,464,462,99735,102578,18
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,6290,6725,375,364,260351,283682,23
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,6840,6840,362,362,289324,289324,1
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8717,9972,316,287,398473,479953,28
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10087,10123,284,283,489189,492283,2
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1848,2562,483,465,73310,99513,77
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,6060,6721,381,364,248282,283645,3
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,5079,13744,407,173,196529,930594,15
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,2531,2612,465,463,98557,101293,10
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,6657,6657,366,366,279392,279392,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5662,6482,392,371,225397,269600,12
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,9157,10155,306,282,425639,494840,16
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10354,10354,277,277,510346,510346,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1865,2529,483,465,73771,98498,38
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,6225,6622,377,367,256729,277494,2
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14063,233,160,663708,999793,8
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,2929,3043,456,454,111893,115695,11
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7031,7031,357,357,301045,301045,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,5663,7038,392,356,225397,301417,18
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,7231,7231,351,351,312780,312780,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8714,10078,316,285,398421,488137,21
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10124,10124,283,283,492331,492331,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,2079,2921,477,457,81942,111530,52
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,6642,6825,367,362,278512,288239,2
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,5807,14381,388,145,233089,1087727,22
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,2653,2742,462,460,102619,105481,16
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,6641,6641,367,367,278512,278512,1
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5938,6926,384,359,241537,295299,17
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,6937,6937,359,359,295935,295935,1
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,9766,10443,292,275,465027,518645,23
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10452,10452,274,274,519888,519888,1
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1490,2643,492,463,61882,102419,57
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5430,6474,399,371,212295,269326,3
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14273,170,151,946173,1055818,11
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,2935,3203,456,450,112080,121555,11
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,6886,6886,360,360,292363,292363,1
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,6019,7079,382,355,245880,303802,16
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,7114,7114,355,355,305673,305673,1
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,9608,10445,296,275,454158,518645,22
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10454,10454,274,274,519888,519888,1
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1491,2918,492,457,61923,111381,47
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,6125,6475,380,371,251367,269326,2
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14030,213,161,745282,993818,12
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,3648,3707,440,439,137440,139276,15
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7387,7387,347,347,321972,321972,1
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,7191,7836,353,336,309941,348476,19
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,8092,8092,330,330,363939,363939,1
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,9483,10869,299,263,446489,556504,24
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10879,10879,263,263,557074,557074,1
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,2503,3646,466,440,97411,137419,57
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,6890,7373,360,348,292692,321082,3
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,5739,12596,390,215,229322,733965,38
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,2118,2208,475,473,83573,86881,27
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,5981,6046,383,381,243586,247669,2
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5092,6227,407,377,197298,256814,30
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,6301,6392,375,373,260645,265101,2
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,8529,9592,320,296,388233,453577,38
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,9631,9670,295,294,456201,459453,2
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1645,2117,488,475,66667,83563,96
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5221,5934,404,384,203436,241437,5
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,6304,12794,375,209,260808,760240,5
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,2333,2429,471,468,90572,94071,18
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,6607,6607,368,368,276714,276714,1
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,5311,6540,401,369,207326,273006,22
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,6783,6783,363,363,286473,286473,1
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8795,9594,314,296,404180,453577,32
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,9633,9672,295,294,456201,459453,2
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1704,2322,486,471,68742,90010,74
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,5451,6138,398,379,213501,251955,4
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,11097,14280,256,150,579029,1058117,16
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,2867,3022,458,454,109555,115038,15
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,6885,6885,360,360,292363,292363,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5901,7045,385,356,239001,301886,18
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,7230,7230,351,351,312780,312780,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,8346,10602,324,270,378009,532319,23
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10625,10625,270,270,533295,533295,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1583,2841,490,458,64615,108921,58
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,6463,6745,371,364,268701,284779,3
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14109,235,159,654604,1009228,9
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,3122,3536,452,443,118611,133490,15
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7012,7012,357,357,299759,299759,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,6180,7629,378,341,254444,336077,16
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,7883,7883,335,335,351164,351164,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8347,10779,324,265,378009,548829,21
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10787,10787,265,265,549431,549431,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1827,3009,483,455,72815,114403,41
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,6464,6464,371,371,268701,268701,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,4528,13294,421,191,170210,841973,23
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1592,1699,489,486,64957,68554,14
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,5614,5614,394,394,222707,222707,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,4977,5670,410,392,191477,225596,17
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5706,5706,391,391,227303,227303,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,8071,8442,330,322,362742,383155,23
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,8480,8480,322,322,385172,385172,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1223,1590,500,489,52649,64909,58
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5291,5504,402,397,206319,216610,3
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,14329,14638,148,127,1072240,1210963,2
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14216,247,154,613001,1035044,11
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1736,1871,486,482,69669,74275,12
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,5840,5840,387,387,234994,234994,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,5210,6084,404,380,202737,249401,16
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,6700,6700,365,365,282004,282004,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,8328,8591,325,319,377028,391313,23
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8629,8629,318,318,393591,393591,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1414,1731,494,486,59220,69564,55
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,5615,5707,394,391,222707,227303,2
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,13037,14424,201,144,794864,1100398,12
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,2954,3019,456,454,112561,114979,15
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,7021,7021,357,357,300208,300208,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,6472,7020,371,357,269259,300207,19
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,7113,7113,355,355,305673,305673,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,9191,10617,305,270,428172,532839,23
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10618,10618,270,270,532842,532842,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,2261,2953,472,456,88327,112543,57
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,6488,6984,371,358,270037,298224,3
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,14474,14474,140,140,1123253,1123253,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14354,164,147,979146,1077991,3
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,3473,3524,444,443,131072,133216,13
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7504,7504,345,345,327671,327671,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,6556,7704,369,340,273674,339979,19
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,7760,7760,338,338,343754,343754,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,9738,10776,293,265,462784,548774,23
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10851,10851,263,263,555746,555746,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,2516,3462,466,445,97851,130222,57
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,7398,7480,347,345,322340,326774,3
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,3120,3157,452,451,118556,119713,11
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,7030,7030,357,357,301045,301045,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5438,7137,399,354,212773,307038,12
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,7270,7270,350,350,315089,315089,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,9699,10676,294,268,460755,539524,15
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10679,10679,268,268,539672,539672,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,2910,3112,457,452,110916,118387,38
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5598,7012,394,357,221539,299813,2
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,0,201,145,794016,1092716,5
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,3602,3660,441,440,136091,137807,11
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7593,7593,343,343,332898,332898,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,7065,7778,356,338,303029,344633,12
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,8108,8108,329,329,365415,365415,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,10242,10800,280,265,500946,551165,15
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10921,10921,262,262,560646,560646,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,3095,3601,453,441,117460,136055,37
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,5599,5599,394,394,221539,221539,1
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,4047,14112,432,158,151399,1011922,38
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,1634,1754,488,485,66378,70230,28
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,5744,5744,390,390,229535,229535,1
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,4805,5656,414,392,183864,225063,31
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,5781,5781,389,389,231901,231901,1
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,7475,8954,345,311,326522,412902,38
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,8985,9027,310,309,414551,417330,2
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,376,1631,533,488,21616,66211,94
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,5263,5571,403,395,205389,220386,6
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,UR,PH (Divyang/Handicapped),Round 1,14553,14553,135,135,1159576,1159576,1
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,0,14271,259,151,571034,1054490,10
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,1783,2009,484,478,71460,79477,23
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,5745,5745,390,390,229535,229535,1
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,5204,5862,404,387,202531,236263,26
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 2,6218,6218,377,377,256537,256537,1
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,4353,8942,425,311,163394,412228,35
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,8986,9028,310,309,414551,417330,2
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,376,1764,533,485,21616,70620,79
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,2114,5433,476,399,83445,212332,6
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 1,3811,13606,437,180,142825,898220,22
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 1,3026,3078,454,453,115186,117003,15
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 1,7011,7011,357,357,299759,299759,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,OBC,PH (Divyang/Handicapped),Round 1,14670,14670,125,125,1228281,1228281,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 1,5407,7062,399,356,211429,302935,18
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Round 1,7268,7268,350,350,315034,315034,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 1,9105,10687,307,268,422431,539980,23
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 1,10721,10721,267,267,543185,543185,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 1,1399,3017,494,454,58662,114918,56
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 1,4806,6720,414,364,183933,283645,3
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,NRI,GQ (Open),Round 2,3812,12326,437,223,142825,702106,4
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Round 2,3397,3535,446,443,127865,133486,13
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Round 2,7486,7486,345,345,326938,326938,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Round 2,6073,7418,381,347,248802,323722,14
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Round 2,9950,10807,288,264,478213,552444,21
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Round 2,10854,10854,263,263,555781,555781,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Round 2,1399,3388,494,447,58662,127498,44
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Round 2,7435,7457,346,346,324611,325446,2
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,12826,14550,216,154,732750,1037524,3
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3454,3491,445,444,129230,130953,9
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,7105,7644,357,344,300207,330338,9
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,11237,11237,258,258,573916,573916,1
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,9116,11147,310,260,415397,565481,16
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,7487,7516,347,346,322291,324106,2
+"Amaltas Institute of Medical Sciences, Dewas",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,2385,3442,470,446,91950,128672,36
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1027,1027,506,506,45645,45645,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,PH (Divyaang),Mop-Up Round,15053,15053,123,123,1239853,1239853,1
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,868,939,510,508,40865,43223,2
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,2995,4543,455,422,113280,169122,4
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,7440,8188,348,330,319688,363397,3
+"ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE, VIDISHA",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,386,844,532,511,22229,40051,14
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,PH (Divyaang),Mop-Up Round,11477,11477,251,251,596367,596367,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1389,1600,495,490,57670,64667,4
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1398,1441,495,493,58175,59825,3
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,4965,5312,411,403,188402,204836,4
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8431,8466,325,324,376727,378591,5
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,14421,14421,159,159,1008884,1008884,1
+"Government Medical College, Shahdol",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1126,1385,503,495,49213,57490,14
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1316,1316,497,497,55300,55300,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Mop-Up Round,4136,4136,431,431,153465,153465,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,943,1039,508,506,43269,45970,4
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Mop-Up Round,5770,5770,391,391,227303,227303,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,PH (Divyaang),Mop-Up Round,11800,11800,243,243,627047,627047,1
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,3859,4836,437,415,143903,182539,7
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,7340,8352,351,326,313967,372678,7
+"Bundelkhand Medical College, Sagar",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,520,842,525,511,27317,40004,16
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1215,1431,500,494,51583,59424,2
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1121,1336,503,497,49126,55787,7
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5075,5273,409,404,193490,203047,6
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8220,8414,329,325,365700,375365,7
+"Government Medical College, Chhindwara",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,867,1106,510,503,40837,48263,13
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,2394,2447,469,468,92324,94165,3
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5690,6518,393,372,223217,267634,5
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,9088,9941,310,291,414173,467831,8
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,6922,6922,362,362,289324,289324,1
+"Chirayu Medical College and Hospital, Bairagarh, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1599,2387,490,470,64651,91996,39
+"ESIC MEDICAL COLLEGE AND HOSPITAL,INDORE",Government,Madhya Pradesh,MBBS,EWS,GS (Govt Servant),Mop-Up Round,7069,7069,358,358,298224,298224,1
+"ESIC MEDICAL COLLEGE AND HOSPITAL,INDORE",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1148,1340,502,497,49680,55928,2
+"ESIC MEDICAL COLLEGE AND HOSPITAL,INDORE",Government,Madhya Pradesh,MBBS,OBC,PH (Divyaang),Mop-Up Round,13464,13464,195,195,822311,822311,1
+"ESIC MEDICAL COLLEGE AND HOSPITAL,INDORE",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,677,838,517,511,34754,39852,3
+"ESIC MEDICAL COLLEGE AND HOSPITAL,INDORE",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,3631,4767,441,416,136237,179388,4
+"ESIC MEDICAL COLLEGE AND HOSPITAL,INDORE",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,6880,8016,363,334,287092,353117,5
+"ESIC MEDICAL COLLEGE AND HOSPITAL,INDORE",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,207,634,547,519,13733,32835,9
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,524,524,525,525,27626,27626,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,568,607,522,520,29899,31545,2
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,3271,3707,449,440,123048,138400,2
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,8597,8597,321,321,385928,385928,1
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,6776,8186,365,330,281861,363304,8
+"Gajra Raja Medical College, Gwalior",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,225,438,545,530,14570,24160,6
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,455,455,529,529,24644,24644,1
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,2290,2761,472,460,88653,105532,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,8433,8478,325,324,377028,379012,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,5801,6541,390,371,229261,268665,4
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,3978,11054,434,263,147729,558296,2
+"Gandhi Medical College, Bhopal",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,171,289,550,540,12091,17248,11
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1171,1342,502,497,50122,55982,2
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1049,1070,505,505,46265,47029,2
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,4547,4857,422,414,169341,183864,3
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,6739,7473,366,347,279545,321856,3
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Mop-Up Round,12877,12877,214,214,738727,738727,1
+"Government Medical College, Ratlam",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,617,856,520,511,31913,40523,6
+"Government Medical College, Datia ",Government,Madhya Pradesh,MBBS,EWS,PH (Divyaang),Mop-Up Round,14623,14623,150,150,1059990,1059990,1
+"Government Medical College, Datia ",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1331,1331,497,497,55570,55570,1
+"Government Medical College, Datia ",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,4703,4754,418,417,176420,178753,3
+"Government Medical College, Datia ",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8380,8480,326,324,373878,379204,8
+"Government Medical College, Datia ",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,878,1080,510,504,41073,47313,13
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,EWS,PH (Divyaang),Mop-Up Round,5825,5825,390,390,230791,230791,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1418,1418,494,494,58881,58881,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1305,1328,498,497,54825,55548,2
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,SC,PH (Divyaang),Mop-Up Round,11835,11835,242,242,629632,629632,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5126,5299,407,403,196207,204021,3
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8357,8628,326,320,372865,388055,10
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,4672,4672,419,419,174801,174801,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,SN (NRI-Sponsored),Mop-Up Round,1407,1407,494,494,58580,58580,1
+"Government Medical College, Satna",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,886,1300,510,498,41325,54670,18
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1634,1669,489,488,65899,66998,3
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1381,1413,495,494,57405,58663,2
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5144,5144,407,407,196980,196980,1
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8387,8445,326,324,374299,377862,3
+"Government Medical College, Seoni",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1112,1375,503,496,48554,57005,12
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1643,1721,488,486,66118,68807,6
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,OBC,PH (Divyaang),Mop-Up Round,14487,14487,157,157,1020535,1020535,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,OBC,SN (NRI-Sponsored),Mop-Up Round,1910,1910,481,481,75315,75315,1
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1458,1482,493,492,60253,61069,6
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5261,5371,404,401,202531,207316,4
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8455,8629,324,320,378135,388075,8
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,11876,12094,241,235,633964,658394,2
+"GOVERMENT MEDICAL COLLEGE, SHEOPUR",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1179,1456,501,493,50419,60172,21
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1644,1710,488,487,66122,68421,4
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1504,1523,492,491,61882,62222,6
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5343,5405,402,401,206009,208414,8
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8366,8672,326,320,373116,389804,10
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,5353,5353,402,402,206319,206319,1
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,UR,SN (NRI-Sponsored),Mop-Up Round,1569,1569,490,490,63848,63848,1
+GOVERNMENT MEDICAL COLLEGE SINGRAULI,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1224,1489,500,492,52020,61341,19
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,13884,13884,180,180,894626,894626,1
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3275,3409,449,447,123154,127474,5
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Mop-Up Round,7712,7712,342,342,334961,334961,1
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,6905,7508,362,347,288232,323661,9
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,11245,11245,257,257,575738,575738,1
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,10257,11067,283,262,491987,559156,20
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,7232,7463,354,348,307363,321082,2
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,12672,14824,220,140,714675,1123253,2
+"Index Medical College Hospital & Research Centre, Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,2135,3216,475,450,83603,121114,30
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,2774,2954,460,456,106140,112080,7
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Mop-Up Round,7446,7446,348,348,319902,319902,1
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,6585,6859,370,363,270677,286370,8
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8741,10496,318,277,393691,510263,8
+"L.N. Medical College and Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1825,2763,484,460,72238,105608,34
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,13187,13187,205,205,780590,780590,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Mop-Up Round,7115,7115,357,357,301045,301045,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3404,3432,447,446,127313,128325,3
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Mop-Up Round,7499,7499,347,347,322884,322884,1
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5726,7336,392,351,225397,313603,11
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,10429,10685,279,272,504686,526087,5
+"LNCT Medical College & Sewakunj Hospital, Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,2094,3384,477,447,81942,126518,26
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,EWS,FF (Freedom Fighter),Mop-Up Round,14389,14389,160,160,1002403,1002403,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,SC,PH (Divyaang),Mop-Up Round,14334,14334,162,162,991455,991455,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,8269,8269,328,328,367899,367899,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,5722,5722,392,392,225186,225186,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,12323,12323,229,229,678861,678861,1
+"M G M Medical College, Indore",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,161,169,552,550,11530,11991,3
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,13188,14602,205,151,780609,1055818,3
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3164,3251,452,450,119411,122244,3
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,6445,7548,374,346,263758,325429,9
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,10036,10757,289,271,474779,531151,7
+"Mahaveer Institute of Medical Sciences & Research, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1505,2997,492,455,61923,113362,31
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,0,14713,229,146,680181,1083478,12
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3950,4004,435,434,146352,148549,13
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Mop-Up Round,8696,8696,319,319,391242,391242,1
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,7538,8179,346,330,324897,362863,15
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,12096,12096,234,234,658509,658509,1
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,9989,12000,290,237,471107,647468,23
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,7689,7788,343,340,333198,339232,2
+MANSAROVAR MEDICAL COLLEGE AND MGU HOSPITAL,Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,3327,3939,448,435,125203,146182,46
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,EWS,SN (NRI-Sponsored),Mop-Up Round,1664,1664,488,488,66743,66743,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1327,1494,497,492,55522,61557,3
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1103,1361,504,496,48220,56532,6
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,4972,5242,411,404,188643,202159,7
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,7852,8260,338,328,343627,367645,4
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,FF (Freedom Fighter),Mop-Up Round,6066,6066,383,383,244169,244169,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,10314,10314,282,282,496406,496406,1
+"Government Medical College, Khandwa",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,847,1065,511,505,40173,46873,12
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,536,748,524,514,28191,37315,4
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,519,539,525,524,27285,28415,2
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,2794,3850,460,437,106602,143473,4
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,6717,7328,367,351,278204,313086,4
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,12729,12729,219,219,721031,721031,1
+"Netaji Subhash Chandra Bose Medical College, Jabalpur",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,294,498,540,526,17615,26617,21
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,2553,2670,465,462,98645,102619,9
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Mop-Up Round,7021,7021,359,359,295935,295935,1
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,6563,6731,371,367,269620,279139,5
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8783,10293,317,282,396043,494796,10
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,6864,6864,363,363,286473,286473,1
+"Peoples College of Medical Sciences & Research Centre, Bhanpur, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1911,2532,481,466,75343,97851,27
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,14424,14424,159,159,1009228,1009228,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Mop-Up Round,7096,7096,357,357,299759,299759,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3410,3559,447,443,127498,133490,6
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,6254,7849,378,338,254444,343529,11
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,11495,11495,251,251,597154,597154,1
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,9450,11423,302,253,436611,591201,16
+"Ram Krishna College Hospital & Research Centre, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1820,3333,484,448,72064,125284,31
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,0,0,214,214,740269,740269,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1818,2006,484,479,72042,78811,5
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5798,6086,390,382,229173,245490,6
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,10065,10065,288,288,477132,477132,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8549,8907,322,314,383155,404028,10
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,6212,6212,379,379,251955,251955,1
+"Ruxmaniben Deepchand Gardi Medical College, Ujjain",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1487,1803,492,484,61303,71584,44
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,0,0,201,152,794016,1049504,5
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Mop-Up Round,7705,7705,342,342,334712,334712,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3776,3830,438,437,140840,142704,9
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,SC,GS (Govt Servant),Mop-Up Round,8340,8340,327,327,371673,371673,1
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,7374,8013,350,334,315818,353046,17
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,10777,11672,270,246,532839,614150,20
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,7489,7597,347,345,322340,327671,3
+"RKDF Medical College Hospital & Research Centre, Jatkhedi, Bhopal",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,2764,3771,460,439,105625,140562,60
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,0,9596,285,299,486253,445492,3
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Mop-Up Round,7687,7687,343,343,332898,332898,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3915,3958,436,435,145615,146797,6
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,7149,8082,356,333,303029,357473,10
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,11745,11745,244,244,621958,621958,1
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,11209,11635,259,247,571380,610729,10
+"School of Medical Sciences, Sri Satya Sai University of Technology and Medical Sciences",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,3362,3913,447,436,126165,145498,39
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1287,1287,498,498,54307,54307,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,953,953,508,508,43560,43560,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,4885,4898,413,413,185011,185416,2
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,7718,8364,341,326,335929,373083,4
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,9882,9882,293,293,463752,463752,1
+"Government Medical College, Shivpuri",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,480,821,527,512,25778,39419,5
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,749,1019,514,506,37389,45521,4
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,800,999,512,506,38980,45202,4
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,3864,4607,436,421,144073,171785,6
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,7581,8361,345,326,326996,373032,5
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,8876,14370,315,160,401768,999296,2
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,SN (NRI-Sponsored),Mop-Up Round,982,982,507,507,44664,44664,1
+"Shyam Shah Medical College, Rewa",Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,510,702,526,515,26946,35957,15
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,0,0,176,176,915384,915384,1
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,2033,2093,478,477,79788,81858,6
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5454,6387,400,375,210748,261070,8
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8757,9615,318,299,394508,446630,19
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,5496,7063,399,358,212332,297824,4
+"Sri Aurobindo Medical College and Post Graduate Institute , Indore",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,377,2021,533,478,21616,79400,48
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,NRI,NRI,Mop-Up Round,12249,14110,231,171,672846,940445,7
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,OBC,GS (Govt Servant),Mop-Up Round,7579,7579,345,345,326938,326938,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,3706,3822,440,437,138380,142349,12
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,6367,7905,375,337,260369,346015,13
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,ST,GS (Govt Servant),Mop-Up Round,11663,11739,247,244,612859,621649,2
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,10345,11524,281,250,498153,600234,16
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,5886,5886,388,388,233650,233650,1
+"Sukh Sagar Medical College & Hospital, Jabalpur",Private,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1412,3696,494,440,58662,138108,46
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1373,1436,496,494,56933,59677,2
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1362,1362,496,496,56557,56557,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,5267,5320,404,403,202737,205347,3
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,7568,8328,345,327,326522,370890,4
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,GS (Govt Servant),Mop-Up Round,4687,4687,418,418,175688,175688,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,13957,13957,177,177,911196,911196,1
+Sundarlal Patwa Govt. Medical College,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,897,1334,510,497,41782,55684,7
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,EWS,PH (Divyaang),Mop-Up Round,11858,11858,241,241,632452,632452,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,EWS,GQ (Open),Mop-Up Round,1462,1620,493,489,60320,65418,4
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,OBC,GQ (Open),Mop-Up Round,1364,1368,496,496,56602,56689,2
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,SC,GQ (Open),Mop-Up Round,3054,5297,454,403,115425,204009,2
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,ST,GQ (Open),Mop-Up Round,8091,8294,332,328,357939,368769,2
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,PH (Divyaang),Mop-Up Round,11624,11624,248,248,609085,609085,1
+Virendra Kumar Sakhlecha Government Medical College,Government,Madhya Pradesh,MBBS,UR,GQ (Open),Mop-Up Round,1180,1355,501,496,50491,56333,8

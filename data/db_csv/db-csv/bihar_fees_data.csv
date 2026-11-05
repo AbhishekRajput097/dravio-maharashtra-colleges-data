@@ -1,0 +1,22 @@
+college_name,state,category,tuition_fee_per_annum,admission_fee_one_time,development_fees,hostel_mess_fee_per_annum,refundable_security_deposit_one_time,university_registration_fees
+"Katihar Medical College, Katihar",Bihar,General / Minority,"INR 11,05,000",,"INR 1,50,000  ","INR 2,37,600","INR 1,00,000","INR 8,600"
+"Katihar Medical College, Katihar",Bihar,NRI,"USD 28,000",,"INR 1,50,000 ","INR 2,37,600 ","INR 1,00,000","INR 8,600"
+"M.G.M. Medical College, Kishanganj",Bihar,General / Minority,"INR 9,63,000",,,"INR 2,00,000",,
+"Narayan Medical College & Hospital, Sasaram",Bihar,General,"INR 24,00,000","INR 50,000",,"INR 3,40,000 ","INR 2,00,000",
+"Narayan Medical College & Hospital, Sasaram",Bihar,NRI,"USD 30,000","INR 50,000",,"INR 3,40,000 ","INR 2,00,000",
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,General,"INR 12,00,000",,,"INR 3,15,000 ",,
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,NRI,"USD 30,000",,,"USD 4,000 ",,
+"Madhubani Medical College, Madhubani",Bihar,General / Muslim Minority,"INR 14,00,000",,,"INR 3,00,000",,
+"Madhubani Medical College, Madhubani",Bihar,NRI,"USD 30,000",,,"INR 3,00,000",,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,General,"INR 16,25,000 ",,,,"INR 2,00,000",
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,NRI,"USD 27,000 ",,,,"INR 2,00,000",
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,General,"INR 13,00,000 ",,,"INR 3,00,000 ",,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,NRI,"USD 27,000 ",,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,General,"INR 10,00,000",,,,,
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,General,"INR 17,25,000","INR 51,000",,"INR 3,15,000","INR 2,00,000",
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,NRI,"USD 32,000","INR 51,000",,"INR 3,15,000 ","INR 2,00,000",
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,NRI,"USD 27,000",,,,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,General / Minority,"INR 5,50,000","INR 3,15,000 ",,"INR 1,00,000","INR 51,000",
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,NRI,"USD 27,000","INR 3,15,000",,"INR 1,00,000","INR 51,000",
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,General,"INR 16,00,000 ","INR 51,000",,"INR 3,00,000","INR 2,00,000",
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,NRI,"USD 28,000 ","INR 51,000",,"INR 3,00,000","INR 2,00,000",

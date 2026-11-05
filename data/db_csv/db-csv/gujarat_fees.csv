@@ -1,0 +1,58 @@
+college_name,type,university,govt_quota_fees,mqt_quota_fees,fees_currency,nri_fees,hostel_fees,mess_fees,university_fees,transport_fees,exam_fees
+"B J Medical College, Ahmedabad",GOV,Gujarat University,25000,0,Rs.,0,1200,0,125,0,1200
+"Medical College, Baroda",GOV,M.S. University Baroda,25000,0,Rs.,0,10000,0,4525,0,0
+"MP Shah Medical College, Jamnagar",GOV,Saurashtra University,25000,0,Rs.,0,1200,0,250,0,3300
+"Government Medical College, Surat",GOV,"Veer Narmad South Gujarat
+University",25000,0,Rs.,0,1200,48000,730,0,2430
+"Pandit Deendayal Upadhyay Medical College, Rajkot",GOV,Saurashtra University,25000,0,Rs.,0,1200,0,0,0,3000
+"Government Medical College, Bhavnagar",GOV,MK Bhavnagar University,25000,0,Rs.,0,1200,0,0,0,3630
+GMERS Medical College Sola Ahmedabad,SFI,Gujarat University,375000,1200000,$,25000,12000,36000,125,0,1225
+"GMERS Medical College, Gotri, Vadodara",SFI,M.S. University Baroda,375000,0,$,25000,12000,0,4380,0,5390
+"GMERS Medical College, Gandhinagar",SFI,Gujarat University,375000,1200000,$,25000,12000,36000,125,0,1225
+"GMERS Medical College, Dharpur Patan",SFI,"Hemchandracharya North
+Gujarat University",375000,1200000,$,25000,12000,2700,100,0,5110
+"GMERS Medical College, Valsad",SFI,"Veer Narmad South Gujarat
+University",375000,1200000,$,25000,12000,28800,340,0,3030
+"GMERS Medical College, Junagadh",SFI,"Bhakta Kavi Narsinh Mehta
+University",375000,1200000,$,25000,12000,3600,740,0,4950
+"GMERS Medical College, Hadiyol, Himmatnagar",SFI,"Hemchandracharya North
+Gujarat University",375000,1200000,$,25000,12000,0,1000,0,5000
+"GMERS Medical College, Vadnagar, Mehsana",SFI,"Hemchandracharya North
+Gujarat University",375000,1200000,$,25000,12000,3500,1000,0,5165
+"Smt. N.H.L.Municipal Medical College, Ahmedabad",SFI,Gujarat University,830000,2563000,$,42188,30000,0,125,0,1225
+"Narendra Modi Medical College, Ahmedabad",SFI,Gujarat University,1023000,2576000,$,42188,30000,0,125,0,1225
+"Surat Municipal Institute of Medical Education & Research, Surat",SFI,"Veer Narmad South Gujarat
+University",1002000,2196000,$,32000,20000,0,340,0,3030
+"Pramukhswami Medical College, Anand",SFI,Bhaikaka University,1120000,2230000,$,35000,65000,50000,2000,13500,6000
+"CU Shah Medical College, Surendra Nagar",SFI,Saurashtra University,974000,2200000,Rs.,2500000,42000,0,0,0,0
+"Gujarat Adani Institute of Medical Sciences, Bhuj",SFI,"KSKV Kachchh University
+Bhuj",974000,2078000,$,30000,0,0,300,0,40100
+"GCS Medical College, Ahmedabad",SFI,Gujarat University,974000,1827000,$,25000,50000,0,125,0,1225
+"Parul Institute of Medical Sciences & Research, Vadodara",SFI,Parul University,1120000,2090000,$,30000,140000,0,30000,23000,30000
+"Banas Medical College and Research Institute, Palanpur, Gujarat",SFI,"Hemchandracharya North
+Gujarat University",894000,1819000,Rs.,6500000,65000,65000,1000,10000,7000
+"Zydus Medical College & Hospital, Dahod",SFI,Shri Govind Guru University,1049000,2098000,Rs.,0,60000,4000,5150,0,5250
+"Dr. N.D. Desai Faculty of Medical Science and Research, Nadiad",SFI,Dharmsinh Desai University,1099000,2250000,$,30000,90000,0,2000,0,12000
+"Nootan Medical College and Research Centre, Mehsana",SFI,"Sankalchand Patel
+University",975000,1875000,Rs.,2500000,80000,55000,0,0,10000
+"Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",SFI,Gujarat University,1082000,2164000,$,30000,60000,70000,125,0,1250
+"Shantabaa Medical College, Amreli",SFI,Saurashtra University,961000,1900000,Rs.,2100000,0,0,0,0,0
+"Dr.Kiran C.Patel Medical College Research Institute, Bharuch",SFI,"Veer Narmad South Gujarat
+University",950000,1900000,Rs.,2600000,100000,0,730,0,3000
+GMERS Medical College Porbandar,SFI,"Bhakta Kavi Narsinh Mehta
+University",375000,1200000,$,25000,12000,60000,740,0,4950
+GMERS Medical College Panchmahal Godhra,SFI,Shri Govind Guru University,375000,1200000,$,25000,12000,0,0,0,5250
+"GMERS Medical College, Rajpipla",SFI,"Veer Narmad South Gujarat
+University",375000,1200000,$,25000,12000,3110,4300,0,3030
+GMERS Medical College Morbi,SFI,Saurashtra University,375000,1200000,$,25000,12000,0,4000,0,0
+"GMERS Medical College, Navsari",SFI,"Veer Narmad South Gujarat
+University",375000,1200000,$,25000,12000,0,120,0,3030
+"SAL Institute of Medical Sciences, Ahmedabad",SFI,Gujarat University,1066000,1971000,$,36000,70000,81000,125,0,1225
+"Ananya College of Medicine Research, Gandhinagar",SFI,Gujarat University,1014000,1940000,$,26000,72000,48000,125,0,1225
+SWAMIINARAYAN INSTITUTE OF MEDICAL SCIENCES & RESEARCH,SFI,Swaminarayan University,1014000,1940000,$,25000,100000,25000,25000,25000,30000
+"Kiran Medical College, Surat",SFI,"Veer Narmad South Gujarat
+University",1014000,1940000,$,27500,0,0,0,0,0
+"Bhagyoday Medical College, Mehsana",SFI,"Hemchandracharya North
+Gujarat University",1014000,1940000,$,34000,140000,0,5000,0,5200
+"ESIC MEDICAL COLLEGE NARODA BAPUNAGAR, AHMEDABAD",GOV,Gujarat University,100000,0,Rs.,0,10000,0,0,0,0
+"Matushri Prabhaben Khodabhai Boghara Medical College Research Centre, Rajkot",SFI,Saurashtra University,1014000,1940000,$,26000,175000,0,5000,0,15000

@@ -1,0 +1,37 @@
+State,Dataset,File,Category Column,Quota Column,Seat Matrix Columns
+Andhra Pradesh,Cutoff,andhra_pradesh_cutoff.csv,category,seat_type,
+Andhra Pradesh,Fees,andhra_pradesh_fees_data.csv,,seat_type,
+Andhra Pradesh,Seats,andhra_pradesh_seat_data.csv,,,"state_quota, management_quota, nri_quota"
+Bihar,Cutoff,bihar_cutoff_data.csv,category,seat_type_quota,
+Bihar,Fees,bihar_fees_data.csv,category,,
+Bihar,Seats,bihar_seat_data.csv,,,"ur_open_merit_seats, muslim_minority_seats, sikh_minority_seats, nri_seats"
+Gujarat,Cutoff,gujarat_cutoff_2024.csv,category,seat_type,
+Gujarat,Cutoff,gujarat_cutoff_2025.csv,category,seat_type,
+Gujarat,Fees,gujarat_fees.csv,,,
+Gujarat,Seats,gujarat_seat.csv,,,"aiq, state_quota, esic_ip, nri_quota, open, sc, st, sebc, ews, mqt_quota"
+Himachal Pradesh,Cutoff,himachal_pradesh_cutoff_data.csv,category,seat_type,
+Himachal Pradesh,Fees,himachal_pradesh_fees_data.csv,category,,
+Himachal Pradesh,Seats,himachal_pradesh_seat_data.csv,,quota,"quota, ur, sc, st, obc, irdp_bpl, ph, ba, sgc, mgt, nri"
+Karnataka,Cutoff,karnataka_cutoff_data.csv,category_full_name,quota_seat_type,
+Karnataka,Fees,karnataka_fees_data.csv,category_full_name,quota_seat_type,
+Karnataka,Seats,karnataka_seat_data.csv,,,"cat1_g, cat1_r, cat1_k, 2a_g, 2a_r, 2a_k, 2b_g, 2b_r, 2b_k, 3a_g, 3a_r, 3a_k, 3b_g, 3b_r, 3b_k, st_g, st_r, st_k, sc_g, sc_r, sc_k, gm_g, gm_r, gm_k, gmp, gmph, mmh, meh, mc, mm, mk, mu, ma, me, ncc, spo, jk, phm, nri, mgt"
+Madhya Pradesh,Cutoff,madhya_pradesh_cutoff.csv,category,seat_type,
+Madhya Pradesh,Fees,madhya_pradesh_fees.csv,category,,
+Madhya Pradesh,Seats,madhya_pradesh_seat.csv,,,"aiq, goi_quota, state_quota, esic_ip, nri, open_seats, sc, st, obc, ews, mqt_quota, mbc, pwd, sainik, ff, gs"
+Maharashtra,Cutoff,maharashtra_cutoff.csv,category,seat_type,
+Maharashtra,Fees,maharashtra_fees.csv,category,,
+Maharashtra,Seats,maharashtra_seat.csv,,,"aiq, state_quota, esic_ip, nri_quota, open_seats, sc, st, obc, vj, nt, def, seb, ews, mk, iq_quota"
+Mcc,Cutoff,mcc_cutoff.csv,category,quota,
+Mcc,Fees,mcc_fees.csv,,quota,
+Mccs,Seats,mcc_seats.csv,,quota,"quota, bc_no, bc_ph, ew_no, ew_ph, op_no, op_ph, sc_no, sc_ph, st_no, st_ph, nri_op_no, jain_minority_quota, muslim_minority_quota"
+Rajasthan,Cutoff,rajasthan_cutoff.csv,category,seat_type,
+Rajasthan,Fees,rajasthan_fees.csv,,seat_type,
+Rajasthan,Seats,rajasthan_seat.csv,,,"aiq, state_quota, esic_ip, nri_quota, open_seats, sc, st, obc, ews, mqt_quota, mbc, st_and_sa, obc_and_mbc"
+Up,Cutoff,up_cutoff_data.csv,,quota,
+Up,Fees,up_fees_data.csv,,,
+Uttarakhand,Cutoff,uttarakhand_cutoff_data.csv,category,quota,
+Uttarakhand,Fees,uttarakhand_fees_data.csv,,seat_type,
+Uttarakhand,Seats,uttarakhand_seat_data.csv,,,"open_seats, obc_seats, sc_seats, st_seats, management_seats, nri_seats"
+West Bengal,Cutoff,west_bengal_cutoff_data.csv,category,quota,
+West Bengal,Fees,west_bengal_fees_data.csv,,quota,
+West Bengal,Seats,west_bengal_seat_data.csv,,,"institute_name, ur_seats, ur_pwd_seats, ews_seats, ews_pwd_seats, sc_seats, sc_pwd_seats, st_seats, st_pwd_seats, obc_a_seats, obc_a_pwd_seats, obc_b_seats, obc_b_pwd_seats, management_seats, nri_seats"

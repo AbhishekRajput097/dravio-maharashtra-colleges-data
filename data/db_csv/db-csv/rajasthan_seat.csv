@@ -1,0 +1,50 @@
+college_name,institute_type,total_seats,aiq,state_quota,esic_ip,nri_quota,open_seats,sc,st,obc,ews,mqt_quota,mbc,st_and_sa,obc_and_mbc
+"All India Institute of Medical Sciences, Jodhpur",AIIMS,150,150,0,0,0,62,23,11,41,13,0,0,0,0
+"American International Institute of Medical Sciences, Bedwas",Private Medical Colleges,150,0,150,0,0,47,20,15,27,12,23,6,0,0
+"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private Medical Colleges,150,0,150,0,0,46,20,16,27,12,23,6,0,0
+Arya Medical College and Hospital,Private Medical Colleges,50,0,50,0,0,15,7,3,9,4,8,2,2,0
+Balvir Singh Tomar Institute of Medical Sciences and Research,Private Medical Colleges,150,0,150,0,0,46,20,8,27,13,23,6,7,0
+Dr S S Tantia Medical College Hospital & Research Centre,Private Medical Colleges,250,0,250,0,0,77,34,14,44,21,38,11,11,0
+"Dr SN Medical College, Jodhpur",State Government,250,42,208,0,0,75,33,24,44,21,0,11,0,0
+"Employees State Insurance Corporation Medical College,Alwar",ESIC,100,15,35,50,0,0,0,0,0,0,0,0,0,0
+"ESIC MEDICAL COLLEGE AND HOSPITAL, JAIPUR",ESIC,50,3,25,22,0,0,0,0,0,0,0,0,0,0
+GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private Medical Colleges,150,0,150,0,0,46,20,8,27,13,23,6,7,0
+"Geetanjali Medical College & Hospital,Udaipur",Private Medical Colleges,250,0,250,0,0,77,34,25,44,21,38,11,0,0
+"Government Medical College, Alwar",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,12,6,0,0,3,35,0,5,9
+"Government Medical College, Banswara",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,12,6,0,0,3,35,0,4,10
+"Government Medical College, Baran",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,13,5,0,0,4,35,0,4,9
+"Government Medical College, Barmer",Rajasthan Medical Education Society (RajMES),130,0,130,0,20,17,7,0,0,4,45,0,6,12
+"Government Medical College, Bharatpur, Rajasthan",Rajasthan Medical Education Society (RajMES),150,23,127,0,22,19,9,0,0,5,53,0,6,13
+"Government Medical College, Bhilwara, Rajasthan",Rajasthan Medical Education Society (RajMES),150,23,127,0,23,19,9,0,0,5,52,0,6,13
+"Government Medical College, Bundi",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,13,6,0,0,4,35,0,4,8
+"Government Medical College, Chittorgarh",Rajasthan Medical Education Society (RajMES),85,15,85,0,15,12,5,0,0,4,35,0,4,10
+"Government Medical College, Churu",Rajasthan Medical Education Society (RajMES),150,22,128,0,22,19,9,0,0,5,53,0,6,14
+"Government Medical College, Dausa",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,13,5,0,0,4,35,0,5,8
+"Government Medical College, Dholpur",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,12,5,0,0,4,35,0,5,9
+"Government Medical College, Dungarpur",Rajasthan Medical Education Society (RajMES),150,23,127,0,23,18,8,0,0,6,52,0,6,14
+"Government Medical College, Hanumangarh",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,12,6,0,0,3,35,0,4,10
+"Government Medical College, Jaisalmer",Rajasthan Medical Education Society (RajMES),50,8,42,0,8,6,3,1,3,2,17,1,1,0
+"Government Medical College, Jhunjhunu",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,13,6,0,0,3,35,0,5,8
+"Government Medical College, Karauli",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,13,6,0,0,3,35,0,4,9
+"Government Medical College, Kota",State Government,250,42,208,0,0,70,30,23,41,19,0,10,0,0
+"Government Medical College, Nagaur",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,13,5,0,0,4,35,0,5,8
+"Government Medical College, Pali, Rajasthan",Rajasthan Medical Education Society (RajMES),150,23,127,0,23,19,8,0,0,6,52,0,6,13
+"Government Medical College, Sawai Madhopur",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,12,6,0,0,3,35,0,5,9
+"Government Medical College, Sirohi",Rajasthan Medical Education Society (RajMES),100,16,84,0,14,13,6,0,0,3,35,0,5,8
+"Government Medical College, Sri Ganganagar",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,12,6,0,0,4,35,0,4,9
+"Government medical college, tonk",Rajasthan Medical Education Society (RajMES),50,8,50,0,8,6,2,1,4,2,17,1,1,8
+"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private Medical Colleges,250,0,250,0,0,76,34,25,45,22,38,10,0,0
+"Jawaharlal Nehru Medical College, Ajmer",State Government,250,41,209,0,0,70,31,23,41,19,0,10,0,0
+"Jhalawar Medical College, Jhalawar",Rajasthan Medical Education Society (RajMES),200,30,170,0,30,25,11,0,0,7,70,0,8,19
+JIET Medical College and Hospital,Private Medical Colleges,150,0,150,0,0,46,20,8,27,13,23,6,7,0
+"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Private Medical Colleges,250,0,250,0,0,77,34,25,44,21,38,11,0,0
+"National Institute of Medical Science & Research, Jaipur",Private Medical Colleges,250,0,250,0,0,77,34,25,44,21,38,11,0,0
+"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private Medical Colleges,200,0,200,0,0,60,29,11,36,17,30,8,9,0
+"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Private Medical Colleges,150,0,150,0,0,45,20,16,27,12,23,6,0,0
+"R N T Medical College, Udaipur",State Government,250,42,208,0,0,69,31,23,41,19,0,10,0,0
+"RUHS College of Medical Sciences, Jaipur",Rajasthan Medical Education Society (RajMES),150,22,128,0,23,19,8,0,0,5,53,0,6,14
+"Sardar Patel Medical College, Bikaner",State Government,250,42,208,0,0,76,33,25,43,21,0,10,0,0
+"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Rajasthan Medical Education Society (RajMES),100,15,85,0,15,12,6,0,0,4,35,0,4,9
+"SMS Medical College, Jaipur",State Government,250,42,208,0,0,75,33,24,44,21,0,11,0,0
+"Sudha Medical College, Kota, Rajasthan",Private Medical Colleges,100,0,100,0,0,30,14,10,17,9,15,5,0,0
+"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private Medical Colleges,100,0,100,0,0,30,14,10,18,9,15,4,0,0

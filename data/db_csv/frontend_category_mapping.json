@@ -1,0 +1,863 @@
+{
+  "canonical_categories": [
+    "GENERAL",
+    "EWS",
+    "OBC",
+    "SC",
+    "ST",
+    "NT",
+    "MINORITY",
+    "NRI",
+    "MANAGEMENT"
+  ],
+  "generated_at": "2026-07-09T12:28:29.474242",
+  "mapping": {
+    "Andhra Pradesh": {
+      "BCA": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "BCB": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "BCC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "BCD": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "BCE": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OC": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC1": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": "SC1"
+      },
+      "SC2": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": "SC2"
+      },
+      "SC3": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": "SC3"
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      }
+    },
+    "Bihar": {
+      "BC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "EBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "Extremely-Backward-Class"
+      },
+      "EWS": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "UR": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "General": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "General / Minority": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Minority-run-college-general-quota"
+      },
+      "General / Muslim Minority": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Muslim-Minority-college-quota"
+      },
+      "NRI": {
+        "canonical_category": "NRI",
+        "is_pwd": false,
+        "modifier": null
+      }
+    },
+    "Gujarat": {
+      "EW": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "MQ": {
+        "canonical_category": "MANAGEMENT",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "NRI": {
+        "canonical_category": "NRI",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OP": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SE": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBC"
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "EWPH": {
+        "canonical_category": "EWS",
+        "is_pwd": true,
+        "modifier": null
+      },
+      "OPPH": {
+        "canonical_category": "GENERAL",
+        "is_pwd": true,
+        "modifier": null
+      },
+      "SCPH": {
+        "canonical_category": "SC",
+        "is_pwd": true,
+        "modifier": null
+      },
+      "SEPH": {
+        "canonical_category": "OBC",
+        "is_pwd": true,
+        "modifier": "SEBC"
+      },
+      "STPH": {
+        "canonical_category": "ST",
+        "is_pwd": true,
+        "modifier": null
+      }
+    },
+    "Himachal Pradesh": {
+      "General": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "IRDP/BPL": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Income-Based-BPL"
+      },
+      "NRI": {
+        "canonical_category": "NRI",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "IRDP / BPL": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Income-Based-BPL"
+      },
+      "Mgt Quota": {
+        "canonical_category": "QUOTA_NOT_CATEGORY",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "State Quota": {
+        "canonical_category": "QUOTA_NOT_CATEGORY",
+        "is_pwd": false,
+        "modifier": null
+      }
+    },
+    "Karnataka": {
+      "GMP": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": "Govt-Merit-Private-Karnataka-Domicile"
+      },
+      "GMPH": {
+        "canonical_category": "GENERAL",
+        "is_pwd": true,
+        "modifier": "Govt-Merit-Private-HK-Region"
+      },
+      "MA": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Minority-Arabic"
+      },
+      "ME": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Minority-English-Christian"
+      },
+      "MEH": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Minority-English-HK-Region"
+      },
+      "MM": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Minority-Muslim"
+      },
+      "MMH": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Minority-Muslim-HK-Region"
+      },
+      "MU": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Minority-Urdu"
+      },
+      "NRI": {
+        "canonical_category": "NRI",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OPN": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OTH": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Miscellaneous"
+      },
+      "RC1": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-1"
+      },
+      "RC2": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-2"
+      },
+      "RC3": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-3"
+      },
+      "RC4": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-4"
+      },
+      "RC5": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-5"
+      },
+      "RC6": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-6"
+      },
+      "RC7": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-7"
+      },
+      "RC8": {
+        "canonical_category": "MINORITY",
+        "is_pwd": false,
+        "modifier": "Religious-Community-8"
+      },
+      "NRI / OCI Quota": {
+        "canonical_category": "NRI",
+        "is_pwd": false,
+        "modifier": "NRI / OCI Quota"
+      }
+    },
+    "Madhya Pradesh": {
+      "EWS": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "NRI": {
+        "canonical_category": "NRI",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "UR": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      }
+    },
+    "Maharashtra": {
+      "D1": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Defence-1"
+      },
+      "D1HA": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Defence-1-Hilly-Area"
+      },
+      "D2": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Defence-2"
+      },
+      "D3": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Defence-3"
+      },
+      "EWS": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "EWS D1": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": "EWS D1"
+      },
+      "EWS D2": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": "EWS D2"
+      },
+      "EWS HA": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": "EWS HA"
+      },
+      "EWS ORP-C": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": "EWS ORP-C"
+      },
+      "EWS PWD": {
+        "canonical_category": "EWS",
+        "is_pwd": true,
+        "modifier": "EWS PWD"
+      },
+      "HA": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Hilly-Area"
+      },
+      "I.Q.": {
+        "canonical_category": "MANAGEMENT",
+        "is_pwd": false,
+        "modifier": "Institute-Quota"
+      },
+      "MKB": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "MKB-Disputed-Border-Area"
+      },
+      "NRI": {
+        "canonical_category": "NRI",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "NTB": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "NTB D1": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTB D1"
+      },
+      "NTB HA": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTB HA"
+      },
+      "NTB ORP-C": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTB ORP-C"
+      },
+      "NTB PWD": {
+        "canonical_category": "NT",
+        "is_pwd": true,
+        "modifier": "NTB PWD"
+      },
+      "NTC": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "NTC D1": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTC D1"
+      },
+      "NTC D2": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTC D2"
+      },
+      "NTC HA": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTC HA"
+      },
+      "NTC ORP-A": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTC ORP-A"
+      },
+      "NTC ORP-C": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTC ORP-C"
+      },
+      "NTC PWD": {
+        "canonical_category": "NT",
+        "is_pwd": true,
+        "modifier": "NTC PWD"
+      },
+      "NTD": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "NTD D1": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTD D1"
+      },
+      "NTD D1HA": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTD D1HA"
+      },
+      "NTD D2": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTD D2"
+      },
+      "NTD HA": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTD HA"
+      },
+      "NTD ORP-C": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "NTD ORP-C"
+      },
+      "NTD PWD": {
+        "canonical_category": "NT",
+        "is_pwd": true,
+        "modifier": "NTD PWD"
+      },
+      "NTD PWD HA": {
+        "canonical_category": "NT",
+        "is_pwd": true,
+        "modifier": "NTD PWD HA"
+      },
+      "OBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OBC D1": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC D1"
+      },
+      "OBC D1HA": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC D1HA"
+      },
+      "OBC D2": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC D2"
+      },
+      "OBC HA": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC HA"
+      },
+      "OBC ORP-A": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC ORP-A"
+      },
+      "OBC ORP-C": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC ORP-C"
+      },
+      "OBC PWD": {
+        "canonical_category": "OBC",
+        "is_pwd": true,
+        "modifier": "OBC PWD"
+      },
+      "OBC PWD HA": {
+        "canonical_category": "OBC",
+        "is_pwd": true,
+        "modifier": "OBC PWD HA"
+      },
+      "OPEN": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OPEN (W)": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": "OPEN  W"
+      },
+      "ORP-A": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Orphan-Institutional"
+      },
+      "ORP-C": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Orphan-Outside-Institution"
+      },
+      "ORPHAN": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Orphan"
+      },
+      "ORPHANC": {
+        "canonical_category": "OTHER",
+        "is_pwd": false,
+        "modifier": "Orphan-Outside-Institution"
+      },
+      "PWD": {
+        "canonical_category": "GENERAL",
+        "is_pwd": true,
+        "modifier": null
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SEBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SEBCD1": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBCD1"
+      },
+      "SEBCD1HA": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBCD1HA"
+      },
+      "SEBCD2": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBCD2"
+      },
+      "SEBCHA": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBCHA"
+      },
+      "SEBCORP-C": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBCORP-C"
+      },
+      "SEBCPWD": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBCPWD"
+      },
+      "SEBCPWD HA": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBCPWD HA"
+      },
+      "SOBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SOBC HA": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SOBC HA"
+      },
+      "SOBC PWD": {
+        "canonical_category": "OBC",
+        "is_pwd": true,
+        "modifier": "SOBC PWD"
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "VJA": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "VJA D1": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "VJA D1"
+      },
+      "VJA HA": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "VJA HA"
+      },
+      "VJA ORP-C": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": "VJA ORP-C"
+      },
+      "VJA PWD": {
+        "canonical_category": "NT",
+        "is_pwd": true,
+        "modifier": "VJA PWD"
+      },
+      "NT": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "Open": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SEB": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "SEBC"
+      },
+      "VJ": {
+        "canonical_category": "NT",
+        "is_pwd": false,
+        "modifier": null
+      }
+    },
+    "Mcc": {
+      "EWS": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "EWS PwD": {
+        "canonical_category": "EWS",
+        "is_pwd": true,
+        "modifier": "EWS PwD"
+      },
+      "OBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OBC PwD": {
+        "canonical_category": "OBC",
+        "is_pwd": true,
+        "modifier": "OBC PwD"
+      },
+      "Open": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "Open PwD": {
+        "canonical_category": "GENERAL",
+        "is_pwd": true,
+        "modifier": "Open PwD"
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC PwD": {
+        "canonical_category": "SC",
+        "is_pwd": true,
+        "modifier": "SC PwD"
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "ST PwD": {
+        "canonical_category": "ST",
+        "is_pwd": true,
+        "modifier": "ST PwD"
+      }
+    },
+    "Rajasthan": {
+      "EWS": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "General": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "MBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      }
+    },
+    "Uttarakhand": {
+      "OBC": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "Open": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      }
+    },
+    "West Bengal": {
+      "EWS": {
+        "canonical_category": "EWS",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "OBC-A": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC-A"
+      },
+      "OBC-B": {
+        "canonical_category": "OBC",
+        "is_pwd": false,
+        "modifier": "OBC-B"
+      },
+      "SC": {
+        "canonical_category": "SC",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "ST": {
+        "canonical_category": "ST",
+        "is_pwd": false,
+        "modifier": null
+      },
+      "UR": {
+        "canonical_category": "GENERAL",
+        "is_pwd": false,
+        "modifier": null
+      }
+    }
+  }
+}

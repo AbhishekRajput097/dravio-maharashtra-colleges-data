@@ -1,0 +1,1359 @@
+admission_round,college_name,college_type,state,seat_type,category,quota,opening_state_merit_rank,closing_state_merit_rank,closing_neet_all_india_rank,closing_neet_percentile,total_allotted,year
+Round 1,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,10324,11853,584557,73.4696,12,2025
+Round 1,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,General,GQ,6236,10284,328739,85.1135,47,2025
+Round 1,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Mgmt. Seat,General,GQ,7705,13699,994918,54.7841,3,2025
+Round 1,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,13091,14170,1146926,47.8757,6,2025
+Round 1,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,10353,11833,580589,73.6451,27,2025
+Round 1,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,SC,SC Quota,11793,14286,1212805,45.0540,5,2025
+Round 1,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,ST,ST Quota,12857,14151,1133891,48.4408,8,2025
+Round 2,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,11023,13259,681668,68.9811,12,2025
+Round 2,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,General,GQ,6184,10951,336413,84.6868,47,2025
+Round 2,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Mgmt. Seat,General,GQ,14766,14958,994918,54.7841,2,2025
+Round 2,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,12799,15557,1146926,47.8757,6,2025
+Round 2,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,10953,12678,580589,73.6451,27,2025
+Round 2,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,SC,SC Quota,13403,15699,1212805,45.0540,8,2025
+Round 2,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,ST,ST Quota,13923,15530,1133891,48.4408,8,2025
+Round 3,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,11254,13973,681668,68.9811,12,2025
+Round 3,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,General,GQ,6153,12047,433521,80.2609,64,2025
+Round 3,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Mgmt. Seat,General,GQ,11183,16533,994918,54.7841,23,2025
+Round 3,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,13285,17484,1165536,47.1987,6,2025
+Round 3,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,11179,13122,580589,73.6451,27,2025
+Round 3,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,SC,SC Quota,12144,17951,1318596,40.2788,10,2025
+Round 3,"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,ST,ST Quota,15808,17778,1255088,43.0898,8,2025
+Round 4 (Stray Vacancy),"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Mgmt. Seat,General,GQ,16143,16728,1001133,54.4704,4,2025
+Round 6 (Special Stray),"American International Institute of Medical Sciences, Bedwas",Private,Rajasthan,Gen. Seat,General,GQ,14322,14322,711301,67.7208,1,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,10338,12453,709418,67.7208,12,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,General,GQ,6643,10198,317379,85.5373,46,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Mgmt. Seat,General,GQ,11800,13953,1059777,51.8104,8,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,12719,13968,1065280,51.5581,6,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,10424,11654,545124,75.3123,2,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,10222,11724,558535,74.7080,25,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,SC,SC Quota,12008,14422,1298055,40.9061,8,2025
+Round 1,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,ST,ST Quota,11217,13060,836899,62.0122,8,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,10936,13783,767656,65.0690,12,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,General,GQ,6957,11048,347240,84.2494,46,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Mgmt. Seat,General,GQ,12641,15280,1061631,51.8104,8,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,13762,15294,1065280,51.5581,5,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,11033,12465,545124,75.3123,2,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,10924,12553,558535,74.7080,25,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,SC,SC Quota,12890,15862,1298055,40.9061,10,2025
+Round 2,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,ST,ST Quota,11938,14166,836899,62.0122,8,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,11162,14714,767656,65.0690,12,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,General,GQ,6082,12583,507774,76.9083,64,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Mgmt. Seat,General,GQ,13056,17027,1061631,51.8104,23,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,14682,17432,1146926,47.8757,6,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,11264,12860,545124,75.3123,2,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,11150,12965,558535,74.7080,25,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,SC,SC Quota,13093,17900,1298055,40.9061,10,2025
+Round 3,"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Gen. Seat,ST,ST Quota,12450,15924,914107,58.4434,8,2025
+Round 4 (Stray Vacancy),"Ananta Institute of Medical Sciences & Research Centre, Rajsamand",Private,Rajasthan,Mgmt. Seat,General,GQ,16091,16095,919665,58.1566,2,2025
+Round 3,Arya Medical College and Hospital,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,13450,15555,867931,60.7118,3,2025
+Round 3,Arya Medical College and Hospital,Private,Rajasthan,Gen. Seat,General,GQ,12532,16875,1042383,52.6686,29,2025
+Round 3,Arya Medical College and Hospital,Private,Rajasthan,mgmt. Seat,General,GQ,14325,16860,1041035,52.6686,8,2025
+Round 3,Arya Medical College and Hospital,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,13572,17167,1081798,50.7789,9,2025
+Round 3,Arya Medical College and Hospital,Private,Rajasthan,Gen. Seat,ST,ST Quota,15569,15569,869328,60.4467,1,2025
+Round 2,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,13927,13927,792022,64.0773,1,2025
+Round 2,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,General,GQ,10334,13049,646164,70.7182,46,2025
+Round 2,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,15644,15841,1290099,41.3875,3,2025
+Round 2,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,13081,14947,993903,54.7841,27,2025
+Round 2,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,ST,ST Quota,13528,15781,1255088,43.0898,3,2025
+Round 3,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,14928,17225,1090793,50.4148,5,2025
+Round 3,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,General,GQ,10534,15547,867153,60.7118,89,2025
+Round 3,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Mgmt. Seat,General,GQ,16167,17504,1172878,46.6348,23,2025
+Round 3,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,13777,17873,1290099,41.3875,4,2025
+Round 3,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12376,16519,993903,54.7841,27,2025
+Round 3,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,SC,SC Quota,15759,15759,890749,59.5867,1,2025
+Round 3,Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,ST,ST Quota,15253,15253,832833,62.2178,1,2025
+Round 4 (Stray Vacancy),Balvir Singh Tomar Institute of Medical Sciences and Research,Private,Rajasthan,Gen. Seat,General,GQ,7836,12582,501683,77.1773,2,2025
+Round 1,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,12545,13397,915957,58.4434,4,2025
+Round 1,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,General,GQ,6521,11835,581423,73.6451,45,2025
+Round 1,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,14038,14038,1086990,50.7789,1,2025
+Round 1,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,11941,13442,928104,57.9417,27,2025
+Round 1,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,SC,SC Quota,12263,14399,1288308,41.3875,3,2025
+Round 1,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,ST,ST Quota,13295,13295,890095,59.5867,1,2025
+Round 2,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,13544,14573,915957,58.4434,3,2025
+Round 2,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,General,GQ,6822,12795,599979,72.6717,45,2025
+Round 2,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,15389,15516,1125365,48.9755,2,2025
+Round 2,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12116,15097,1026021,53.4906,27,2025
+Round 2,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,SC,SC Quota,13212,15836,1288308,41.3875,3,2025
+Round 2,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,ST,ST Quota,14455,14455,890095,59.5867,1,2025
+Round 3,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,14369,15937,915957,58.4434,3,2025
+Round 3,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,General,GQ,6907,17206,1088561,50.4148,166,2025
+Round 3,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Mgmt. Seat,General,GQ,14940,17346,1117630,49.3542,38,2025
+Round 3,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,17190,17371,1125365,48.9755,2,2025
+Round 3,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12441,17623,1204898,45.3443,37,2025
+Round 3,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,SC,SC Quota,13911,17865,1288308,41.3875,3,2025
+Round 3,Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,ST,ST Quota,15748,15748,890095,59.5867,1,2025
+Round 4 (Stray Vacancy),Dr S S Tantia Medical College Hospital & Research Centre,Private,Rajasthan,Gen. Seat,General,GQ,8498,17212,1064832,51.5581,8,2025
+Round 3,"ESIC MEDICAL COLLEGE AND HOSPITAL, JAIPUR",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1211,1885,12290,99.4359,3,2025
+Round 3,"ESIC MEDICAL COLLEGE AND HOSPITAL, JAIPUR",Government,Rajasthan,Govt. Seat,General,GQ,682,17474,1161390,47.1987,10,2025
+Round 3,"ESIC MEDICAL COLLEGE AND HOSPITAL, JAIPUR",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2055,2055,13374,99.3943,1,2025
+Round 3,"ESIC MEDICAL COLLEGE AND HOSPITAL, JAIPUR",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1076,1235,8434,99.6143,5,2025
+Round 3,"ESIC MEDICAL COLLEGE AND HOSPITAL, JAIPUR",Government,Rajasthan,Govt. Seat,SC,SC Quota,5869,6890,82373,96.2214,4,2025
+Round 3,"ESIC MEDICAL COLLEGE AND HOSPITAL, JAIPUR",Government,Rajasthan,Govt. Seat,ST,ST Quota,6365,7047,88346,95.9610,2,2025
+Round 1,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1414,1518,10384,99.5298,5,2025
+Round 1,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,General,GQ,675,14233,1183094,46.3306,21,2025
+Round 1,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2125,2909,19750,99.0911,3,2025
+Round 1,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1106,11409,496189,77.4754,9,2025
+Round 1,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,SC,SC Quota,5165,5934,64146,97.0682,8,2025
+Round 1,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6136,6188,71650,96.7147,3,2025
+Round 2,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1470,1775,11514,99.4762,5,2025
+Round 2,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,General,GQ,703,10455,285066,87.0638,20,2025
+Round 2,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2202,3012,19750,99.0911,3,2025
+Round 2,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1150,12158,496189,77.4754,9,2025
+Round 2,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,SC,SC Quota,5376,6503,72753,96.6561,8,2025
+Round 2,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6717,6740,80350,96.3422,3,2025
+Round 3,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1779,2283,14792,99.3266,5,2025
+Round 3,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,General,GQ,706,10656,285066,87.0638,21,2025
+Round 3,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2206,3023,19750,99.0911,3,2025
+Round 3,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1154,12491,496189,77.4754,10,2025
+Round 3,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,SC,SC Quota,5426,6748,77651,96.4661,8,2025
+Round 3,"Employees State Insurance Corporation Medical College,Alwar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6799,6926,83531,96.1514,3,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1715,1788,12063,99.4359,3,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4739,4986,42929,98.0139,4,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,General,GQ,1010,10107,307809,86.0562,13,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,General,GQ,3573,14318,1231754,44.0102,13,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,NRI Seat,General,GQ,12121,14133,1121964,48.9755,6,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2605,2776,18766,99.1463,2,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4803,4883,41200,98.1065,2,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,OBC,GQ,13578,13578,963304,56.2908,1,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1403,13997,1075429,51.3062,7,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4502,4660,37175,98.2864,7,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,SC,SC Quota,6020,6291,74790,96.5946,5,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9085,9344,227962,89.6378,4,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6215,6308,75126,96.5946,3,2025
+Round 1,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8980,9109,206790,90.6167,3,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1834,2060,13432,99.3718,3,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4937,5192,42929,98.0139,4,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,General,GQ,1356,10678,307809,86.0562,13,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,General,GQ,3704,15736,1231754,44.0102,13,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,NRI Seat,General,GQ,13029,15508,1121964,48.9755,7,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2695,2873,18766,99.1463,2,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5001,5085,41200,98.1065,2,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1791,15336,1075429,51.3062,7,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4688,4856,37175,98.2864,7,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,SC,SC Quota,6342,6637,76292,96.5323,5,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9565,9842,227962,89.6378,4,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6845,7109,93964,95.6977,3,2025
+Round 2,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9452,9592,206790,90.6167,3,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1838,2343,15164,99.3047,3,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4976,5238,42929,98.0139,4,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,General,GQ,794,10894,307809,86.0562,14,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,General,GQ,3722,17708,1231754,44.0102,15,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,NRI Seat,General,GQ,12239,17359,1121964,48.9755,11,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2705,2884,18766,99.1463,2,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5043,5130,41200,98.1065,2,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1795,17115,1075429,51.3062,7,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4723,5108,40641,98.1555,8,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,SC,SC Quota,6866,7213,94348,95.6977,6,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8492,10019,227962,89.6378,6,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6930,7389,101020,95.3603,3,2025
+Round 3,"Government Medical College, Alwar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9658,9942,221415,89.9034,4,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2184,2286,15328,99.3047,3,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5243,5594,55357,97.4625,3,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,General,GQ,1740,9918,286009,86.9656,12,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,General,GQ,4938,11246,465450,78.8315,15,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3084,3274,22801,98.9646,2,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5223,6321,75518,96.5323,2,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1993,2029,13700,99.3718,7,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5195,5216,47192,97.8172,8,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,SC,SC Quota,6141,6668,89526,95.8947,6,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9079,10209,318468,85.5373,4,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,ST,ST Quota,6781,6817,95406,95.6333,3,2025
+Round 1,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9556,9563,248170,88.7138,2,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2840,2954,19319,99.1192,3,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5458,5752,53573,97.5665,3,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,General,GQ,2073,10469,286009,86.9656,12,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,General,GQ,4518,13518,722623,67.1590,15,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3197,3392,22801,98.9646,2,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5437,6610,75518,96.5323,2,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2474,2514,16261,99.2566,7,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5253,5434,47274,97.8172,8,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,SC,SC Quota,7023,7199,97260,95.5667,6,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9493,10792,318468,85.5373,4,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,ST,ST Quota,7444,7601,112771,94.8796,3,2025
+Round 2,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,10078,10086,248170,88.7138,2,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2851,4256,29820,98.6142,3,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5512,6355,66185,96.9560,5,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,General,GQ,3824,10671,286009,86.9656,13,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,General,GQ,5408,15060,807520,63.2528,21,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3951,4020,27757,98.7264,2,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5490,7565,107351,95.0889,3,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,3863,3875,26585,98.7659,8,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5879,6029,58043,97.3500,11,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,SC,SC Quota,7486,8322,136631,93.7873,6,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10227,11267,345666,84.2494,7,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Govt. Seat,ST,ST Quota,8294,8795,155440,92.9330,3,2025
+Round 3,"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,10262,10710,289310,86.8692,3,2025
+Round 4 (Stray Vacancy),"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,General,GQ,4037,4037,27809,98.7264,1,2025
+Round 4 (Stray Vacancy),"Government Medical College, Banswara",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,11456,11456,362195,83.5892,1,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2186,2252,15144,99.3047,4,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5472,5577,54972,97.4625,4,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,General,GQ,1782,10095,306620,86.0562,13,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,General,GQ,4554,13792,1018982,53.7444,13,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2879,2879,19481,99.0911,1,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6196,6197,71896,96.7147,2,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1990,2027,13689,99.3718,8,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5166,5182,46664,97.8669,6,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,SC,SC Quota,6637,6658,89153,95.9610,4,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9104,10167,314339,85.7495,5,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,ST,ST Quota,6635,6818,95435,95.6333,3,2025
+Round 1,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9564,9582,249871,88.6080,3,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2712,3018,19823,99.0911,4,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5757,5894,56734,97.4071,4,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,General,GQ,1872,10665,306620,86.0562,13,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,General,GQ,4742,15068,1018982,53.7444,13,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2981,2981,19481,99.0911,1,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6474,6475,71896,96.7147,2,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2495,2554,16507,99.2308,8,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5377,5395,46664,97.8669,6,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,SC,SC Quota,7026,7170,96270,95.6333,4,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9098,10746,314339,85.7495,5,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,ST,ST Quota,7351,7594,112485,94.8796,3,2025
+Round 2,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9758,10103,249789,88.6080,3,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2836,4294,30220,98.6142,4,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,6212,6382,67008,96.9560,6,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,General,GQ,1876,10880,306620,86.0562,14,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,General,GQ,4778,5866,54739,97.5150,17,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2992,2992,19481,99.0911,1,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6962,7682,111746,94.8796,3,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2527,3856,26405,98.8019,8,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5427,6015,57750,97.3500,10,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,SC,SC Quota,7262,8331,136858,93.7873,5,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9751,11356,355328,83.9131,7,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Govt. Seat,ST,ST Quota,7843,8267,134712,93.8645,3,2025
+Round 3,"Government Medical College, Baran",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9748,10707,289217,86.8692,7,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1750,1971,13310,99.3943,4,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4618,5185,46701,97.8669,4,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,General,GQ,1229,9929,287120,86.9656,19,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,General,GQ,4036,13719,999935,54.4704,18,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2609,2675,18026,99.1757,2,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5554,5621,55881,97.4625,2,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1454,4569,35891,98.3735,9,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4582,4733,38497,98.2449,10,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,6094,6393,78418,96.4063,7,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9502,9756,269269,87.7510,6,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,6316,6541,83897,96.1514,3,2025
+Round 1,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9220,9391,232255,89.4554,3,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1961,2320,15024,99.3047,4,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5105,5398,46701,97.8669,4,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,General,GQ,1562,10481,287120,86.9656,19,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,General,GQ,4192,14981,999935,54.4704,18,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2699,2769,18026,99.1757,2,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5794,5864,55881,97.4625,2,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1602,4759,35891,98.3735,9,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4375,4931,38497,98.2449,10,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,6797,6975,89153,95.9610,7,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8680,10293,269269,87.7510,6,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,6605,7145,95367,95.6333,3,2025
+Round 2,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9712,9898,232255,89.4554,3,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2046,2722,17632,99.2014,4,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5644,5977,56967,97.4071,6,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,General,GQ,1566,10826,302629,86.2627,20,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,General,GQ,4165,16753,1025627,53.4906,27,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2709,2973,19388,99.1192,2,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5856,6374,66812,96.9560,3,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1606,4795,35891,98.3735,10,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4407,5398,45952,97.9192,14,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,7063,7545,106548,95.1566,7,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8788,11224,342198,84.4606,10,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,7133,7345,99309,95.4937,3,2025
+Round 3,"Government Medical College, Barmer",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,10102,10659,285129,87.0638,5,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1515,2555,17137,99.2014,5,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4359,4519,35210,98.3735,5,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,726,12138,646127,70.7182,22,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3818,14376,1270515,42.3356,21,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,11316,14301,1219237,44.7489,8,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2559,2850,19285,99.1192,2,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4842,5545,54362,97.5150,3,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1311,1342,9366,99.5671,10,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4321,4399,33664,98.4560,10,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,5987,6134,69645,96.8395,8,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8307,9411,234936,89.2754,9,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6203,6315,75310,96.5323,3,2025
+Round 1,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8697,8925,193478,91.2170,2,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1779,2643,17137,99.2014,5,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4681,5004,39644,98.2023,5,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,757,13048,646127,70.7182,22,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3959,15806,1270515,42.3356,21,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,13703,15716,1219237,44.7489,11,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2291,2951,19285,99.1192,2,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5041,5785,54362,97.5150,3,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1360,1769,11477,99.4762,10,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4167,4563,33520,98.4560,10,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6407,6791,82007,96.2824,8,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8716,9920,234936,89.2754,9,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6859,6897,85923,96.0883,3,2025
+Round 2,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9144,9393,193478,91.2170,2,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1783,2652,17137,99.2014,5,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4734,5185,42212,98.0615,5,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,761,13671,646127,70.7182,22,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3983,13223,593067,73.0127,22,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,12482,17679,1219237,44.7489,18,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2658,2962,19285,99.1192,2,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5083,5847,54362,97.5150,3,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1722,2108,13724,99.3718,11,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4196,5015,39115,98.2023,12,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6484,7217,94482,95.6977,9,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8846,10131,237424,89.1842,10,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6945,7122,91372,95.8259,3,2025
+Round 3,"Government Medical College, Bharatpur, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9238,9601,196562,91.0463,5,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1313,1526,10443,99.5122,5,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4137,4283,32190,98.5352,4,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,1063,14195,1161390,47.1987,21,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,2924,11236,462261,78.9598,21,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2284,3229,22447,98.9646,2,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4784,5346,49876,97.7202,2,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1169,2709,18296,99.1463,10,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4100,4194,31203,98.5766,11,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,5677,6107,68952,96.8395,9,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8378,9196,213986,90.2579,9,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6190,6249,73596,96.6561,3,2025
+Round 1,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8830,8988,197610,91.0463,2,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1565,1807,11758,99.4573,5,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4300,4616,34074,98.4560,4,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,1173,15589,1161390,47.1987,21,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3105,11971,465450,78.8315,21,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,13006,13006,639069,71.0438,1,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2366,3345,22447,98.9646,2,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4982,5569,49876,97.7202,2,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1229,2804,18296,99.1463,10,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4261,4360,31203,98.5766,11,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6273,6592,75066,96.5946,9,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8794,9686,213986,90.2579,9,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6776,6852,84141,96.1514,3,2025
+Round 2,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9290,9460,197610,91.0463,2,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1569,2346,15195,99.3047,5,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4329,4813,36112,98.3285,7,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,1328,10621,281575,87.1619,22,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3881,13115,579268,73.6451,32,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2372,3361,22447,98.9646,2,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5022,6254,63730,97.0682,3,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1233,2815,18296,99.1463,11,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4293,4875,36844,98.3285,16,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6455,7180,93310,95.7624,9,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8859,9856,213986,90.2579,13,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6861,7009,86885,96.0252,3,2025
+Round 3,"Government Medical College, Bhilwara, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9095,9617,197610,91.0463,4,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1853,2126,14277,99.3495,3,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5066,5312,49352,97.7202,3,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,General,GQ,1174,9968,290960,86.7671,14,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,General,GQ,3904,13066,839287,61.8033,14,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2784,2784,18820,99.1463,1,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5830,5830,61272,97.1838,1,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1825,1859,12569,99.4153,7,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4899,5026,43756,98.0139,8,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,SC,SC Quota,6304,6532,83230,96.2214,6,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9566,9884,282810,87.1619,5,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,ST,ST Quota,6502,6601,86357,96.0883,3,2025
+Round 1,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9137,9180,212066,90.3438,2,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2337,2739,17811,99.1757,3,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4445,5533,49352,97.7202,3,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,General,GQ,1812,10521,290960,86.7671,14,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,General,GQ,4050,14173,839287,61.8033,14,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2881,2881,18820,99.1463,1,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6089,6089,61272,97.1838,1,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2330,2372,15344,99.3047,7,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5101,5233,43756,98.0139,8,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,SC,SC Quota,6697,7103,93586,95.7624,6,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10089,10433,282810,87.1619,5,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,ST,ST Quota,7191,7293,101020,95.3603,3,2025
+Round 2,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9625,9669,212066,90.3438,2,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2719,2900,18860,99.1463,4,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5558,6183,62054,97.1838,5,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,General,GQ,1816,10726,290960,86.7671,14,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,General,GQ,4078,15294,839287,61.8033,20,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2892,2892,18820,99.1463,1,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6158,6158,61272,97.1838,1,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2337,3345,22291,98.9646,7,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5146,5754,52247,97.6149,11,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,SC,SC Quota,6779,8264,134566,93.8645,6,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9628,10634,282810,87.1619,8,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Govt. Seat,ST,ST Quota,7283,7502,105172,95.2266,3,2025
+Round 3,"Government Medical College, Bundi",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9446,10050,229885,89.5452,5,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1727,1757,11843,99.4573,4,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4509,4608,36435,98.3285,3,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,General,GQ,1198,9844,279486,87.2626,13,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,General,GQ,3902,11331,479741,78.1559,12,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2501,2707,18285,99.1463,2,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5713,5722,58276,97.3500,2,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,OBC,GQ,14259,14259,1198353,45.6296,1,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1437,14214,1173102,46.6348,8,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4498,4641,36844,98.3285,8,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,SC,SC Quota,5824,6337,76041,96.5323,5,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9023,9591,250564,88.6080,5,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,ST,ST Quota,6295,6478,81561,96.2824,2,2025
+Round 1,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9011,9122,207850,90.5283,3,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1788,2263,14694,99.3266,4,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4696,4802,36435,98.3285,3,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,General,GQ,1493,10425,281824,87.1619,13,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,General,GQ,4348,12070,479741,78.1559,12,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2586,2802,18285,99.1463,2,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5962,5971,58276,97.3500,2,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1790,15610,1173102,46.6348,8,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4683,4837,36844,98.3285,8,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,SC,SC Quota,6081,6795,82088,96.2824,5,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9497,10115,250564,88.6080,5,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,ST,ST Quota,6899,7054,92105,95.8259,2,2025
+Round 2,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9485,9607,207850,90.5283,3,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2115,2749,17811,99.1757,4,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4828,5405,46056,97.8669,5,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,General,GQ,1497,10626,281824,87.1619,14,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,General,GQ,4378,12384,479741,78.1559,19,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2592,2813,18285,99.1463,2,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6028,6262,63909,97.0682,3,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1844,17509,1173102,46.6348,8,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4730,5274,43613,98.0139,11,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,SC,SC Quota,6993,7241,95485,95.6333,5,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9378,10301,250564,88.6080,8,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Govt. Seat,ST,ST Quota,6985,7143,92105,95.8259,2,2025
+Round 3,"Government Medical College, Chittorgarh",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9231,9775,207850,90.5283,4,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1381,1733,11657,99.4573,5,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4585,4806,39644,98.2023,5,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,General,GQ,1086,9981,293335,86.6554,20,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,General,GQ,4091,14268,1202265,45.3443,20,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2359,3046,20877,99.0283,2,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5256,5863,62179,97.1838,3,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1343,13534,950163,56.9720,11,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4398,4494,34772,98.4165,11,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,SC,SC Quota,5937,6222,72753,96.6561,9,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8847,9423,235756,89.2754,9,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,ST,ST Quota,6309,6473,81433,96.2824,4,2025
+Round 1,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9052,9101,206098,90.6167,3,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1785,2252,14620,99.3266,5,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4812,5061,40604,98.1555,5,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,General,GQ,1251,10539,293335,86.6554,20,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,General,GQ,4121,15679,1202265,45.3443,20,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2442,3159,20877,99.0283,2,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5474,6123,62179,97.1838,3,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1404,14740,950163,56.9720,11,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4575,4678,34772,98.4165,11,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,SC,SC Quota,6201,6804,82361,96.2214,9,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9309,9932,235756,89.2754,9,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,ST,ST Quota,6948,7033,91372,95.8259,4,2025
+Round 2,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9529,9584,206098,90.6167,3,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1789,2696,17421,99.2014,5,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4849,5960,56738,97.4071,7,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,General,GQ,1379,10924,310760,85.8547,21,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,General,GQ,4060,4948,38141,98.2449,27,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2448,3172,20877,99.0283,3,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5528,6192,62179,97.1838,4,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1424,16191,950163,56.9720,11,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4610,5073,40056,98.1555,16,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,SC,SC Quota,4521,6889,82361,96.2214,9,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8513,10277,248367,88.7138,13,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Govt. Seat,ST,ST Quota,7035,7278,96751,95.5667,4,2025
+Round 3,"Government Medical College, Churu",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9689,10076,232255,89.4554,8,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1726,2844,19252,99.1192,4,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4597,5076,44623,97.9669,4,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,General,GQ,1353,10154,312907,85.7495,14,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,General,GQ,4244,11843,583414,73.4696,13,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,NRI Seat,General,GQ,14061,14061,1091037,50.4148,1,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1880,1880,12701,99.4153,1,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5631,5855,62073,97.1838,2,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1600,1702,11449,99.4762,7,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4658,4736,38531,98.2449,6,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,SC,SC Quota,6282,6355,76823,96.4661,5,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8484,9749,268803,87.7510,6,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,ST,ST Quota,6092,6481,81719,96.2824,3,2025
+Round 1,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8604,9272,221232,89.9034,3,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1787,2945,19252,99.1192,4,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4789,5284,44623,97.9669,4,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,General,GQ,1469,10730,312907,85.7495,14,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,General,GQ,3653,12695,583414,73.4696,13,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,NRI Seat,General,GQ,14785,15419,1091037,50.4148,3,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1945,1945,12701,99.4153,1,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5874,6115,62073,97.1838,2,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1930,2029,13251,99.3943,7,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4854,4934,38531,98.2449,6,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,SC,SC Quota,6642,6860,84748,96.1514,5,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8652,10285,268803,87.7510,6,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,ST,ST Quota,6774,6818,82664,96.2214,3,2025
+Round 2,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9040,9765,221232,89.9034,3,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1791,2956,19252,99.1192,4,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4825,5333,44623,97.9669,5,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,General,GQ,1546,10947,312907,85.7495,15,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,General,GQ,4446,13144,583414,73.4696,17,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,NRI Seat,General,GQ,15447,17229,1091037,50.4148,3,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1949,1949,12701,99.4153,1,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5937,6184,62073,97.1838,3,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1934,2163,14074,99.3495,7,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4892,5293,43871,98.0139,10,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,SC,SC Quota,6723,7212,94343,95.6977,5,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8604,10483,268803,87.7510,8,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Govt. Seat,ST,ST Quota,6859,7199,93964,95.6977,3,2025
+Round 3,"Government Medical College, Dausa",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9180,9940,221232,89.9034,4,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1862,2120,14254,99.3495,4,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5254,5365,50217,97.7202,4,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,General,GQ,1464,10057,303525,86.1550,14,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,General,GQ,4665,14427,1302525,40.9061,12,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2561,3259,22670,98.9646,2,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5127,5530,53925,97.5150,2,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1754,1833,12405,99.4359,7,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4915,5055,44208,97.9669,6,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6372,6477,81532,96.2824,5,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9517,10241,322547,85.3347,5,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,6558,6644,88346,95.9610,2,2025
+Round 1,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8841,9420,235429,89.2754,3,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2686,2801,18280,99.1463,4,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5471,5601,50400,97.6685,4,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,General,GQ,1525,10625,303525,86.1550,14,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,General,GQ,4645,15868,1302525,40.9061,13,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2649,3376,22670,98.9646,2,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5337,5769,53925,97.5150,2,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1871,2348,15218,99.3047,7,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5187,5262,44208,97.9669,6,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6722,7050,92029,95.8259,5,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9965,10829,322547,85.3347,5,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,7086,7252,99309,95.4937,2,2025
+Round 2,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9302,9929,235429,89.2754,3,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,3360,4101,28422,98.6886,4,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5525,6085,59479,97.2977,5,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,General,GQ,2161,11064,324699,85.2293,14,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,General,GQ,4918,5651,50299,97.7202,17,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,NRI Seat,General,GQ,17680,17680,1219771,44.7489,1,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3392,3902,26850,98.7659,2,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5387,6167,61528,97.1838,3,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2293,3285,21780,98.9953,7,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5265,5744,52113,97.6149,10,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,7371,8134,129259,94.0773,5,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10146,11493,368883,83.2455,7,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,7176,8856,158094,92.7784,3,2025
+Round 3,"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9647,10696,288018,86.8692,7,2025
+Round 4 (Stray Vacancy),"Government Medical College, Dholpur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8551,8551,145099,93.4080,1,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1718,1925,12988,99.3943,5,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4846,5282,48729,97.7692,5,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,General,GQ,1317,9794,273419,87.5526,21,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,General,GQ,4236,11185,454737,79.3619,21,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,NRI Seat,General,GQ,12906,14035,1086119,50.7789,2,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2695,4912,41835,98.0615,3,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6220,6220,72680,96.6561,1,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1563,1644,11118,99.4946,11,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4730,4838,40150,98.1555,10,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6224,6400,78624,96.4063,7,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8415,9868,281215,87.2626,9,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,6232,6517,82664,96.2214,3,2025
+Round 1,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9167,9369,229885,89.5452,3,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1943,2562,16617,99.2308,5,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5140,5502,48729,97.7692,5,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,General,GQ,1519,10335,273419,87.5526,21,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,General,GQ,4359,11903,454737,79.3619,21,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,NRI Seat,General,GQ,15386,15386,1086119,50.7789,1,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2790,5114,41835,98.0615,3,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6501,6501,72680,96.6561,1,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2080,2156,14063,99.3495,11,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4928,5063,40641,98.1555,10,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6525,6954,87795,96.0252,7,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8691,10409,281081,87.2626,9,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,6724,7147,95435,95.6333,3,2025
+Round 2,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9057,9872,229885,89.5452,3,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2568,3877,26639,98.7659,6,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5380,6123,60459,97.2400,7,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,General,GQ,1963,10535,273419,87.5526,21,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,General,GQ,4438,12258,462261,78.9598,31,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,NRI Seat,General,GQ,17185,17185,1086119,50.7789,1,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3408,5159,41835,98.0615,3,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6553,6580,72680,96.6561,3,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2084,3002,19565,99.0911,11,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4967,5655,50345,97.7202,15,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6605,7859,118927,94.5934,8,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8964,11137,332027,84.9031,13,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,7282,7705,112771,94.8796,3,2025
+Round 3,"Government Medical College, Dungarpur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,10139,10384,258160,88.2328,5,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2031,2146,14430,99.3266,2,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5233,5270,48455,97.7692,3,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,General,GQ,1522,10115,308912,85.9570,13,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,General,GQ,4544,4930,42100,98.0615,11,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,NRI Seat,General,GQ,10835,10835,396032,81.9695,1,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2889,2919,19834,99.0911,2,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6101,6124,69429,96.8395,2,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1768,3681,26317,98.8019,8,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4933,5051,44125,97.9669,7,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,SC,SC Quota,6277,6556,84769,96.1514,6,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9875,10119,309324,85.9570,5,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,ST,ST Quota,6583,6665,89380,95.8947,2,2025
+Round 1,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9498,9558,247886,88.7138,3,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2503,2672,17313,99.2014,2,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5447,5490,48455,97.7692,3,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,General,GQ,1581,10687,308912,85.9570,13,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,General,GQ,4732,5134,42100,98.0615,11,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,NRI Seat,General,GQ,11498,11498,396032,81.9695,1,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2991,3022,19834,99.0911,2,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6372,6397,69429,96.8395,2,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2213,3819,26317,98.8019,8,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5138,5258,44125,97.9669,7,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,SC,SC Quota,7011,7106,93826,95.6977,6,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10421,10691,309324,85.9570,5,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,ST,ST Quota,7164,7313,101593,95.3603,2,2025
+Round 2,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9737,10080,247886,88.7138,3,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,3005,3758,25644,98.8360,3,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5500,5954,56621,97.4071,5,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,General,GQ,831,10904,308912,85.9570,13,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,General,GQ,4842,5564,48840,97.7692,17,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,NRI Seat,General,GQ,11750,16405,979460,55.5092,2,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3033,3959,27232,98.7659,2,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6449,6906,82779,96.2214,3,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2232,3068,20086,99.0592,8,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5219,5683,50897,97.6685,10,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,SC,SC Quota,7100,7196,93826,95.6977,6,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9868,11012,318628,85.5373,7,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Govt. Seat,ST,ST Quota,7256,7597,108461,95.0889,3,2025
+Round 3,"Government Medical College, Hanumangarh",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9618,10660,285342,87.0638,6,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2602,3066,20153,99.0592,2,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5863,5886,56552,97.4071,2,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,General,GQ,2437,10701,310342,85.8547,7,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,General,GQ,5008,14176,839357,61.8033,7,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2683,2683,17399,99.2014,1,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,7257,7257,99468,95.4937,1,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2600,2616,16931,99.2308,3,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5380,5435,47308,97.8172,4,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,7130,7205,97463,95.5667,3,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10018,10313,271395,87.6439,2,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,7523,7523,109648,95.0195,1,2025
+Round 2,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9767,9767,221415,89.9034,1,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2610,4210,29436,98.6512,2,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,6381,6408,67522,96.8988,3,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,General,GQ,2596,10918,310342,85.8547,7,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,General,GQ,5050,15298,839357,61.8033,10,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3997,3997,27561,98.7264,1,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,7806,7806,116899,94.6630,1,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,3848,3878,26647,98.7659,3,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5907,6033,58152,97.3500,6,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,7232,8333,136959,93.7873,3,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10513,11302,350161,84.1393,3,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,8590,8590,148083,93.2472,1,2025
+Round 3,"Government Medical College, Jaisalmer",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,10757,10790,297786,86.4644,2,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2038,2158,14513,99.3266,3,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5376,5432,51623,97.6149,3,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,General,GQ,1186,10034,300253,86.3685,14,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,General,GQ,4102,10894,406215,81.6050,13,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2841,2841,19232,99.1192,1,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5845,6008,66054,96.9560,2,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1742,4771,39001,98.2023,7,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4861,5005,43433,98.0139,6,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,SC,SC Quota,6378,6602,86364,96.0883,6,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9093,10030,299465,86.3685,6,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,ST,ST Quota,6669,6700,90868,95.8259,3,2025
+Round 1,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9280,9451,238329,89.1842,2,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2193,2393,15461,99.2816,3,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5653,5667,51776,97.6149,3,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,General,GQ,1729,10601,300253,86.3685,14,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,General,GQ,4263,15095,1025627,53.4906,14,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2745,2745,17860,99.1757,1,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6105,6276,66054,96.9560,2,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1804,4969,39001,98.2023,7,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5075,5212,43433,98.0139,6,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,SC,SC Quota,6782,7093,93412,95.7624,6,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9573,10595,299465,86.3685,6,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,ST,ST Quota,7339,7400,105067,95.2266,3,2025
+Round 2,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9773,9963,238329,89.1842,2,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2197,2812,18280,99.1463,3,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5549,6091,59573,97.2977,4,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,General,GQ,1408,10811,300253,86.3685,15,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,General,GQ,4290,15024,802494,63.6396,19,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3868,3868,26485,98.7659,1,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6174,6552,71872,96.7147,3,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2199,5009,39001,98.2023,7,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4688,5450,46714,97.8669,10,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,SC,SC Quota,6867,7281,96862,95.5667,6,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9736,10994,317293,85.5373,9,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Govt. Seat,ST,ST Quota,7435,7497,105067,95.2266,3,2025
+Round 3,"Government Medical College, Jhunjhunu",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9948,10596,280145,87.2626,5,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2092,2169,14566,99.3266,3,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5125,5235,47612,97.8172,3,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,General,GQ,1654,10060,303713,86.1550,14,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,General,GQ,4391,14105,1105508,49.8965,14,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,MBC,GQ,14242,14242,1189440,45.9135,1,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2818,3192,22055,98.9953,2,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5918,5918,63730,97.0682,1,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1913,1942,13116,99.3943,7,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5057,5156,46207,97.8669,7,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,SC,SC Quota,6468,6565,85081,96.0883,6,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9664,10307,331214,85.0057,6,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,ST,ST Quota,6614,6638,87766,96.0252,2,2025
+Round 1,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9057,9213,215549,90.1728,2,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2168,2701,17560,99.2014,3,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5335,5450,47612,97.8172,3,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,General,GQ,1908,10628,303713,86.1550,14,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,General,GQ,3460,15472,1105508,49.8965,14,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,MBC,GQ,15645,15645,1189440,45.9135,1,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2916,3308,22055,98.9953,2,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6182,6182,63730,97.0682,1,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2011,2423,15702,99.2816,7,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5265,5367,46207,97.8669,7,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,SC,SC Quota,7025,7128,94485,95.6977,6,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10196,10903,331214,85.0057,6,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,ST,ST Quota,7239,7328,102284,95.3603,2,2025
+Round 2,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9534,9704,215549,90.1728,2,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2172,2711,17560,99.2014,3,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5385,6131,60683,97.2400,5,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,General,GQ,2178,10842,303713,86.1550,14,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,General,GQ,4603,17304,1105508,49.8965,19,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,MBC,GQ,17566,17566,1189440,45.9135,1,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2927,3322,22055,98.9953,2,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6771,7700,112549,94.8796,3,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2426,3802,26021,98.8019,7,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5775,5868,54744,97.5150,10,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,SC,SC Quota,7218,8324,136729,93.7873,6,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10173,11444,363518,83.4689,8,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,ST,ST Quota,7331,7424,102284,95.3603,2,2025
+Round 3,"Government Medical College, Karauli",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8102,9986,225280,89.7286,5,2025
+Round 4 (Stray Vacancy),"Government Medical College, Karauli",Government,Rajasthan,Govt. Seat,General,GQ,4008,4008,27583,98.7264,1,2025
+Round 1,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1018,1266,8895,99.5829,18,2025
+Round 1,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,General,GQ,220,13906,1046942,52.4129,81,2025
+Round 1,"Government Medical College, Kota",Government,Rajasthan,NRI Seat,General,GQ,10760,12586,736993,66.5845,15,2025
+Round 1,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1674,10091,306405,86.0562,9,2025
+Round 1,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,929,14121,1113731,49.3542,41,2025
+Round 1,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,SC,SC Quota,5062,5813,60827,97.2400,28,2025
+Round 1,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,ST,ST Quota,4450,14103,1104436,49.8965,12,2025
+Round 2,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1060,1544,10226,99.5298,18,2025
+Round 2,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,General,GQ,386,15205,1046942,52.4129,81,2025
+Round 2,"Government Medical College, Kota",Government,Rajasthan,NRI Seat,General,GQ,11419,13679,751413,65.8496,15,2025
+Round 2,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1734,10661,306405,86.0562,9,2025
+Round 2,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,987,15490,1113731,49.3542,41,2025
+Round 2,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,SC,SC Quota,5167,14914,987672,55.2780,29,2025
+Round 2,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,ST,ST Quota,5011,6598,75129,96.5946,11,2025
+Round 3,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1064,1776,11502,99.4762,19,2025
+Round 3,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,General,GQ,389,16917,1046942,52.4129,81,2025
+Round 3,"Government Medical College, Kota",Government,Rajasthan,NRI Seat,General,GQ,11665,15086,810672,63.2528,15,2025
+Round 3,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1738,10876,306405,86.0562,10,2025
+Round 3,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,991,17335,1113731,49.3542,41,2025
+Round 3,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,SC,SC Quota,5213,16471,987672,55.2780,30,2025
+Round 3,"Government Medical College, Kota",Government,Rajasthan,Govt. Seat,ST,ST Quota,5053,6903,82664,96.2214,12,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2145,2180,14672,99.3266,3,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5363,5590,55287,97.4625,4,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,General,GQ,1363,10132,310497,85.8547,15,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,General,GQ,4729,14189,1156106,47.4756,14,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3028,3028,20696,99.0592,1,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5656,5656,56794,97.4071,1,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1856,6187,71641,96.7147,7,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5038,5143,46048,97.8669,6,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6467,6628,87419,96.0252,4,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9224,10235,321963,85.3347,6,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,ST,ST Quota,6399,6721,91918,95.8259,3,2025
+Round 1,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9515,9534,245520,88.8072,2,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2847,2906,19035,99.1192,3,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5650,5832,55287,97.4625,4,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,General,GQ,1716,10704,310497,85.8547,15,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,General,GQ,4927,15579,1156106,47.4756,14,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3138,3138,20696,99.0592,1,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5901,5901,56794,97.4071,1,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1921,6462,71641,96.7147,7,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5271,5361,46143,97.8669,6,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6765,7113,94132,95.6977,4,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9716,10823,321963,85.3347,6,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,ST,ST Quota,7044,7405,105172,95.2266,3,2025
+Round 2,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,10033,10053,245520,88.8072,2,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2869,4133,28742,98.6886,4,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5894,6335,65752,97.0122,6,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,General,GQ,1462,10921,310497,85.8547,15,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,General,GQ,4966,17461,1156106,47.4756,20,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,NRI Seat,General,GQ,8943,9829,211296,90.4331,2,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3943,3943,27120,98.7659,1,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6598,6747,77637,96.4661,2,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2340,6540,71641,96.7147,7,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5319,5724,51666,97.6149,9,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6850,8295,135813,93.7873,5,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9888,11243,343625,84.3567,8,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Govt. Seat,ST,ST Quota,7685,8263,134564,93.8645,3,2025
+Round 3,"Government Medical College, Nagaur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,10214,10532,273120,87.5526,3,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1344,1571,10691,99.5122,6,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4272,4421,33941,98.4560,5,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,832,9873,281499,87.1619,21,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3134,11824,578507,73.7967,20,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2332,2435,16298,99.2566,2,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5178,5400,50988,97.6685,2,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,GQ,13976,13976,1068306,51.5581,1,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1242,13842,1032375,53.1612,11,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4227,4322,32768,98.4951,10,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,5874,6109,69011,96.8395,8,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8345,9368,229813,89.5452,9,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6219,6265,73990,96.5946,2,2025
+Round 1,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8972,9045,201446,90.8712,3,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1394,1821,11845,99.4573,6,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4443,4602,33941,98.4560,5,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,981,10419,281499,87.1619,21,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3247,12669,578507,73.7967,20,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2414,2647,17190,99.2014,2,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5391,5627,50988,97.6685,2,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,GQ,15305,15305,1068306,51.5581,1,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1294,15126,1032375,53.1612,11,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4395,4495,32768,98.4951,10,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6135,6699,78772,96.4063,8,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8392,9870,229813,89.5452,9,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6916,6929,87192,96.0252,2,2025
+Round 2,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9444,9520,201446,90.8712,3,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1398,1908,12449,99.4359,6,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4476,5089,40304,98.1555,8,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,1216,10695,287979,86.8692,21,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3838,17820,1270515,42.3356,31,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,13869,13869,668239,69.7016,1,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2420,2801,18146,99.1757,2,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5239,5685,50988,97.6685,3,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,GQ,17071,17071,1068306,51.5581,1,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1298,16797,1032375,53.1612,11,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4428,4940,37963,98.2449,16,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6204,6956,85081,96.0883,8,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8821,10048,229813,89.5452,12,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,7016,7224,94834,95.6977,3,2025
+Round 3,"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9454,10072,232011,89.4554,4,2025
+Round 4 (Stray Vacancy),"Government Medical College, Pali, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,4373,4373,30844,98.5766,1,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2198,2258,15187,99.3047,3,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5086,5597,55434,97.4625,2,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,General,GQ,1255,10111,308266,85.9570,13,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,General,GQ,4589,13877,1041780,52.6686,15,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2790,2869,19430,99.1192,2,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6132,6524,82923,96.2214,2,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1944,14430,1303903,40.9061,7,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5098,5159,46223,97.8669,7,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6557,6641,87817,95.9610,5,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8953,10054,303018,86.2627,4,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,ST,ST Quota,6618,6739,92648,95.7624,3,2025
+Round 1,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9234,9562,248087,88.7138,2,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2278,2751,17923,99.1757,3,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5295,5839,55434,97.4625,2,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,General,GQ,1696,10683,308266,85.9570,13,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,General,GQ,4781,15172,1041780,52.6686,15,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2887,2970,19430,99.1192,2,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6405,6991,89746,95.8947,2,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2032,15871,1303903,40.9061,7,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5308,5375,46317,97.8669,7,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,SC,SC Quota,6862,7149,95485,95.6333,5,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8909,10622,303018,86.2627,4,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,ST,ST Quota,7404,7487,108015,95.0889,3,2025
+Round 2,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9726,10085,248087,88.7138,2,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2311,4089,28254,98.6886,3,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5344,5967,56796,97.4071,4,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,General,GQ,1700,11077,326440,85.1135,14,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,General,GQ,4963,16868,1041780,52.6686,22,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2898,3976,27395,98.7264,2,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6482,7351,99468,95.4937,3,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2036,17910,1303903,40.9061,7,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5367,5915,55786,97.4625,10,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,SC,SC Quota,7204,8318,136494,93.7873,6,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10113,11245,343791,84.3567,7,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Govt. Seat,ST,ST Quota,7518,7698,112485,94.8796,3,2025
+Round 3,"Government Medical College, Sawai Madhopur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9162,10269,248087,88.7138,4,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1985,2099,14158,99.3495,2,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5306,5345,49822,97.7202,4,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,General,GQ,1453,9921,286335,86.9656,15,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,General,GQ,4306,12254,671405,69.5281,13,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2782,2782,18808,99.1463,1,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5926,5956,64637,97.0682,2,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1671,2951,20086,99.0592,7,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4777,5044,44013,97.9669,7,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,SC,SC Quota,6213,6431,79853,96.3422,6,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8468,9987,294314,86.6554,5,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,ST,ST Quota,6544,6606,86623,96.0252,2,2025
+Round 1,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9186,9446,237850,89.1842,2,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2176,2458,15848,99.2816,2,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5527,5587,50203,97.7202,4,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,General,GQ,1550,10472,286335,86.9656,15,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,General,GQ,4248,13202,671405,69.5281,13,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2879,2879,18808,99.1463,1,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6190,6221,64637,97.0682,2,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2076,3056,20086,99.0592,7,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4975,5281,44602,97.9669,7,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,SC,SC Quota,6606,7013,90438,95.8947,6,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8987,10547,294314,86.6554,5,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,ST,ST Quota,7186,7204,97439,95.5667,2,2025
+Round 2,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9675,9958,237850,89.1842,2,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2180,2917,19035,99.1192,3,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5583,6013,57693,97.3500,5,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,General,GQ,1881,10675,286335,86.9656,16,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,General,GQ,4617,17907,1302525,40.9061,21,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3924,3924,27006,98.7659,1,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6295,6691,75518,96.5323,3,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2081,4622,33785,98.4560,7,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5039,5715,51493,97.6685,10,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,SC,SC Quota,6940,7247,95669,95.6333,6,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10199,11451,364453,83.4689,7,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Govt. Seat,ST,ST Quota,7296,8889,159550,92.7005,2,2025
+Round 3,"Government Medical College, Sirohi",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9845,10405,260771,88.1309,4,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1826,1923,12972,99.3943,4,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5107,5179,46617,97.8669,4,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,General,GQ,1374,10087,306057,86.0562,12,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,General,GQ,3952,4682,37617,98.2864,13,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,NRI Seat,General,GQ,12067,14009,1077405,51.0490,8,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2861,2881,19493,99.0911,2,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,5793,5793,60246,97.2400,1,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1655,1686,11365,99.4762,7,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4713,4880,41127,98.1065,7,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,SC,SC Quota,6241,6454,80810,96.3422,6,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9208,9816,275785,87.4565,5,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6547,6571,85212,96.0883,2,2025
+Round 1,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9246,9499,242379,88.9905,2,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1889,2534,16406,99.2566,4,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5317,5392,46617,97.8669,4,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,General,GQ,1552,10657,306057,86.0562,12,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,General,GQ,4331,4879,37617,98.2864,13,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,NRI Seat,General,GQ,12962,15507,1121709,48.9755,7,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2962,2983,19493,99.0911,2,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6047,6047,60246,97.2400,1,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1744,2015,13149,99.3943,7,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4911,5082,41127,98.1065,7,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,SC,SC Quota,6559,6981,89345,95.8947,6,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9699,10359,275785,87.4565,5,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,ST,ST Quota,7154,7190,96864,95.5667,2,2025
+Round 2,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9446,9738,219534,89.9894,2,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1893,2904,18907,99.1192,4,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5366,5646,50217,97.7202,4,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,General,GQ,1570,10942,312441,85.8547,14,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,General,GQ,4405,5294,43885,97.9669,15,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,NRI Seat,General,GQ,13542,17357,1121709,48.9755,10,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3555,3888,26717,98.7659,2,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6116,6116,60246,97.2400,1,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1750,2432,15720,99.2816,7,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4950,5354,45139,97.9192,9,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,SC,SC Quota,6640,7069,89345,95.8947,6,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9104,10559,275785,87.4565,6,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Govt. Seat,ST,ST Quota,7501,7542,106444,95.1566,2,2025
+Round 3,"Government Medical College, Sri Ganganagar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9911,10442,265022,87.9441,5,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,2816,2889,18860,99.1463,2,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,5494,5895,56738,97.4071,2,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,General,GQ,2546,10259,266818,87.8486,7,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,General,GQ,4863,11437,388684,82.3105,7,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,3579,3579,24409,98.8678,1,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6025,6025,59604,97.2977,1,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2567,2581,16724,99.2308,4,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5399,5451,47660,97.8172,3,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,SC,SC Quota,7183,7208,97555,95.5667,2,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,9559,10116,250623,88.6080,3,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,ST,ST Quota,7549,7549,110436,94.9502,1,2025
+Round 2,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9736,9736,219337,89.9894,1,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,4204,4295,30221,98.6142,2,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,6199,6498,70018,96.7740,3,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,General,GQ,3283,10949,312997,85.7495,7,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,General,GQ,5382,5728,51789,97.6149,9,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,4383,4383,31128,98.5766,1,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,6974,6974,85619,96.0883,1,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,2583,3867,26481,98.7659,4,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,5807,5957,56706,97.4071,4,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,SC,SC Quota,7300,8323,136680,93.7873,2,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10324,11384,358335,83.6978,5,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Govt. Seat,ST,ST Quota,7795,7795,116411,94.6630,1,2025
+Round 3,"Government medical college, tonk",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9335,10378,257192,88.3318,3,2025
+Round 4 (Stray Vacancy),"Government medical college, tonk",Government,Rajasthan,Govt. Seat,General,GQ,3928,3928,27000,98.7659,1,2025
+Round 1,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,12133,13584,964430,56.2908,8,2025
+Round 1,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,7361,12073,633164,71.2358,77,2025
+Round 1,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,9585,14086,1096552,50.1588,3,2025
+Round 1,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12199,14296,1217345,44.7489,44,2025
+Round 1,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,12601,12646,749358,66.0438,2,2025
+Round 2,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,13305,15329,1073700,51.3062,7,2025
+Round 2,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,7720,13027,643383,70.7182,77,2025
+Round 2,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,14221,15216,1048071,52.4129,3,2025
+Round 2,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12312,15713,1217921,44.7489,44,2025
+Round 2,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,14282,15202,1046383,52.4129,2,2025
+Round 3,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,14038,17105,1073700,51.3062,9,2025
+Round 3,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,7827,17772,1252005,43.0898,161,2025
+Round 3,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,13981,16522,994039,54.7841,38,2025
+Round 3,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12671,17673,1217921,44.7489,41,2025
+Round 3,"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,15466,15466,858800,60.9253,1,2025
+Round 4 (Stray Vacancy),"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,12306,17152,1056923,52.1522,4,2025
+Round 4 (Stray Vacancy),"Geetanjali Medical College & Hospital,Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,13012,13012,558179,74.7080,1,2025
+Round 2,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,11596,15242,1055989,52.1522,13,2025
+Round 2,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,General,GQ,6318,11401,384678,82.5528,46,2025
+Round 2,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Mgmt. Seat,General,GQ,12897,15569,1151809,47.4756,5,2025
+Round 2,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,14031,15169,1041232,52.6686,4,2025
+Round 2,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,MBC,OBC Quota,12679,12679,580678,73.6451,1,2025
+Round 2,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,11552,13509,720598,67.3336,26,2025
+Round 2,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,ST,ST Quota,11559,13716,756483,65.6282,8,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,11856,16980,1055989,52.1522,13,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,General,GQ,7952,12253,461392,79.0874,70,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Mgmt. Seat,General,GQ,13827,17446,1151809,47.4756,23,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,15078,17710,1232884,44.0102,6,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,MBC,OBC Quota,13123,13123,580678,73.6451,1,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,11807,14319,720598,67.3336,26,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,SC,SC Quota,12030,17095,1072083,51.3062,3,2025
+Round 3,GEETANJALI INSTITUTE OF MEDICAL SCIENCES,Private,Rajasthan,Gen. Seat,ST,ST Quota,11814,16912,1046383,52.4129,8,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,12606,13235,876141,60.2365,4,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,General,GQ,5849,9788,272821,87.6439,15,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Mgmt. Seat,General,GQ,12508,13801,1022164,53.4906,3,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,14200,14261,1199744,45.6296,2,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,10211,11627,539287,75.4530,9,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Mgmt. Seat,OBC,OBC Quota,14409,14409,1291243,41.3875,1,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,SC,SC Quota,12757,14191,1160299,47.4756,2,2025
+Round 1,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,ST,ST Quota,11734,11781,571716,74.0887,2,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,13725,15072,1020508,53.7444,4,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,General,GQ,6109,10501,289031,86.8692,15,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Mgmt. Seat,General,GQ,13500,15079,1022164,53.4906,3,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,15595,15875,1306279,40.5928,2,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,10794,12432,539287,75.4530,9,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Mgmt. Seat,OBC,OBC Quota,15847,15847,1291243,41.3875,1,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,SC,SC Quota,13808,15584,1160299,47.4756,2,2025
+Round 2,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,ST,ST Quota,11234,12619,571716,74.0887,2,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,EWS,EWS Quota,14122,17114,1075191,51.3062,6,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,General,GQ,6178,17160,1081448,51.0490,90,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Mgmt. Seat,General,GQ,15381,17691,1224824,44.3060,22,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,MBC,MBC Quota,17916,17916,1306279,40.5928,1,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,OBC,OBC Quota,11011,14993,799131,63.6396,27,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Mgmt. Seat,OBC,OBC Quota,17881,17881,1291243,41.3875,1,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,SC,SC Quota,14749,17467,1160299,47.4756,2,2025
+Round 3,JIET Medical College and Hospital,Private,Rajasthan,Gen. Seat,ST,ST Quota,13053,13053,571716,74.0887,1,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,849,1132,8151,99.6303,18,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,General,GQ,163,11875,588641,73.3216,77,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,NRI Seat,General,GQ,9354,14275,1207826,45.0540,15,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1641,2231,14967,99.3047,9,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,OBC,GQ,12120,12871,794235,63.8762,2,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,792,13751,1007709,54.2298,41,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,4643,13426,923819,58.1566,30,2025
+Round 1,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,4514,6022,66565,96.9560,13,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,887,1312,8885,99.5829,18,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,General,GQ,486,12729,588641,73.3216,77,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,NRI Seat,General,GQ,9854,15686,1207826,45.0540,15,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1701,2312,14967,99.3047,9,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,OBC,GQ,13028,13940,794235,63.8762,2,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,827,15016,1007709,54.2298,41,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,4433,14610,923819,58.1566,30,2025
+Round 2,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,6090,6583,74877,96.5946,13,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,891,1557,10257,99.5298,19,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,General,GQ,489,13191,588641,73.3216,78,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,NRI Seat,General,GQ,10032,17849,1282271,41.7189,15,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1639,2317,14967,99.3047,10,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,OBC,GQ,13647,14946,794235,63.8762,2,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,834,16626,1007709,54.2298,41,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,SC,SC Quota,4466,15994,923819,58.1566,31,2025
+Round 3,"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,ST,ST Quota,6159,6686,75329,96.5323,13,2025
+Round 4 (Stray Vacancy),"Jawaharlal Nehru Medical College, Ajmer",Government,Rajasthan,Govt. Seat,General,GQ,3977,3977,27336,98.7264,1,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1295,1457,10086,99.5298,7,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,3914,4164,30793,98.5766,6,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,General,GQ,944,14046,1088232,50.4148,28,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,General,GQ,2768,11187,455025,79.3619,27,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,NRI Seat,General,GQ,12679,14207,1170870,46.9206,11,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1576,2804,18987,99.1192,4,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4206,4774,39062,98.2023,4,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1059,12147,647513,70.5567,14,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,3857,4059,29730,98.6512,14,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,SC,SC Quota,5673,5982,65550,97.0122,10,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8368,8710,179081,91.8846,10,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6100,6166,70971,96.7740,4,2025
+Round 1,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8376,8790,184616,91.6336,5,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1576,1758,11430,99.4762,7,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4089,4429,31931,98.5352,6,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,General,GQ,1065,15399,1088232,50.4148,28,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,General,GQ,2865,11905,455025,79.3619,27,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,NRI Seat,General,GQ,13822,15602,1170870,46.9206,9,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,1635,2901,18987,99.1192,4,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4458,5545,49518,97.7202,4,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1335,15667,1198353,45.6296,15,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4029,4232,29872,98.6142,14,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,SC,SC Quota,5987,6459,71595,96.7147,10,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8616,9158,179081,91.8846,10,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6603,6911,86357,96.0883,4,2025
+Round 2,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8791,9247,184616,91.6336,5,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1723,2333,15086,99.3047,7,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4117,4508,32470,98.4951,9,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,General,GQ,1239,17203,1088232,50.4148,28,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,General,GQ,3536,14724,768377,65.0690,35,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,NRI Seat,General,GQ,8732,17497,1170870,46.9206,13,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2656,2912,18987,99.1192,4,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4491,5625,49876,97.7202,5,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1351,17601,1198353,45.6296,15,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4056,4402,31339,98.5766,18,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,SC,SC Quota,6054,7041,87795,96.0252,11,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8689,9304,179081,91.8846,14,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Govt. Seat,ST,ST Quota,6684,7003,86623,96.0252,5,2025
+Round 3,"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,9153,9398,184616,91.6336,6,2025
+Round 4 (Stray Vacancy),"Jhalawar Medical College, Jhalawar",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4410,4410,31329,98.5766,1,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,12311,14073,1094695,50.4148,6,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,7160,11992,614682,72.0432,76,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,11690,13731,1002901,54.4704,14,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,14403,14403,1290099,41.3875,1,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,12189,14251,1196441,45.6296,3,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12159,14357,1257766,42.6315,42,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Mgmt. Seat,OBC,OBC Quota,14411,14411,1291849,41.3875,1,2025
+Round 1,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,12372,13999,1075556,51.3062,6,2025
+Round 2,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,13267,15432,1094695,50.4148,7,2025
+Round 2,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,7731,13407,703608,68.0772,76,2025
+Round 2,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,13446,15316,1070717,51.3062,13,2025
+Round 2,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,15849,15849,1291849,41.3875,1,2025
+Round 2,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,13111,15659,1196441,45.6296,2,2025
+Round 2,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,13074,15821,1281652,41.7189,43,2025
+Round 2,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,14895,15339,1075556,51.3062,3,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,13987,17247,1094695,50.4148,6,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,7889,17928,1310474,40.5928,154,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,14231,15895,911481,58.6672,38,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,17884,17884,1291849,41.3875,1,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,13763,17589,1196441,45.6296,2,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,13711,17846,1281652,41.7189,41,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,SC,SC Quota,16125,17554,1185921,45.9135,4,2025
+Round 3,"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,16439,17118,1075556,51.3062,3,2025
+Round 4 (Stray Vacancy),"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,11510,17289,1075588,51.3062,18,2025
+Round 4 (Stray Vacancy),"Jaipur National University Institute for Medical Sciences and Research Centre, Jagatpura, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,15572,15881,890957,59.5867,6,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,EWS,EWS Quota,7297,8971,196450,91.0463,21,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,9896,11742,563096,74.4136,4,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,General,GQ,3330,7087,106225,95.1566,77,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,General,GQ,7622,8897,191995,91.3014,14,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,MBC,MBC Quota,9215,11062,432200,80.3782,11,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,MBC,OBC Quota,7828,8836,187756,91.4727,3,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,11873,13218,871746,60.4467,2,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,OBC,OBC Quota,7106,8882,191147,91.3014,41,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,8918,10090,306352,86.0562,8,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,SC,SC Quota,10082,13402,917270,58.4434,34,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,12459,14393,1282800,41.7189,4,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,ST,ST Quota,9846,11045,429991,80.5005,15,2025
+Round 1,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,12861,13984,1070908,51.3062,3,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,EWS,EWS Quota,6270,9443,196450,91.0463,21,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,10445,12576,563096,74.4136,4,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,General,GQ,3454,7435,106225,95.1566,77,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,General,GQ,7353,9365,191995,91.3014,14,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,MBC,MBC Quota,9707,11759,432200,80.3782,11,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,MBC,OBC Quota,9296,9296,187756,91.4727,1,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,12727,14358,871746,60.4467,2,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,OBC,OBC Quota,7454,9386,192712,91.2170,43,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,9561,10660,306352,86.0562,8,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,SC,SC Quota,10652,14580,917270,58.4434,34,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,13444,15828,1282800,41.7189,4,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,ST,ST Quota,10390,11742,429991,80.5005,15,2025
+Round 2,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,13928,15318,1070908,51.3062,3,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,EWS,EWS Quota,7758,9600,196450,91.0463,21,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,10646,12997,563096,74.4136,4,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,General,GQ,3471,7611,109028,95.0195,77,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,General,GQ,7707,9521,191995,91.3014,15,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,MBC,MBC Quota,9878,12034,432200,80.3782,11,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,MBC,OBC Quota,9448,9448,187756,91.4727,1,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,13187,15587,871746,60.4467,2,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,OBC,OBC Quota,7553,9542,192712,91.2170,43,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,9723,10875,306352,86.0562,8,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,SC,SC Quota,10867,15948,917270,58.4434,34,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,10273,17854,1282800,41.7189,5,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Gen. Seat,ST,ST Quota,10591,13002,563651,74.4136,25,2025
+Round 3,"Mahatma Gandhi Medical College and Hospital, Sitapur, Jaipur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,14177,17091,1070908,51.3062,4,2025
+Round 1,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,9286,13444,928943,57.9417,77,2025
+Round 1,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,12571,14005,1076504,51.0490,4,2025
+Round 1,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,13770,13770,1011466,53.9891,1,2025
+Round 1,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,13460,14447,1317077,40.2788,13,2025
+Round 1,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,14184,14184,1152451,47.4756,1,2025
+Round 2,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,11849,15013,1006526,54.2298,77,2025
+Round 2,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,11768,15454,1098996,50.1588,5,2025
+Round 2,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,15037,15037,1011466,53.9891,1,2025
+Round 2,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,15100,15893,1317077,40.2788,14,2025
+Round 2,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,15571,15571,1152451,47.4756,1,2025
+Round 3,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,11090,17276,1098996,50.1588,193,2025
+Round 3,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,14697,17129,1076504,51.0490,38,2025
+Round 3,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,MBC,OBC Quota,16653,16653,1011466,53.9891,1,2025
+Round 3,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,14259,17945,1317077,40.2788,17,2025
+Round 3,"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,ST,ST Quota,17451,17451,1152451,47.4756,1,2025
+Round 4 (Stray Vacancy),"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Gen. Seat,General,GQ,12401,17745,1186102,45.9135,18,2025
+Round 4 (Stray Vacancy),"National Institute of Medical Science & Research, Jaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,15523,15523,854355,61.1356,1,2025
+Round 1,"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,10344,14336,1243732,43.4056,21,2025
+Round 2,"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,12109,15761,1243732,43.4056,13,2025
+Round 3,"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,12201,17742,1243732,43.4056,212,2025
+Round 3,"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,17431,17896,1296229,40.9061,10,2025
+Round 4 (Stray Vacancy),"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,9100,16054,914489,58.4434,6,2025
+Round 4 (Stray Vacancy),"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,16594,18105,1301009,40.9061,24,2025
+Round 6 (Special Stray),"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,18182,18182,1317580,40.2788,1,2025
+Round 6 (Special Stray),"Pacific Institute of Medical Sciences, Umarda, Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,16594,17829,1199593,45.6296,8,2025
+Round 1,"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,10171,14440,1310474,40.5928,39,2025
+Round 2,"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,10750,15883,1310474,40.5928,35,2025
+Round 3,"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,10967,17871,1289454,41.3875,170,2025
+Round 3,"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,12888,17940,1314408,40.2788,26,2025
+Round 4 (Stray Vacancy),"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Private,Rajasthan,Gen. Seat,General,GQ,14154,15807,883244,59.8125,8,2025
+Round 4 (Stray Vacancy),"Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",Private,Rajasthan,Mgmt. Seat,General,GQ,16233,17316,1078547,51.0490,7,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,698,1034,7699,99.6453,18,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,General,GQ,142,8886,191281,91.3014,75,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,NRI Seat,General,GQ,9025,14356,1257354,42.6315,15,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,878,2043,13785,99.3718,10,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,MBC,OBC Quota,12870,12870,794054,63.8762,1,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,OBC,GQ,13076,13851,1034973,52.9193,4,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,645,12712,762665,65.4384,40,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,3748,12579,735651,66.5845,30,2025
+Round 1,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,4478,5840,61580,97.1838,12,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,727,1186,8215,99.6143,18,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,General,GQ,300,9353,191281,91.3014,75,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,NRI Seat,General,GQ,9499,15783,1257354,42.6315,15,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,916,2116,13785,99.3718,10,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,MBC,OBC Quota,13939,13939,794054,63.8762,1,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,OBC,GQ,14186,14924,989485,55.0364,4,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,681,13753,762665,65.4384,40,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,4589,13586,735651,66.5845,30,2025
+Round 2,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,5514,6500,72549,96.7147,12,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,731,1474,9858,99.5495,19,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,General,GQ,303,9529,192206,91.2170,76,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,NRI Seat,General,GQ,9657,17697,1228286,44.3060,15,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,920,2120,13785,99.3718,10,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,MBC,OBC Quota,14944,14944,794054,63.8762,1,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,OBC,GQ,15313,16484,989485,55.0364,4,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,684,14668,762665,65.4384,40,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,4624,14424,735651,66.5845,31,2025
+Round 3,"R N T Medical College, Udaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,5570,6578,72549,96.7147,12,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,420,620,5502,99.7483,5,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,3239,3858,27799,98.7264,5,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,General,GQ,131,9380,231333,89.4554,21,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,General,GQ,926,10645,372161,83.1374,21,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,NRI Seat,General,GQ,6042,13088,844003,61.5479,23,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,MBC,GQ,11325,11325,478569,78.2908,1,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,501,790,6413,99.7024,3,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,3661,3851,27757,98.7264,3,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,257,13925,1052055,52.1522,11,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,2744,3671,26227,98.8019,10,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,3753,4464,34467,98.4165,7,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,7808,8184,152367,93.0966,8,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,3963,4992,43157,98.0139,3,2025
+Round 1,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,7547,8207,153188,93.0197,3,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,615,735,5960,99.7279,5,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,3344,4002,27799,98.7264,5,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,General,GQ,240,9884,231333,89.4554,21,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,General,GQ,965,11284,372161,83.1374,21,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,NRI Seat,General,GQ,6310,14334,867490,60.7118,23,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,MBC,GQ,12060,12060,478569,78.2908,1,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,524,825,6413,99.7024,3,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,3798,4372,31351,98.5766,3,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,332,15232,1052055,52.1522,10,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,3032,3925,27157,98.7659,10,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,4510,5947,57692,97.3500,7,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8184,8582,152367,93.0966,8,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,4278,5243,43864,98.0139,3,2025
+Round 2,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,7921,8607,153188,93.0197,3,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,618,739,5960,99.7279,5,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,3371,4033,27831,98.7264,5,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,General,GQ,242,10062,231333,89.4554,21,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,General,GQ,1335,11523,372161,83.1374,22,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,NRI Seat,General,GQ,6385,17782,1257354,42.6315,23,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,MBC,GQ,12371,12371,478569,78.2908,1,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,527,829,6413,99.7024,3,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,3816,4404,31351,98.5766,3,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,335,16961,1052055,52.1522,11,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,3044,3949,27157,98.7659,11,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,4633,6012,57692,97.3500,8,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8359,8710,152367,93.0966,9,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,4307,5291,43864,98.0139,3,2025
+Round 3,"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8031,8945,162706,92.6234,3,2025
+Round 4 (Stray Vacancy),"RUHS College of Medical Sciences, Jaipur",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8528,8528,143867,93.4855,1,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1391,1495,10257,99.5298,4,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,3917,4088,30013,98.6142,3,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,616,14156,1136995,48.4408,14,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,3098,12236,667212,69.7016,15,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,11882,14132,1121257,48.9755,15,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2042,2147,14433,99.3266,2,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4467,4467,34517,98.4165,1,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1072,14202,1166929,46.9206,7,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,3877,4010,29337,98.6512,8,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,5798,5941,64276,97.0682,6,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8228,8488,166293,92.4602,5,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6126,6155,70469,96.7740,2,2025
+Round 1,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8529,8636,175209,92.0484,2,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1442,1663,10889,99.4946,4,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4064,4246,30013,98.6142,3,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,758,15535,1136995,48.4408,14,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,2839,13180,667212,69.7016,15,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,10740,15505,1121257,48.9755,15,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2115,2226,14433,99.3266,2,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4649,4649,34517,98.4165,1,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1115,15597,1166929,46.9206,7,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4021,4166,29337,98.6512,8,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6053,6303,66916,96.9560,6,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8632,8914,166293,92.4602,5,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6770,6771,81433,96.2824,2,2025
+Round 2,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8958,9076,175209,92.0484,2,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,1446,2064,13432,99.3718,4,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,EWS,EWS Quota,4092,4488,32190,98.5352,4,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,General,GQ,762,17399,1136995,48.4408,14,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,General,GQ,2024,13863,667212,69.7016,15,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,NRI Seat,General,GQ,12354,17355,1121257,48.9755,15,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,2119,2231,14433,99.3266,2,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,MBC,MBC Quota,4684,4684,34517,98.4165,1,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,1119,17488,1166929,46.9206,7,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,OBC,OBC Quota,4048,4195,29337,98.6512,8,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,SC,SC Quota,6122,6378,66916,96.9560,6,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,SC,SC Quota,8762,9047,166293,92.4602,5,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Govt. Seat,ST,ST Quota,6855,6856,81433,96.2824,2,2025
+Round 3,"Shri Kalyan Govt. Medical College, Sikar, Rajasthan",Government,Rajasthan,Mgmt. Seat,ST,ST Quota,8922,9219,175209,92.0484,2,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,141,9712,265157,87.9441,21,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,General,GQ,2,11597,532604,75.7356,85,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,269,466,4644,99.7871,11,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,MBC,OBC Quota,7184,7184,110033,95.0195,1,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,OBC,GQ,10385,10385,340348,84.5655,1,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,130,10309,331364,84.9031,43,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,746,12460,710593,67.7208,33,2025
+Round 1,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,896,13944,1057596,51.8104,13,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,148,10246,265157,87.9441,21,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,General,GQ,8,12395,532604,75.7356,84,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,277,489,4644,99.7871,11,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,MBC,OBC Quota,7535,7535,110033,95.0195,1,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,OBC,GQ,10986,11490,395319,82.0853,2,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,137,11116,354680,83.9131,43,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,778,13445,710593,67.7208,32,2025
+Round 2,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,2091,15269,1059319,51.8104,13,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,149,10443,265157,87.9441,21,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,General,GQ,8,12770,532604,75.7356,84,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,279,492,4644,99.7871,11,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,MBC,OBC Quota,7636,7636,110033,95.0195,1,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,OBC,GQ,11213,11742,395319,82.0853,2,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,138,11348,354680,83.9131,43,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,SC,SC Quota,782,14233,710593,67.7208,33,2025
+Round 3,"SMS Medical College, Jaipur",Government,Rajasthan,Govt. Seat,ST,ST Quota,2095,17010,1059319,51.8104,13,2025
+Round 1,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,521,13373,910902,58.6672,21,2025
+Round 1,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,General,GQ,24,9278,221800,89.9034,82,2025
+Round 1,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,763,1854,12547,99.4153,10,2025
+Round 1,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,OBC,GQ,12734,13467,934861,57.4924,4,2025
+Round 1,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,522,12353,690647,68.6263,44,2025
+Round 1,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,3531,5359,50105,97.7202,32,2025
+Round 1,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,3958,13952,1059319,51.8104,13,2025
+Round 2,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,545,14543,910902,58.6672,21,2025
+Round 2,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,General,GQ,208,9771,221800,89.9034,82,2025
+Round 2,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,796,1918,12547,99.4153,10,2025
+Round 2,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,OBC,GQ,13779,14656,934861,57.4924,4,2025
+Round 2,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,546,13321,690647,68.6263,44,2025
+Round 2,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,3662,5915,57024,97.4071,32,2025
+Round 2,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,4961,15470,1104436,49.8965,13,2025
+Round 3,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,548,15892,910902,58.6672,21,2025
+Round 3,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,General,GQ,210,9946,221800,89.9034,82,2025
+Round 3,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,800,1922,12547,99.4153,11,2025
+Round 3,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,OBC,GQ,14707,16073,934861,57.4924,4,2025
+Round 3,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,549,14059,690647,68.6263,44,2025
+Round 3,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,SC,SC Quota,3680,6189,62140,97.1838,33,2025
+Round 3,"Dr SN Medical College, Jodhpur",Government,Rajasthan,Govt. Seat,ST,ST Quota,5001,17301,1104436,49.8965,13,2025
+Round 1,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,457,13870,1040877,52.6686,21,2025
+Round 1,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,General,GQ,129,9609,252108,88.5181,83,2025
+Round 1,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,531,12829,785889,64.2677,10,2025
+Round 1,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,OBC,GQ,11617,12288,677931,69.1554,4,2025
+Round 1,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,438,11448,503151,77.1773,43,2025
+Round 1,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,SC,SC Quota,3548,5077,44650,97.9669,32,2025
+Round 1,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,ST,ST Quota,4757,5908,63410,97.1273,13,2025
+Round 2,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,479,990,7223,99.6726,20,2025
+Round 2,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,General,GQ,247,10133,252108,88.5181,83,2025
+Round 2,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,555,13891,785889,64.2677,10,2025
+Round 2,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,OBC,GQ,12419,13240,677931,69.1554,4,2025
+Round 2,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,459,13179,667207,69.7016,43,2025
+Round 2,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,SC,SC Quota,4432,5608,50646,97.6685,32,2025
+Round 2,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,ST,ST Quota,4955,6429,70469,96.7740,13,2025
+Round 3,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,EWS,EWS Quota,482,1122,7871,99.6303,21,2025
+Round 3,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,General,GQ,249,10424,262813,88.0390,84,2025
+Round 3,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,MBC,MBC Quota,558,14877,785889,64.2677,10,2025
+Round 3,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,OBC,GQ,12799,13948,677931,69.1554,4,2025
+Round 3,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,OBC,OBC Quota,462,13862,667207,69.7016,43,2025
+Round 3,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,SC,SC Quota,4465,6379,66960,96.9560,33,2025
+Round 3,"Sardar Patel Medical College, Bikaner",Government,Rajasthan,Govt. Seat,ST,ST Quota,4995,6587,72941,96.6561,13,2025
+Round 1,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,12915,14059,1090793,50.4148,8,2025
+Round 1,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,8204,11381,491431,77.7376,30,2025
+Round 1,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Mgmt. Seat,General,GQ,9782,12481,714740,67.5124,3,2025
+Round 1,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,14213,14213,1173066,46.6348,1,2025
+Round 1,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12048,12939,807473,63.4496,17,2025
+Round 2,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,14276,15416,1090793,50.4148,5,2025
+Round 2,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,8119,13334,692270,68.6263,30,2025
+Round 2,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Mgmt. Seat,General,GQ,13856,13856,779040,64.6419,1,2025
+Round 2,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,15609,15832,1285999,41.7189,2,2025
+Round 2,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12939,15711,1217345,44.7489,17,2025
+Round 2,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,ST,ST Quota,14345,14345,869328,60.4467,1,2025
+Round 3,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,15510,15510,863543,60.7118,1,2025
+Round 3,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,8230,17824,1272069,42.3356,71,2025
+Round 3,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Mgmt. Seat,General,GQ,16249,17811,1268204,42.3356,15,2025
+Round 3,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,MBC,MBC Quota,17507,17507,1173066,46.6348,1,2025
+Round 3,"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,13540,17728,1238089,43.7182,12,2025
+Round 4 (Stray Vacancy),"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,14110,15966,902515,59.0970,3,2025
+Round 4 (Stray Vacancy),"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Mgmt. Seat,General,GQ,16092,16652,992652,55.0364,5,2025
+Round 6 (Special Stray),"Sudha Medical College, Kota, Rajasthan",Private,Rajasthan,Mgmt. Seat,General,GQ,11201,11201,334700,84.7957,1,2025
+Round 1,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,6599,12637,747251,66.0438,30,2025
+Round 1,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,12838,14429,1303687,40.9061,11,2025
+Round 2,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,14643,15021,1007919,54.2298,2,2025
+Round 2,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,8577,13652,747251,66.0438,30,2025
+Round 2,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,13415,15870,1303687,40.9061,18,2025
+Round 3,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,EWS,EWS Quota,15191,16054,932246,57.7223,2,2025
+Round 3,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,8705,17886,1292714,41.3875,71,2025
+Round 3,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Mgmt. Seat,General,GQ,14910,17925,1307816,40.5928,14,2025
+Round 3,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,OBC,OBC Quota,14584,17909,1303687,40.9061,11,2025
+Round 3,"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,SC,SC Quota,17430,17430,1146526,47.8757,1,2025
+Round 4 (Stray Vacancy),"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,10463,17171,1058898,51.8104,3,2025
+Round 4 (Stray Vacancy),"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Mgmt. Seat,General,GQ,16250,16929,1028980,53.1612,3,2025
+Round 6 (Special Stray),"Vyas Medical College & Hospital Jodhpur, Rajasthan",Private,Rajasthan,Gen. Seat,General,GQ,7144,7144,91422,95.8259,1,2025

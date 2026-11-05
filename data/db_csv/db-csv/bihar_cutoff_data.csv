@@ -1,0 +1,349 @@
+college_name,state,category,admission_round,seat_type_quota,opening_air,closing_air,opening_state_rank,closing_state_rank,opening_neet_score,closing_neet_score,opening_category_rank,closing_category_rank
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Round 1,State Quota,381049,419763,7041,7452,323,308,2118,2197
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Round 1,State Quota,407841,413959,7320,7382,313,311,1584,1590
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EWS,Round 1,State Quota,395008,408904,7182,7330,318,312,1138,1146
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,SC,Round 1,State Quota,397674,397674,7212,7212,317,317,604,604
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Round 1,NRI Quota,1026599,1215795,11519,11948,156,126,2909,3044
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Round 1,NRI Quota,1080971,1080971,11698,11698,147,147,2073,2073
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,SC,Round 1,NRI Quota,1188877,1188877,11908,11908,130,130,1043,1043
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Round 1,NRI Quota,1065186,1096487,11657,11742,149,144,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Round 1,UR (Open/Merit),373594,421385,6971,7470,326,308,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Round 2,State Quota,392212,470115,7158,7942,,,2139,2283
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Round 2,State Quota,440076,474551,7653,7992,,,1624,1657
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EWS,Round 2,State Quota,462378,462378,7867,7867,,,1187,1187
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,SC,Round 2,State Quota,459526,461898,7838,7862,,,681,685
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Round 2,NRI Quota,1215795,1313547,11948,12083,,,3044,3101
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Round 2,NRI Quota,1122087,1122087,11797,11797,,,2088,2088
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,SC,Round 2,NRI Quota,1114335,1114335,11777,11777,,,1012,1012
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Round 2,NRI Quota,1083544,1083544,11706,11706,,,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Round 2,UR (Open/Merit),383719,474231,7079,7988,,,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Round 3,State Quota,436440,516072,4088,4465,,,1271,1348
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Round 3,State Quota,404282,511687,3916,4446,,,957,1025
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EWS,Round 3,State Quota,416496,518365,3983,4479,,,656,699
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,SC,Round 3,State Quota,459526,514968,4194,4458,,,406,435
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Round 3,NRI Quota,694325,1220663,5271,6802,,,1502,1850
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EWS,Round 3,NRI Quota,854339,854339,5918,5918,,,799,799
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Round 3,NRI Quota,742760,987551,5480,6368,,,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Round 3,UR (Open/Merit),386260,517559,3833,4475,,,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Stray Vacancy Round,State Quota,476668,553894,1585,1703,,,489,520
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Stray Vacancy Round,State Quota,541955,541955,1683,1683,,,400,400
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EWS,Stray Vacancy Round,State Quota,524190,524190,1664,1664,,,238,238
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,SC,Stray Vacancy Round,State Quota,562102,583721,1717,1758,,,216,223
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Stray Vacancy Round,NRI Quota,773631,773729,2156,2157,,,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),186623,629238,1000,1833,,,,
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,BC,Special Stray Vacancy Round (R5),State Quota,481396,481396,1087,1087,,,358,358
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Special Stray Vacancy Round (R5),State Quota,403075,403075,1004,1004,,,262,262
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,EBC,Special Stray Vacancy Round (R5),NRI Quota,790545,790545,1407,1407,,,327,327
+"Himalaya Medical College & Hospital, Paliganj, Patna",Bihar,UR,Special Stray Vacancy Round (R5),UR (Open/Merit),506677,506677,1116,1116,,,,
+"Katihar Medical College, Katihar",Bihar,BC,Round 1,State Quota,55384,126570,2965,4326,497,447,1057,1509
+"Katihar Medical College, Katihar",Bihar,EBC,Round 1,State Quota,37720,123695,2307,4288,514,449,550,1075
+"Katihar Medical College, Katihar",Bihar,EWS,Round 1,State Quota,47227,121182,2697,4240,504,450,587,820
+"Katihar Medical College, Katihar",Bihar,BC,Round 1,Muslim Minority Quota,126722,144402,4330,4611,447,436,1511,1585
+"Katihar Medical College, Katihar",Bihar,EBC,Round 1,Muslim Minority Quota,127431,230741,4345,5646,447,390,1087,1336
+"Katihar Medical College, Katihar",Bihar,EWS,Round 1,Muslim Minority Quota,126955,235945,4336,5686,447,387,831,993
+"Katihar Medical College, Katihar",Bihar,UR,Round 1,Muslim Minority Quota,130537,234485,4400,5674,445,388,,
+"Katihar Medical College, Katihar",Bihar,BC,Round 1,NRI Quota,500845,695899,8230,9799,280,225,2325,2588
+"Katihar Medical College, Katihar",Bihar,EBC,Round 1,NRI Quota,931879,1084344,11147,11708,173,146,1993,2075
+"Katihar Medical College, Katihar",Bihar,EWS,Round 1,NRI Quota,914055,914055,11079,11079,176,176,1394,1394
+"Katihar Medical College, Katihar",Bihar,SC,Round 1,NRI Quota,880569,880569,10924,10924,183,183,950,950
+"Katihar Medical College, Katihar",Bihar,UR,Round 1,NRI Quota,560021,1095369,8718,11733,262,145,,
+"Katihar Medical College, Katihar",Bihar,UR,Round 1,UR (Open/Merit),28803,126136,1787,4320,524,447,,
+"Katihar Medical College, Katihar",Bihar,BC,Round 2,State Quota,55384,131914,2965,4424,,,1057,1532
+"Katihar Medical College, Katihar",Bihar,EBC,Round 2,State Quota,41334,128013,2481,4356,,,601,1091
+"Katihar Medical College, Katihar",Bihar,EWS,Round 2,State Quota,32979,129537,2054,4382,,,461,839
+"Katihar Medical College, Katihar",Bihar,BC,Round 2,Muslim Minority Quota,126722,126722,4330,4330,,,1511,1511
+"Katihar Medical College, Katihar",Bihar,EBC,Round 2,Muslim Minority Quota,237739,238129,5701,5708,,,1345,1346
+"Katihar Medical College, Katihar",Bihar,EWS,Round 2,Muslim Minority Quota,154082,236043,4730,5687,,,881,994
+"Katihar Medical College, Katihar",Bihar,UR,Round 2,Muslim Minority Quota,135096,242879,4478,5750,,,,
+"Katihar Medical College, Katihar",Bihar,BC,Round 2,NRI Quota,1104620,1291032,11760,12048,,,2965,3085
+"Katihar Medical College, Katihar",Bihar,EBC,Round 2,NRI Quota,1195628,1195628,11922,11922,,,2120,2120
+"Katihar Medical College, Katihar",Bihar,SC,Round 2,NRI Quota,880569,1226894,10924,11974,,,950,950
+"Katihar Medical College, Katihar",Bihar,UR,Round 2,NRI Quota,1042128,1042128,11577,11577,,,,
+"Katihar Medical College, Katihar",Bihar,UR,Round 2,UR (Open/Merit),115412,123648,4129,4287,,,,
+"Katihar Medical College, Katihar",Bihar,BC,Round 3,State Quota,32144,134949,1089,2545,,,408,930
+"Katihar Medical College, Katihar",Bihar,EBC,Round 3,State Quota,44860,85541,1476,2088,,,361,548
+"Katihar Medical College, Katihar",Bihar,EBC,Round 3,Muslim Minority Quota,170553,281732,2801,3395,,,743,858
+"Katihar Medical College, Katihar",Bihar,EWS,Round 3,Muslim Minority Quota,154082,281391,2672,3393,,,506,599
+"Katihar Medical College, Katihar",Bihar,UR,Round 3,Muslim Minority Quota,138623,272377,2582,3348,,,,
+"Katihar Medical College, Katihar",Bihar,BC,Round 3,NRI Quota,809754,1161943,5770,6731,,,1602,1813
+"Katihar Medical College, Katihar",Bihar,EBC,Round 3,NRI Quota,1195628,1195628,6774,6774,,,1327,1327
+"Katihar Medical College, Katihar",Bihar,SC,Round 3,NRI Quota,1055657,1226894,6548,6812,,,599,599
+"Katihar Medical College, Katihar",Bihar,UR,Round 3,NRI Quota,676971,1095369,5185,6627,,,,
+"Katihar Medical College, Katihar",Bihar,UR,Round 3,UR (Open/Merit),99962,135519,2233,2553,,,,
+"Katihar Medical College, Katihar",Bihar,EBC,Stray Vacancy Round,State Quota,34416,34416,186,186,,,44,44
+"Katihar Medical College, Katihar",Bihar,UR,Stray Vacancy Round,NRI Quota,942376,973334,2484,2545,,,,
+"Katihar Medical College, Katihar",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),110432,110432,727,727,,,,
+"Katihar Medical College, Katihar",Bihar,BC,Special Stray Vacancy Round (R5),NRI Quota,490591,490591,1093,1093,,,360,360
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,BC,Round 1,State Quota,100725,307128,3917,6364,464,354,1374,1995
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EBC,Round 1,State Quota,137600,306703,4521,6358,440,354,1133,1442
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EWS,Round 1,State Quota,154502,302264,4732,6308,430,356,882,1057
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,SC,Round 1,State Quota,292068,292068,6210,6210,361,361,463,463
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,BC,Round 1,NRI Quota,870203,870203,10877,10877,185,185,2796,2796
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EBC,Round 1,NRI Quota,964130,999996,11294,11434,167,160,2016,2034
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EWS,Round 1,NRI Quota,705896,705896,9866,9866,222,222,1320,1320
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,UR,Round 1,NRI Quota,824628,1029420,10645,11531,195,155,,
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,UR,Round 1,UR (Open/Merit),67445,305510,3274,6347,487,355,,
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,BC,Round 2,State Quota,134557,304997,4466,6341,,,1544,1992
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EBC,Round 2,State Quota,137600,301397,4521,6301,,,1133,1434
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EWS,Round 2,State Quota,194561,281391,5264,6102,,,946,1038
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,SC,Round 2,State Quota,215694,215694,5488,5488,,,329,329
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,BC,Round 2,NRI Quota,853922,1113071,10790,11775,,,2778,2975
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EWS,Round 2,NRI Quota,1038668,1038668,11563,11563,,,1425,1425
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,SC,Round 2,NRI Quota,908788,908788,11050,11050,,,961,961
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,UR,Round 2,NRI Quota,691738,1049504,9763,11612,,,,
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,UR,Round 2,UR (Open/Merit),135707,305510,4486,6347,,,,
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,BC,Round 3,State Quota,134557,226170,2539,3150,,,927,1082
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EBC,Round 3,State Quota,137600,177283,2572,2858,,,697,752
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EWS,Round 3,State Quota,109626,109626,2314,2314,,,453,453
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,BC,Round 3,NRI Quota,689134,738575,5242,5459,,,1499,1537
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EWS,Round 3,NRI Quota,840675,840675,5862,5862,,,797,797
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,UR,Round 3,NRI Quota,764958,847527,5590,5887,,,,
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,UR,Round 3,UR (Open/Merit),49305,284199,1579,3405,,,,
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,EWS,Stray Vacancy Round,State Quota,164606,164606,916,916,,,159,159
+"Lord Buddha Koshi Medical College & Hospital, Saharsa",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),151160,151160,872,872,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,BC,Round 1,State Quota,47554,123845,2704,4291,504,449,965,1494
+"M.G.M. Medical College, Kishanganj",Bihar,EBC,Round 1,State Quota,37973,121775,2320,4251,513,450,553,1067
+"M.G.M. Medical College, Kishanganj",Bihar,EWS,Round 1,State Quota,48126,116907,2728,4158,504,453,596,812
+"M.G.M. Medical College, Kishanganj",Bihar,BC,Round 1,NRI Quota,593171,851445,8999,10780,252,189,2460,2774
+"M.G.M. Medical College, Kishanganj",Bihar,EBC,Round 1,NRI Quota,753412,793703,10197,10473,211,201,1880,1907
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 1,NRI Quota,525462,883088,8433,10935,273,183,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 1,Sikh Minority Quota,142460,382891,4587,7067,437,323,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 1,UR (Open/Merit),53101,125773,2891,4318,499,448,,
+"M.G.M. Medical College, Kishanganj",Bihar,BC,Round 2,State Quota,43511,130802,2576,4406,,,922,1526
+"M.G.M. Medical College, Kishanganj",Bihar,EBC,Round 2,State Quota,64457,114644,3202,4120,,,799,1034
+"M.G.M. Medical College, Kishanganj",Bihar,EWS,Round 2,State Quota,85401,107600,3654,4014,,,744,787
+"M.G.M. Medical College, Kishanganj",Bihar,BC,Round 2,NRI Quota,851445,851445,10780,10780,,,2774,2774
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 2,NRI Quota,699274,1037011,9825,11556,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 2,Sikh Minority Quota,287579,391662,6161,7153,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 2,UR (Open/Merit),61290,131136,3137,4411,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,BC,Round 3,State Quota,43511,43511,1456,1456,,,551,551
+"M.G.M. Medical College, Kishanganj",Bihar,BC,Round 3,NRI Quota,592928,592928,4804,4804,,,1422,1422
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 3,NRI Quota,699274,850673,5297,5902,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 3,Sikh Minority Quota,210892,303448,3057,3478,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Round 3,UR (Open/Merit),61290,61290,1791,1791,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Stray Vacancy Round,NRI Quota,710415,711007,1978,1980,,,,
+"M.G.M. Medical College, Kishanganj",Bihar,UR,Stray Vacancy Round,Sikh Minority Quota,299994,342064,1270,1350,,,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 1,State Quota,295603,369859,6250,6939,359,328,1970,2105
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 1,State Quota,299273,369118,6282,6932,357,328,1432,1529
+"Madhubani Medical College, Madhubani",Bihar,EWS,Round 1,State Quota,305208,370736,6343,6944,355,327,1062,1113
+"Madhubani Medical College, Madhubani",Bihar,SC,Round 1,State Quota,339519,339519,6639,6639,340,340,522,522
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 1,Muslim Minority Quota,464178,524026,7881,8423,293,273,2266,2355
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 1,Muslim Minority Quota,374005,535213,6974,8506,326,270,1536,1707
+"Madhubani Medical College, Madhubani",Bihar,EWS,Round 1,Muslim Minority Quota,374130,538940,6978,8539,326,269,1116,1232
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 1,Muslim Minority Quota,374039,539283,6977,8541,326,268,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 1,NRI Quota,1038529,1228371,11561,11978,154,125,2921,3060
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 1,NRI Quota,1119695,1262114,11789,12013,140,120,2085,2139
+"Madhubani Medical College, Madhubani",Bihar,SC,Round 1,NRI Quota,1114335,1114335,11777,11777,141,141,1012,1012
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 1,NRI Quota,647405,1095555,9412,11735,237,144,,
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 1,UR (Open/Merit),248514,372645,5793,6961,381,326,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 2,State Quota,328140,411152,6529,7356,,,2030,2179
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 2,State Quota,299273,407841,6282,7320,,,1432,1584
+"Madhubani Medical College, Madhubani",Bihar,EWS,Round 2,State Quota,367971,410889,6920,7352,,,1111,1148
+"Madhubani Medical College, Madhubani",Bihar,SC,Round 2,State Quota,376959,376959,7010,7010,,,574,574
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 2,Muslim Minority Quota,433551,654149,7592,9464,,,2224,2540
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 2,Muslim Minority Quota,396973,640475,7203,9360,,,1569,1798
+"Madhubani Medical College, Madhubani",Bihar,EWS,Round 2,Muslim Minority Quota,382662,650535,7065,9442,,,1122,1285
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 2,Muslim Minority Quota,410405,652932,7346,9457,,,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 2,NRI Quota,1105024,1158035,11763,11863,,,2967,3010
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 2,NRI Quota,1262114,1262114,12013,12013,,,2139,2139
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 2,UR (Open/Merit),251687,410616,5810,7348,,,1080,1080
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 3,State Quota,330285,420172,3592,4000,,,1166,1252
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 3,State Quota,305277,420182,3485,4001,,,876,965
+"Madhubani Medical College, Madhubani",Bihar,EWS,Round 3,State Quota,389100,410889,3846,3957,,,640,652
+"Madhubani Medical College, Madhubani",Bihar,SC,Round 3,State Quota,273257,415285,3355,3976,,,210,360
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 3,Muslim Minority Quota,433551,473127,4070,4266,,,1266,1304
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 3,Muslim Minority Quota,417539,498378,3988,4393,,,963,1021
+"Madhubani Medical College, Madhubani",Bihar,EWS,Round 3,Muslim Minority Quota,461679,633621,4204,4990,,,675,738
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 3,Muslim Minority Quota,410405,641353,3954,5029,,,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Round 3,NRI Quota,1028262,1291032,6474,6872,,,1736,1875
+"Madhubani Medical College, Madhubani",Bihar,EBC,Round 3,NRI Quota,1027721,1127547,6473,6686,,,1271,1300
+"Madhubani Medical College, Madhubani",Bihar,EWS,Round 3,NRI Quota,1016260,1016260,6445,6445,,,836,836
+"Madhubani Medical College, Madhubani",Bihar,SC,Round 3,NRI Quota,1208911,1288938,6785,6866,,,655,655
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 3,NRI Quota,709305,1092985,5336,6624,,,,
+"Madhubani Medical College, Madhubani",Bihar,UR,Round 3,UR (Open/Merit),218856,411534,3112,3959,,,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Stray Vacancy Round,State Quota,371256,411740,1393,1472,,,449,466
+"Madhubani Medical College, Madhubani",Bihar,UR,Stray Vacancy Round,Muslim Minority Quota,433366,433366,1516,1516,,,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Stray Vacancy Round,NRI Quota,919939,919939,2435,2435,,,669,669
+"Madhubani Medical College, Madhubani",Bihar,EWS,Stray Vacancy Round,NRI Quota,1040366,1040366,2660,2660,,,319,319
+"Madhubani Medical College, Madhubani",Bihar,UR,Stray Vacancy Round,NRI Quota,878612,1096287,2366,2733,,,,
+"Madhubani Medical College, Madhubani",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),349806,432461,1367,1512,,,,
+"Madhubani Medical College, Madhubani",Bihar,BC,Special Stray Vacancy Round (R5),NRI Quota,1027530,1121989,1685,1757,,,485,485
+"Madhubani Medical College, Madhubani",Bihar,EBC,Special Stray Vacancy Round (R5),NRI Quota,1101377,1140884,1748,1780,,,379,388
+"Madhubani Medical College, Madhubani",Bihar,SC,Special Stray Vacancy Round (R5),NRI Quota,997767,1121778,1651,1756,,,171,178
+"Madhubani Medical College, Madhubani",Bihar,UR,Special Stray Vacancy Round (R5),NRI Quota,1001854,1066750,1655,1715,,,,
+"Madhubani Medical College, Madhubani",Bihar,UR,Special Stray Vacancy Round (R5),UR (Open/Merit),286434,286434,874,874,,,,
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,BC,Round 3,State Quota,478293,658103,4296,5100,,,1311,1480
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EBC,Round 3,State Quota,584838,652757,4763,5078,,,1050,1086
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EWS,Round 3,State Quota,485200,648569,4337,5057,,,686,742
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,SC,Round 3,State Quota,560040,658309,4649,5102,,,457,502
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,BC,Round 3,NRI Quota,1009744,1009744,6429,6429,,,1724,1724
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EBC,Round 3,NRI Quota,1060367,1060367,6558,6558,,,1282,1282
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EWS,Round 3,NRI Quota,1029741,1029741,6475,6475,,,839,839
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,UR,Round 3,NRI Quota,793693,1075737,5708,6591,,,,
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,UR,Round 3,UR (Open/Merit),276901,657944,3373,5098,,,,
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,BC,Stray Vacancy Round,State Quota,575754,665811,1743,1889,,,528,557
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EBC,Stray Vacancy Round,State Quota,563713,689907,1720,1930,,,408,443
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EWS,Stray Vacancy Round,State Quota,681994,693346,1909,1937,,,264,270
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,SC,Stray Vacancy Round,State Quota,687808,687808,1926,1926,,,244,244
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EBC,Stray Vacancy Round,NRI Quota,757979,757979,2113,2113,,,460,460
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,UR,Stray Vacancy Round,NRI Quota,817579,934654,2251,2461,,,,
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),245947,680293,1158,1905,,,,
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,EWS,Special Stray Vacancy Round (R5),State Quota,531381,531381,1128,1128,,,190,190
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,UR,Special Stray Vacancy Round (R5),NRI Quota,965544,971179,1622,1626,,,,
+"Mahabodhi Medical College & Hospital, Naknupa, Sherghati, Gaya",Bihar,UR,Special Stray Vacancy Round (R5),UR (Open/Merit),553013,553013,1145,1145,,,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,BC,Round 1,State Quota,76072,289173,3466,6178,481,362,1230,1957
+"Narayan Medical College & Hospital, Sasaram",Bihar,EBC,Round 1,State Quota,105111,289571,3977,6181,461,362,995,1415
+"Narayan Medical College & Hospital, Sasaram",Bihar,EWS,Round 1,State Quota,114140,283468,4113,6118,455,365,804,1039
+"Narayan Medical College & Hospital, Sasaram",Bihar,SC,Round 1,State Quota,178447,262593,5076,5919,417,374,254,419
+"Narayan Medical College & Hospital, Sasaram",Bihar,ST,Round 1,State Quota,174314,174314,5012,5012,419,419,20,20
+"Narayan Medical College & Hospital, Sasaram",Bihar,BC,Round 1,NRI Quota,882447,1030052,10933,11534,183,155,2805,2912
+"Narayan Medical College & Hospital, Sasaram",Bihar,EWS,Round 1,NRI Quota,467178,1057234,7916,11630,292,150,1190,1431
+"Narayan Medical College & Hospital, Sasaram",Bihar,SC,Round 1,NRI Quota,993797,993797,11406,11406,161,161,985,985
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Round 1,NRI Quota,589752,1090355,8974,11725,253,145,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Round 1,UR (Open/Merit),96073,290048,3835,6186,467,362,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,BC,Round 2,State Quota,132632,304650,4438,6335,,,1537,1990
+"Narayan Medical College & Hospital, Sasaram",Bihar,EBC,Round 2,State Quota,105111,311448,3977,6401,,,995,1451
+"Narayan Medical College & Hospital, Sasaram",Bihar,EWS,Round 2,State Quota,133713,305208,4459,6343,,,847,1062
+"Narayan Medical College & Hospital, Sasaram",Bihar,SC,Round 2,State Quota,292068,292068,6210,6210,,,463,463
+"Narayan Medical College & Hospital, Sasaram",Bihar,ST,Round 2,State Quota,174314,174314,5012,5012,,,20,20
+"Narayan Medical College & Hospital, Sasaram",Bihar,BC,Round 2,NRI Quota,952792,1312145,11244,12079,,,2859,3098
+"Narayan Medical College & Hospital, Sasaram",Bihar,EWS,Round 2,NRI Quota,882219,1057234,10931,11630,,,1382,1431
+"Narayan Medical College & Hospital, Sasaram",Bihar,SC,Round 2,NRI Quota,993797,1312625,11406,12080,,,985,1086
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Round 2,NRI Quota,589752,1093036,8974,11731,,,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Round 2,UR (Open/Merit),83161,311052,3608,6398,,,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,BC,Round 3,State Quota,90539,253377,2142,3258,,,791,1106
+"Narayan Medical College & Hospital, Sasaram",Bihar,EBC,Round 3,State Quota,46482,291011,1504,3433,,,368,865
+"Narayan Medical College & Hospital, Sasaram",Bihar,EWS,Round 3,State Quota,100834,214288,2242,3082,,,443,560
+"Narayan Medical College & Hospital, Sasaram",Bihar,SC,Round 3,State Quota,196353,196353,2982,2982,,,111,111
+"Narayan Medical College & Hospital, Sasaram",Bihar,BC,Round 3,NRI Quota,696911,918606,5287,6146,,,1504,1680
+"Narayan Medical College & Hospital, Sasaram",Bihar,EBC,Round 3,NRI Quota,457544,457544,4186,4186,,,993,993
+"Narayan Medical College & Hospital, Sasaram",Bihar,SC,Round 3,NRI Quota,748048,748048,5516,5516,,,538,538
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Round 3,NRI Quota,395445,950884,3872,6248,,,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Round 3,UR (Open/Merit),28834,309837,919,3505,,,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,EWS,Stray Vacancy Round,State Quota,171686,171686,943,943,,,165,165
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Stray Vacancy Round,NRI Quota,616103,955380,1809,2510,,,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),133823,206926,827,1063,,,,
+"Narayan Medical College & Hospital, Sasaram",Bihar,UR,Special Stray Vacancy Round (R5),UR (Open/Merit),214633,214633,756,756,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,BC,Round 1,State Quota,81987,391588,3588,7151,477,319,1265,2137
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EBC,Round 1,State Quota,230455,382534,5642,7061,390,323,1334,1556
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EWS,Round 1,State Quota,178969,382549,5082,7062,417,323,923,1121
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,SC,Round 1,State Quota,179845,377253,5091,7013,416,325,257,575
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,BC,Round 1,NRI Quota,853922,943579,10790,11195,189,171,2778,2850
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Round 1,NRI Quota,725900,1057711,9992,11634,217,150,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Round 1,UR (Open/Merit),104832,393690,3970,7171,461,318,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,BC,Round 2,State Quota,81987,432331,3588,7575,,,1265,2223
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EBC,Round 2,State Quota,276261,428716,6058,7545,,,1398,1611
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EWS,Round 2,State Quota,346594,433298,6708,7586,,,1089,1164
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,SC,Round 2,State Quota,225223,225223,5589,5589,,,355,355
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,BC,Round 2,NRI Quota,943579,1258911,11195,12008,,,2850,2850
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EBC,Round 2,NRI Quota,1114420,1265505,11778,12014,,,2081,2140
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,SC,Round 2,NRI Quota,1188877,1188877,11908,11908,,,1043,1043
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,ST,Round 2,NRI Quota,1217081,1222155,11952,11964,,,124,124
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Round 2,NRI Quota,725900,1043449,9992,11583,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Round 2,UR (Open/Merit),255998,435788,5849,7614,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,BC,Round 3,State Quota,81987,445569,2045,4132,,,756,1279
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EBC,Round 3,State Quota,340362,440076,3637,4106,,,906,984
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EWS,Round 3,State Quota,269498,448421,3333,4146,,,591,667
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,SC,Round 3,State Quota,371379,371379,3760,3760,,,316,316
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,BC,Round 3,NRI Quota,720003,903994,5374,6086,,,1520,1670
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EBC,Round 3,NRI Quota,874064,874064,5990,5990,,,1190,1190
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,SC,Round 3,NRI Quota,1188877,1188877,6764,6764,,,630,630
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Round 3,NRI Quota,713202,766786,5350,5600,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Round 3,UR (Open/Merit),96853,446516,2201,4137,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,BC,Stray Vacancy Round,State Quota,290948,457335,1257,1556,,,421,481
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EBC,Stray Vacancy Round,State Quota,473262,473262,1580,1580,,,389,389
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Stray Vacancy Round,NRI Quota,835259,835259,2280,2280,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),91422,471005,638,1576,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,EBC,Special Stray Vacancy Round (R5),State Quota,401905,401905,1002,1002,,,261,261
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Special Stray Vacancy Round (R5),NRI Quota,965182,965182,1621,1621,,,,
+"Netaji Subhash Medical College & Hospital, Bihta",Bihar,UR,Special Stray Vacancy Round (R5),UR (Open/Merit),363106,404890,956,1009,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,BC,Round 1,State Quota,167430,367910,4912,6919,423,328,1662,2103
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EBC,Round 1,State Quota,103825,364836,3955,6887,462,330,990,1524
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EWS,Round 1,State Quota,50596,366394,2822,6911,501,329,613,1109
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,ST,Round 1,State Quota,267899,267899,5972,5972,372,372,48,48
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,BC,Round 1,NRI Quota,817580,955724,10613,11256,196,168,2732,2862
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,SC,Round 1,NRI Quota,855428,908788,10801,11050,188,177,941,961
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Round 1,NRI Quota,750059,971766,10174,11319,212,165,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Round 1,UR (Open/Merit),49305,366938,2777,6914,502,329,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,BC,Round 2,State Quota,170529,367910,4951,6919,,,1673,2103
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EBC,Round 2,State Quota,277276,374842,6069,6984,,,1402,1539
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EWS,Round 2,State Quota,183834,370736,5138,6944,,,931,1113
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,SC,Round 2,State Quota,354933,371398,6794,6954,,,547,569
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,BC,Round 2,NRI Quota,955724,993754,11256,11405,,,2862,2889
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EBC,Round 2,NRI Quota,999996,999996,11434,11434,,,2034,2034
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EWS,Round 2,NRI Quota,984255,984255,11368,11368,,,1410,1410
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Round 2,NRI Quota,750059,1073374,10174,11679,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Round 2,UR (Open/Merit),49305,375395,2777,6990,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,BC,Round 3,State Quota,195287,383885,2977,3821,,,1045,1212
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EBC,Round 3,State Quota,88552,384301,2118,3824,,,556,947
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EWS,Round 3,State Quota,139178,384611,2584,3826,,,487,635
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,SC,Round 3,State Quota,354933,376959,3702,3787,,,303,321
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,BC,Round 3,NRI Quota,631500,822713,4979,5813,,,1456,1609
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EBC,Round 3,NRI Quota,794677,794677,5718,5718,,,1159,1159
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,SC,Round 3,NRI Quota,836337,836337,5850,5850,,,561,561
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Round 3,NRI Quota,572488,821398,4708,5810,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Round 3,UR (Open/Merit),153797,383864,2669,3820,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,BC,Stray Vacancy Round,State Quota,240910,394608,1147,1432,,,393,458
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EWS,Stray Vacancy Round,State Quota,242286,323005,1151,1321,,,187,205
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,SC,Stray Vacancy Round,State Quota,397674,397674,1437,1437,,,158,158
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Stray Vacancy Round,NRI Quota,841315,841315,2290,2290,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),169264,386419,930,1422,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,EBC,Special Stray Vacancy Round (R5),State Quota,117231,117231,537,537,,,157,157
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Special Stray Vacancy Round (R5),NRI Quota,763208,763208,1369,1369,,,,
+"R.D.J.M Medical College, Turki, Muzaffarpur",Bihar,UR,Special Stray Vacancy Round (R5),UR (Open/Merit),185961,185961,694,694,,,,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,BC,Round 1,State Quota,66926,349905,3262,6747,488,336,1155,2071
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EBC,Round 1,State Quota,85849,350099,3663,6749,474,336,921,1504
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EWS,Round 1,State Quota,174532,350356,5019,6752,419,336,913,1095
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,SC,Round 1,State Quota,294731,294731,6245,6245,360,360,468,468
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,BC,Round 1,NRI Quota,903994,980163,11024,11350,178,164,2821,2876
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EBC,Round 1,NRI Quota,852665,863135,10786,10833,189,187,1943,1952
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EWS,Round 1,NRI Quota,882219,882219,10931,10931,183,183,1382,1382
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,UR,Round 1,NRI Quota,449493,974960,7731,11337,298,165,,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,UR,Round 1,UR (Open/Merit),51398,350554,2842,6755,501,335,,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,BC,Round 2,State Quota,132287,369859,4434,6939,,,1535,2105
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EBC,Round 2,State Quota,176012,364893,5041,6888,,,1226,1525
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EWS,Round 2,State Quota,208709,360458,5425,6841,,,967,1105
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,SC,Round 2,State Quota,331841,331841,6566,6566,,,510,510
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,BC,Round 2,NRI Quota,973790,1296496,11333,12057,,,2873,3089
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EBC,Round 2,NRI Quota,852665,1221593,10786,11963,,,1943,2129
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,SC,Round 2,NRI Quota,1124129,1295384,11801,12055,,,1080,1080
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,UR,Round 2,NRI Quota,660697,1051777,9515,11617,,,,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,UR,Round 2,UR (Open/Merit),153797,375450,4725,6991,,,,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,BC,Round 3,State Quota,251847,355378,3255,3706,,,1105,1190
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EBC,Round 3,State Quota,164570,364893,2751,3736,,,732,927
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EWS,Round 3,State Quota,143926,357852,2618,3711,,,495,628
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,SC,Round 3,State Quota,331841,331841,3598,3598,,,274,274
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,BC,Round 3,NRI Quota,1138720,1164557,6704,6734,,,1804,1814
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,EBC,Round 3,NRI Quota,1221593,1221593,6806,6806,,,1332,1332
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,SC,Round 3,NRI Quota,1295384,1295384,6877,6877,,,657,657
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,UR,Round 3,NRI Quota,849651,1051777,5894,6540,,,,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,UR,Round 3,UR (Open/Merit),124287,374603,2452,3770,,,,
+"Shri Narayan Medical Institute & Hospital, Saharsa",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),132961,132961,823,823,,,,
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,BC,Round 3,State Quota,366683,661638,3746,5121,,,1199,1485
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,EBC,Round 3,State Quota,463049,663497,4211,5131,,,999,1093
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,EWS,Round 3,State Quota,543808,628246,4578,4959,,,706,737
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,SC,Round 3,State Quota,616322,616322,4904,4904,,,485,485
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,ST,Round 3,State Quota,543900,543900,4579,4579,,,55,55
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,BC,Round 3,NRI Quota,848297,928813,5891,6176,,,1631,1686
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,EWS,Round 3,NRI Quota,959977,959977,6293,6293,,,826,826
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,UR,Round 3,NRI Quota,701404,1006276,5303,6419,,,,
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,UR,Round 3,UR (Open/Merit),412984,663464,3968,5130,,,,
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,BC,Stray Vacancy Round,State Quota,633790,706195,1842,1966,,,544,568
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,EBC,Stray Vacancy Round,State Quota,610162,687021,1796,1924,,,420,441
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,EWS,Stray Vacancy Round,State Quota,303542,704928,1277,1960,,,200,274
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,SC,Stray Vacancy Round,State Quota,703715,703715,1959,1959,,,247,247
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,UR,Stray Vacancy Round,NRI Quota,899333,947466,2395,2494,,,,
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),511917,705076,1639,1962,,,,
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,BC,Special Stray Vacancy Round (R5),State Quota,612620,612620,1201,1201,,,382,382
+"Shyamlal Chandrashekhar Medical College, Khagaria",Bihar,UR,Special Stray Vacancy Round (R5),UR (Open/Merit),539776,601495,1133,1186,,,,
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,BC,Round 3,State Quota,537311,673306,4553,5168,,,1367,1494
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,EBC,Round 3,State Quota,646601,667406,5050,5147,,,1081,1094
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,EWS,Round 3,State Quota,677355,684943,5187,5219,,,753,758
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,BC,Round 3,NRI Quota,1089588,1119238,6616,6671,,,1767,1781
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,UR,Round 3,NRI Quota,1032614,1087930,6483,6609,,,,
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,UR,Round 3,UR (Open/Merit),483230,684399,4322,5215,,,,
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,BC,Stray Vacancy Round,State Quota,685933,685933,1921,1921,,,562,562
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,EBC,Stray Vacancy Round,State Quota,621803,621803,1818,1818,,,423,423
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,UR,Stray Vacancy Round,NRI Quota,979465,1000521,2553,2597,,,,
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,UR,Stray Vacancy Round,UR (Open/Merit),447186,681912,1539,1907,,,,
+"Viraat Ramayan Institute of Medical Science, Koyla Belwa, East Champaran",Bihar,UR,Special Stray Vacancy Round (R5),NRI Quota,794121,1032237,1414,1689,,,,

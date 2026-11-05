@@ -1,0 +1,20 @@
+state,raw_category,canonical_category,is_pwd,modifier,confidence,status,first_seen,last_seen,notes
+Karnataka,GMPH — Govt Quota Private | HK (Hyderabad-Karnataka) Region,OTHER,False,GMPH   Govt Quota Private   HK  Hyderabad-Karnataka  Region,LOW,needs_review,2026-07-09,2026-07-09,No rule matched - needs manual classification
+Karnataka,Govt Quota Private (Karnataka Domicile),OTHER,False,Govt Quota Private  Karnataka Domicile,LOW,needs_review,2026-07-09,2026-07-09,No rule matched - needs manual classification
+Andhra Pradesh,MINORITY,MINORITY,False,MINORITY,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Deemed / Paid Quota (MCC / College),MANAGEMENT,False,Deemed / Paid Quota  MCC / College,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Management — EWS/Open (HK Region),MANAGEMENT,False,Management   EWS/Open  HK Region,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Management — General,MANAGEMENT,False,Management   General,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Management — General EWS/Open,MANAGEMENT,False,Management   General EWS/Open,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Management — Minority Muslim,MANAGEMENT,False,Management   Minority Muslim,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Management — Minority Muslim (HK Region),MANAGEMENT,False,Management   Minority Muslim  HK Region,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Management — Unreserved,MANAGEMENT,False,Management   Unreserved,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Open / Management Quota — ALL INDIA ELIGIBLE,MANAGEMENT,False,Open / Management Quota   ALL INDIA ELIGIBLE,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 1 (St. John's Only),MINORITY,False,Religious Community   Cat 1  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 2 (St. John's Only),MINORITY,False,Religious Community   Cat 2  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 3 (St. John's Only),MINORITY,False,Religious Community   Cat 3  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 4 (St. John's Only),MINORITY,False,Religious Community   Cat 4  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 5 (St. John's Only),MINORITY,False,Religious Community   Cat 5  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 6 (St. John's Only),MINORITY,False,Religious Community   Cat 6  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 7 (St. John's Only),MINORITY,False,Religious Community   Cat 7  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
+Karnataka,Religious Community — Cat 8 (St. John's Only),MINORITY,False,Religious Community   Cat 8  St. John s Only,MEDIUM,needs_review,2026-07-09,2026-07-09,
